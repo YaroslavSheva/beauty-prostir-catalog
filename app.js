@@ -113,6 +113,27 @@ function resolvePhotoUrlForSize(value, size = PRODUCT_CARD_THUMB_SIZE) {
   return raw;
 }
 
+function roundPriceToSeven(value) {
+  const numeric = Math.round(Number(value) || 0);
+  if (numeric <= 0) {
+    return 0;
+  }
+
+  const rounded = 7 + Math.round((numeric - 7) / 10) * 10;
+  return Math.max(7, rounded);
+}
+
+function getClientPrice(product) {
+  const purchasePrice = Number(product.purchase_price || product.purchasePrice || 0);
+  if (Number.isFinite(purchasePrice) && purchasePrice > 0) {
+    const basePrice = purchasePrice >= 500 ? purchasePrice * 1.5 : purchasePrice;
+    return roundPriceToSeven(basePrice);
+  }
+
+  const fallbackPrice = Number(product.my_retail || product.retail_price || 0);
+  return roundPriceToSeven(fallbackPrice);
+}
+
 function openImageLightbox(src, alt) {
   if (!els.imageLightbox || !els.imageLightboxPhoto || !src) {
     return;
@@ -416,7 +437,8 @@ function buildProducts(catalogData) {
       name: clean(product.name || product.product).replace(/\s+/g, " "),
       volume: clean(product.volume),
       supplier: clean(product.supplier),
-      price: Number(product.my_retail || product.retail_price || 0),
+      purchasePrice: Number(product.purchase_price || product.purchasePrice || 0),
+      price: getClientPrice(product),
       photoUrl: resolvePhotoUrl(product.photo_url || product.photoUrl),
     }))
     .filter((product) => product.sku && product.name);

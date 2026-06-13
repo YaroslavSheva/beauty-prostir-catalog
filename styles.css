@@ -1337,22 +1337,67 @@ h3 {
 
 @media (max-width: 900px) {
   .site-main {
-    width: min(100%, calc(100% - 24px));
-    padding-top: 14px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 8px;
+    padding-bottom: 48px;
   }
 
   .topbar {
     align-items: flex-start;
     flex-direction: column;
+    min-height: 0;
+    padding: 10px 12px;
+    gap: 10px;
   }
 
   .nav {
-    justify-content: flex-start;
+    display: none;
+  }
+
+  .brand {
+    min-width: 0;
+    padding: 8px 10px;
+    gap: 10px;
+  }
+
+  .brand-logo {
+    width: 42px;
+    height: 42px;
   }
 
   .hero {
+    order: 1;
     grid-template-columns: 1fr;
-    padding: 18px;
+    gap: 12px;
+    padding: 14px;
+  }
+
+  .hero-copy {
+    gap: 0;
+  }
+
+  .hero-lead {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 1.45;
+  }
+
+  .hero-badges,
+  .hero-trust,
+  .hero-spotlight {
+    display: none;
+  }
+
+  .hero-actions {
+    margin-top: 14px;
+  }
+
+  .hero-actions .primary-action,
+  .hero-actions .secondary-action {
+    flex: 1 1 180px;
+    justify-content: center;
   }
 
   .metrics,
@@ -1364,16 +1409,85 @@ h3 {
     grid-template-columns: 1fr;
   }
 
-  .hero-trust {
-    grid-template-columns: 1fr;
+  .catalog-section {
+    order: 0;
+    margin-top: 12px;
+    padding: 14px;
+  }
+
+  .cart-section,
+  .expertise-section,
+  .consultation-section {
+    order: 1;
+  }
+
+  .catalog-section,
+  .cart-section,
+  .expertise-section,
+  .consultation-section {
+    box-shadow: none;
+  }
+
+  .section-heading {
+    margin-bottom: 16px;
   }
 
   .search-spotlight {
     width: 100%;
+    margin-bottom: 14px;
+    padding: 12px 14px;
+  }
+
+  .search-spotlight-note {
+    display: none;
   }
 
   .filters {
     position: static;
+    padding: 12px;
+  }
+
+  .product-grid {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 10px;
+  }
+
+  .product-card {
+    min-height: 0;
+    padding: 12px;
+  }
+
+  .product-photo {
+    margin-bottom: 10px;
+  }
+
+  .product-name {
+    margin: 12px 0 6px;
+    font-size: 15px;
+  }
+
+  .meta {
+    margin-top: 8px;
+    gap: 4px;
+  }
+
+  .meta span {
+    padding: 4px 6px;
+    font-size: 11px;
+  }
+
+  .price-row {
+    margin-top: 12px;
+    padding-top: 10px;
+    gap: 8px;
+  }
+
+  .price {
+    font-size: 20px;
+  }
+
+  .order-link {
+    min-height: 38px;
   }
 
   .checkout-form {
@@ -1390,35 +1504,44 @@ h3 {
 }
 
 @media (max-width: 560px) {
-  .brand {
-    min-width: 0;
+  .site-main {
+    padding-bottom: 36px;
   }
 
   h1 {
-    font-size: 40px;
+    font-size: 32px;
+    line-height: 1.05;
   }
 
   .hero-title-sub {
-    font-size: 0.62em;
+    font-size: 0.44em;
   }
 
   h2,
   .hero-product-name {
-    font-size: 28px;
+    font-size: 24px;
   }
 
   .product-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 8px;
   }
 
   .search-spotlight {
-    padding: 18px;
+    padding: 10px 12px;
   }
 
   .search-spotlight-field input {
-    min-height: 50px;
-    font-size: 16px;
+    min-height: 44px;
+    font-size: 15px;
     text-align: left;
+  }
+
+  .catalog-section,
+  .cart-section,
+  .expertise-section,
+  .consultation-section {
+    padding: 16px 12px;
   }
 
   .cart-item {
@@ -1430,21 +1553,28 @@ h3 {
   }
 
   .metrics div,
-  .catalog-section,
-  .cart-section,
-  .expertise-section,
-  .consultation-section {
-    padding-inline: 18px;
+  .footer {
+    padding-inline: 12px;
+  }
+
+  .footer {
+    flex-direction: column;
+  }
+
+  .hero-actions {
+    flex-direction: column;
+  }
+
+  .hero-actions .primary-action,
+  .hero-actions .secondary-action {
+    flex: 1 1 auto;
+    width: 100%;
   }
 
   .hero-price-row,
   .hero-spotlight-actions,
   .footer {
     align-items: flex-start;
-    flex-direction: column;
-  }
-
-  .footer {
     flex-direction: column;
   }
 
