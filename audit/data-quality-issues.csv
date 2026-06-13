@@ -1,0 +1,802 @@
+﻿sheet,row,sku,issue,current,suggested
+PRICE_ABRIL_CLEAN,2,ABR-0001,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,3,ABR-0002,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,4,ABR-0003,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,5,ABR-0004,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,6,ABR-0005,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,7,ABR-0006,Extract volume from name,,120 ml
+PRICE_ABRIL_CLEAN,8,ABR-0007,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,9,ABR-0008,Extract volume from name,,120 ml
+PRICE_ABRIL_CLEAN,10,ABR-0009,Extract volume from name,,60 ml
+PRICE_ABRIL_CLEAN,11,ABR-0010,Extract volume from name,,500 g
+PRICE_ABRIL_CLEAN,12,ABR-0011,Extract volume from name,,500 ml
+PRICE_ABRIL_CLEAN,13,ABR-0012,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,14,ABR-0013,Normalize product name,ABRIL Термозахист  PROTECTOR PLEX STOP BREAKAGE 200 мл,ABRIL Термозахист PROTECTOR PLEX STOP BREAKAGE 200 мл
+PRICE_ABRIL_CLEAN,14,ABR-0013,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,15,ABR-0014,Normalize product name,ABRIL Термозахист THERMAL PROTECTOR LISS  200 мл,ABRIL Термозахист THERMAL PROTECTOR LISS 200 мл
+PRICE_ABRIL_CLEAN,15,ABR-0014,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,16,ABR-0015,Extract volume from name,,100 ml
+PRICE_ABRIL_CLEAN,17,ABR-0016,Normalize product name,ABRIL Маска MOLECULAR  1000 мл,ABRIL Маска MOLECULAR 1000 мл
+PRICE_ABRIL_CLEAN,17,ABR-0016,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,18,ABR-0017,Normalize product name,ABRIL Маска MOLECULAR  200 мл,ABRIL Маска MOLECULAR 200 мл
+PRICE_ABRIL_CLEAN,18,ABR-0017,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,20,ABR-0019,Normalize product name,ABRIL Флюїд MOLECULAR  10 мл  (30 шт./уп.),ABRIL Флюїд MOLECULAR 10 мл (30 шт./уп.)
+PRICE_ABRIL_CLEAN,20,ABR-0019,Extract volume from name,,10 ml
+PRICE_ABRIL_CLEAN,21,ABR-0020,Normalize product name,ABRIL Флюїд MOLECULAR  100 мл  (12 шт./уп.),ABRIL Флюїд MOLECULAR 100 мл (12 шт./уп.)
+PRICE_ABRIL_CLEAN,21,ABR-0020,Extract volume from name,,100 ml
+PRICE_ABRIL_CLEAN,22,ABR-0021,Normalize product name,ABRIL Шампунь MOLECULAR  1000 мл,ABRIL Шампунь MOLECULAR 1000 мл
+PRICE_ABRIL_CLEAN,22,ABR-0021,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,23,ABR-0022,Normalize product name,ABRIL Шампунь MOLECULAR  250 мл,ABRIL Шампунь MOLECULAR 250 мл
+PRICE_ABRIL_CLEAN,23,ABR-0022,Extract volume from name,,250 ml
+PRICE_ABRIL_CLEAN,24,ABR-0023,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,25,ABR-0024,Extract volume from name,,100 ml
+PRICE_ABRIL_CLEAN,26,ABR-0025,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,27,ABR-0026,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,28,ABR-0027,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,29,ABR-0028,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,30,ABR-0029,Extract volume from name,,250 ml
+PRICE_ABRIL_CLEAN,31,ABR-0030,Extract volume from name,,100 ml
+PRICE_ABRIL_CLEAN,32,ABR-0031,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,33,ABR-0032,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,34,ABR-0033,Extract volume from name,,100 ml
+PRICE_ABRIL_CLEAN,35,ABR-0034,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,36,ABR-0035,Extract volume from name,,250 ml
+PRICE_ABRIL_CLEAN,37,ABR-0036,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,38,ABR-0037,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,39,ABR-0038,Extract volume from name,,100 ml
+PRICE_ABRIL_CLEAN,40,ABR-0039,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,41,ABR-0040,Extract volume from name,,250 ml
+PRICE_ABRIL_CLEAN,42,ABR-0041,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,43,ABR-0042,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,44,ABR-0043,Extract volume from name,,100 ml
+PRICE_ABRIL_CLEAN,45,ABR-0044,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,46,ABR-0045,Extract volume from name,,250 ml
+PRICE_ABRIL_CLEAN,47,ABR-0046,Normalize category,Догляд  REHYDRATION  зволоження волосся,Догляд REHYDRATION зволоження волосся
+PRICE_ABRIL_CLEAN,47,ABR-0046,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,48,ABR-0047,Normalize category,Догляд  REHYDRATION  зволоження волосся,Догляд REHYDRATION зволоження волосся
+PRICE_ABRIL_CLEAN,48,ABR-0047,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,49,ABR-0048,Normalize category,Догляд  REHYDRATION  зволоження волосся,Догляд REHYDRATION зволоження волосся
+PRICE_ABRIL_CLEAN,49,ABR-0048,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,50,ABR-0049,Normalize category,Догляд  REHYDRATION  зволоження волосся,Догляд REHYDRATION зволоження волосся
+PRICE_ABRIL_CLEAN,50,ABR-0049,Extract volume from name,,250 ml
+PRICE_ABRIL_CLEAN,51,ABR-0050,Normalize category,Догляд  NATUREPLEX  захист та відновлення,Догляд NATUREPLEX захист та відновлення
+PRICE_ABRIL_CLEAN,51,ABR-0050,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,52,ABR-0051,Normalize product name,ABRIL Маска NATURPLEX  200 мл,ABRIL Маска NATURPLEX 200 мл
+PRICE_ABRIL_CLEAN,52,ABR-0051,Normalize category,Догляд  NATUREPLEX  захист та відновлення,Догляд NATUREPLEX захист та відновлення
+PRICE_ABRIL_CLEAN,52,ABR-0051,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,53,ABR-0052,Normalize category,Догляд  NATUREPLEX  захист та відновлення,Догляд NATUREPLEX захист та відновлення
+PRICE_ABRIL_CLEAN,53,ABR-0052,Extract volume from name,,100 ml
+PRICE_ABRIL_CLEAN,54,ABR-0053,Normalize category,Догляд  NATUREPLEX  захист та відновлення,Догляд NATUREPLEX захист та відновлення
+PRICE_ABRIL_CLEAN,54,ABR-0053,Extract volume from name,,100 ml
+PRICE_ABRIL_CLEAN,55,ABR-0054,Normalize category,Догляд  NATUREPLEX  захист та відновлення,Догляд NATUREPLEX захист та відновлення
+PRICE_ABRIL_CLEAN,55,ABR-0054,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,56,ABR-0055,Normalize category,Догляд  NATUREPLEX  захист та відновлення,Догляд NATUREPLEX захист та відновлення
+PRICE_ABRIL_CLEAN,56,ABR-0055,Extract volume from name,,250 ml
+PRICE_ABRIL_CLEAN,57,ABR-0056,Normalize category,Догляд  ENERGIC д/пошкодж.волосся,Догляд ENERGIC д/пошкодж.волосся
+PRICE_ABRIL_CLEAN,57,ABR-0056,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,58,ABR-0057,Normalize category,Догляд  ENERGIC д/пошкодж.волосся,Догляд ENERGIC д/пошкодж.волосся
+PRICE_ABRIL_CLEAN,58,ABR-0057,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,59,ABR-0058,Normalize category,Догляд  ENERGIC д/пошкодж.волосся,Догляд ENERGIC д/пошкодж.волосся
+PRICE_ABRIL_CLEAN,59,ABR-0058,Extract volume from name,,100 ml
+PRICE_ABRIL_CLEAN,60,ABR-0059,Normalize category,Догляд  ENERGIC д/пошкодж.волосся,Догляд ENERGIC д/пошкодж.волосся
+PRICE_ABRIL_CLEAN,60,ABR-0059,Extract volume from name,,250 ml
+PRICE_ABRIL_CLEAN,61,ABR-0060,Normalize category,Догляд  ENERGIC д/пошкодж.волосся,Догляд ENERGIC д/пошкодж.волосся
+PRICE_ABRIL_CLEAN,61,ABR-0060,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,62,ABR-0061,Normalize category,Догляд  PLATINUM BLOND,Догляд PLATINUM BLOND
+PRICE_ABRIL_CLEAN,62,ABR-0061,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,63,ABR-0062,Normalize category,Догляд  PLATINUM BLOND,Догляд PLATINUM BLOND
+PRICE_ABRIL_CLEAN,63,ABR-0062,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,64,ABR-0063,Normalize category,Догляд  PLATINUM BLOND,Догляд PLATINUM BLOND
+PRICE_ABRIL_CLEAN,64,ABR-0063,Extract volume from name,,250 ml
+PRICE_ABRIL_CLEAN,65,ABR-0064,Normalize category,Догляд  PLATINUM BLOND,Догляд PLATINUM BLOND
+PRICE_ABRIL_CLEAN,65,ABR-0064,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,66,ABR-0065,Normalize category,Лікувальна серія  FEPEAN,Лікувальна серія FEPEAN
+PRICE_ABRIL_CLEAN,66,ABR-0065,Extract volume from name,,5 ml
+PRICE_ABRIL_CLEAN,67,ABR-0066,Normalize product name,ABRIL Ампули проти випадіння волосся 5 мл  (50 шт./уп.)  УПАКОВКА!!!!,ABRIL Ампули проти випадіння волосся 5 мл (50 шт./уп.) УПАКОВКА!!!!
+PRICE_ABRIL_CLEAN,67,ABR-0066,Normalize category,Лікувальна серія  FEPEAN,Лікувальна серія FEPEAN
+PRICE_ABRIL_CLEAN,67,ABR-0066,Extract volume from name,,5 ml
+PRICE_ABRIL_CLEAN,68,ABR-0067,Normalize category,Лікувальна серія  FEPEAN,Лікувальна серія FEPEAN
+PRICE_ABRIL_CLEAN,68,ABR-0067,Extract volume from name,,100 ml
+PRICE_ABRIL_CLEAN,69,ABR-0068,Normalize category,Лікувальна серія  FEPEAN,Лікувальна серія FEPEAN
+PRICE_ABRIL_CLEAN,69,ABR-0068,Extract volume from name,,100 ml
+PRICE_ABRIL_CLEAN,70,ABR-0069,Normalize category,Лікувальна серія  FEPEAN,Лікувальна серія FEPEAN
+PRICE_ABRIL_CLEAN,70,ABR-0069,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,71,ABR-0070,Normalize category,Лікувальна серія  FEPEAN,Лікувальна серія FEPEAN
+PRICE_ABRIL_CLEAN,71,ABR-0070,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,72,ABR-0071,Normalize category,Лікувальна серія  FEPEAN,Лікувальна серія FEPEAN
+PRICE_ABRIL_CLEAN,72,ABR-0071,Extract volume from name,,250 ml
+PRICE_ABRIL_CLEAN,73,ABR-0072,Normalize category,Лікувальна серія  FEPEAN,Лікувальна серія FEPEAN
+PRICE_ABRIL_CLEAN,73,ABR-0072,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,74,ABR-0073,Normalize category,Лікувальна серія  FEPEAN,Лікувальна серія FEPEAN
+PRICE_ABRIL_CLEAN,74,ABR-0073,Extract volume from name,,250 ml
+PRICE_ABRIL_CLEAN,75,ABR-0074,Normalize category,Лікувальна серія  FEPEAN,Лікувальна серія FEPEAN
+PRICE_ABRIL_CLEAN,75,ABR-0074,Extract volume from name,,1000 ml
+PRICE_ABRIL_CLEAN,76,ABR-0075,Normalize category,Лікувальна серія  FEPEAN,Лікувальна серія FEPEAN
+PRICE_ABRIL_CLEAN,76,ABR-0075,Extract volume from name,,250 ml
+PRICE_ABRIL_CLEAN,77,ABR-0076,Normalize category,Укладання  DEFINITION LINE,Укладання DEFINITION LINE
+PRICE_ABRIL_CLEAN,77,ABR-0076,Extract volume from name,,200 ml
+PRICE_ABRIL_CLEAN,78,ABR-0077,Normalize category,Укладання  DEFINITION LINE,Укладання DEFINITION LINE
+PRICE_ABRIL_CLEAN,78,ABR-0077,Extract volume from name,,200 ml
+PRICE_COIFFANCE_CLEAN,2,COI-0001,Missing or technical category,,
+PRICE_COIFFANCE_CLEAN,2,COI-0001,Extract volume from name,,100 ml
+PRICE_COIFFANCE_CLEAN,3,COI-0002,Missing or technical category,,
+PRICE_COIFFANCE_CLEAN,3,COI-0002,Extract volume from name,,1000 ml
+PRICE_COIFFANCE_CLEAN,4,COI-0003,Extract volume from name,,300 g
+PRICE_COIFFANCE_CLEAN,5,COI-0004,Extract volume from name,,500 g
+PRICE_COIFFANCE_CLEAN,6,COI-0005,Extract volume from name,,1000 ml
+PRICE_COIFFANCE_CLEAN,7,COI-0006,Extract volume from name,,100 ml
+PRICE_COIFFANCE_CLEAN,8,COI-0007,Normalize product name,CF Coiffance  Видалення фарби зі шкіри голови STAIN REMOVER 200 мл,CF Coiffance Видалення фарби зі шкіри голови STAIN REMOVER 200 мл
+PRICE_COIFFANCE_CLEAN,8,COI-0007,Extract volume from name,,200 ml
+PRICE_COIFFANCE_CLEAN,9,COI-0008,Extract volume from name,,200 ml
+PRICE_COIFFANCE_CLEAN,10,COI-0009,Extract volume from name,,1000 ml
+PRICE_COIFFANCE_CLEAN,11,COI-0010,Extract volume from name,,250 ml
+PRICE_COIFFANCE_CLEAN,12,COI-0011,Extract volume from name,,1000 ml
+PRICE_COIFFANCE_CLEAN,13,COI-0012,Extract volume from name,,250 ml
+PRICE_COIFFANCE_CLEAN,14,COI-0013,Extract volume from name,,100 ml
+PRICE_COIFFANCE_CLEAN,15,COI-0014,Extract volume from name,,50 ml
+PRICE_COIFFANCE_CLEAN,16,COI-0015,Extract volume from name,,150 ml
+PRICE_COIFFANCE_CLEAN,17,COI-0016,Extract volume from name,,200 ml
+PRICE_COIFFANCE_CLEAN,18,COI-0017,Extract volume from name,,1000 ml
+PRICE_COIFFANCE_CLEAN,19,COI-0018,Extract volume from name,,250 ml
+PRICE_COIFFANCE_CLEAN,20,COI-0019,Extract volume from name,,1000 ml
+PRICE_COIFFANCE_CLEAN,21,COI-0020,Normalize product name,CF Coiffabce Шампунь COLOR  INTENSE 250 мл,CF Coiffabce Шампунь COLOR INTENSE 250 мл
+PRICE_COIFFANCE_CLEAN,21,COI-0020,Extract volume from name,,250 ml
+PRICE_COIFFANCE_CLEAN,22,COI-0021,Extract volume from name,,200 ml
+PRICE_COIFFANCE_CLEAN,23,COI-0022,Extract volume from name,,200 ml
+PRICE_COIFFANCE_CLEAN,24,COI-0023,Extract volume from name,,500 ml
+PRICE_COIFFANCE_CLEAN,25,COI-0024,Extract volume from name,,1000 ml
+PRICE_COIFFANCE_CLEAN,26,COI-0025,Extract volume from name,,250 ml
+PRICE_COIFFANCE_CLEAN,27,COI-0026,Extract volume from name,,1000 ml
+PRICE_COIFFANCE_CLEAN,28,COI-0027,Extract volume from name,,250 ml
+PRICE_COIFFANCE_CLEAN,29,COI-0028,Extract volume from name,,150 ml
+PRICE_COIFFANCE_CLEAN,30,COI-0029,Extract volume from name,,1000 ml
+PRICE_COIFFANCE_CLEAN,31,COI-0030,Extract volume from name,,250 ml
+PRICE_COIFFANCE_CLEAN,32,COI-0031,Extract volume from name,,150 ml
+PRICE_COIFFANCE_CLEAN,33,COI-0032,Extract volume from name,,1000 ml
+PRICE_COIFFANCE_CLEAN,34,COI-0033,Extract volume from name,,250 ml
+PRICE_COIFFANCE_CLEAN,35,COI-0034,Extract volume from name,,1000 ml
+PRICE_COIFFANCE_CLEAN,36,COI-0035,Extract volume from name,,250 ml
+PRICE_COIFFANCE_CLEAN,37,COI-0036,Extract volume from name,,400 ml
+PRICE_COIFFANCE_CLEAN,38,COI-0037,Extract volume from name,,200 ml
+PRICE_ELEA_CLEAN,2,ELE-0001,Normalize product name,ELEA  Стійка крем-фарба  ARTISTO 100 мл,ELEA Стійка крем-фарба ARTISTO 100 мл
+PRICE_ELEA_CLEAN,2,ELE-0001,Missing or technical category,,
+PRICE_ELEA_CLEAN,2,ELE-0001,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,3,ELE-0002,Missing or technical category,,
+PRICE_ELEA_CLEAN,3,ELE-0002,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,4,ELE-0003,Normalize category,Тонуючий гель  Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл
+PRICE_ELEA_CLEAN,4,ELE-0003,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,5,ELE-0004,Normalize category,Тонуючий гель  Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл
+PRICE_ELEA_CLEAN,5,ELE-0004,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,6,ELE-0005,Normalize category,Тонуючий гель  Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл
+PRICE_ELEA_CLEAN,6,ELE-0005,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,7,ELE-0006,Normalize category,Тонуючий гель  Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл
+PRICE_ELEA_CLEAN,7,ELE-0006,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,8,ELE-0007,Normalize category,Тонуючий гель  Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл
+PRICE_ELEA_CLEAN,8,ELE-0007,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,9,ELE-0008,Normalize category,Тонуючий гель  Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл
+PRICE_ELEA_CLEAN,9,ELE-0008,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,10,ELE-0009,Normalize category,Тонуючий гель  Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл
+PRICE_ELEA_CLEAN,10,ELE-0009,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,11,ELE-0010,Normalize product name,EA 00-N  ARTISTO Коректор 100 мл,EA 00-N ARTISTO Коректор 100 мл
+PRICE_ELEA_CLEAN,11,ELE-0010,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,12,ELE-0011,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,13,ELE-0012,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,14,ELE-0013,Normalize product name,EA 22  ARTISTO Коректор 100 мл,EA 22 ARTISTO Коректор 100 мл
+PRICE_ELEA_CLEAN,14,ELE-0013,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,15,ELE-0014,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,16,ELE-0015,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,17,ELE-0016,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,18,ELE-0017,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,19,ELE-0018,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,20,ELE-0019,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,26,ELE-0025,Normalize category,Окисники  ARTISTO 1000мл,Окисники ARTISTO 1000мл
+PRICE_ELEA_CLEAN,26,ELE-0025,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,27,ELE-0026,Normalize category,Окисники  ARTISTO 1000мл,Окисники ARTISTO 1000мл
+PRICE_ELEA_CLEAN,27,ELE-0026,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,28,ELE-0027,Normalize category,Окисники  ARTISTO 1000мл,Окисники ARTISTO 1000мл
+PRICE_ELEA_CLEAN,28,ELE-0027,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,29,ELE-0028,Normalize category,Окисники  ARTISTO 1000мл,Окисники ARTISTO 1000мл
+PRICE_ELEA_CLEAN,29,ELE-0028,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,30,ELE-0029,Normalize category,Окисники  ARTISTO 1000мл,Окисники ARTISTO 1000мл
+PRICE_ELEA_CLEAN,30,ELE-0029,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,31,ELE-0030,Normalize category,Окисники  ARTISTO 100мл,Окисники ARTISTO 100мл
+PRICE_ELEA_CLEAN,31,ELE-0030,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,32,ELE-0031,Normalize category,Окисники  ARTISTO 100мл,Окисники ARTISTO 100мл
+PRICE_ELEA_CLEAN,32,ELE-0031,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,33,ELE-0032,Normalize category,Окисники  ARTISTO 100мл,Окисники ARTISTO 100мл
+PRICE_ELEA_CLEAN,33,ELE-0032,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,34,ELE-0033,Normalize category,Окисники  ARTISTO 100мл,Окисники ARTISTO 100мл
+PRICE_ELEA_CLEAN,34,ELE-0033,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,35,ELE-0034,Normalize category,Окисники  ARTISTO 100мл,Окисники ARTISTO 100мл
+PRICE_ELEA_CLEAN,35,ELE-0034,Extract volume from name,,100 ml
+PRICE_ELEA_CLEAN,36,ELE-0035,Normalize category,Окисники  ARTISTO 4000мл,Окисники ARTISTO 4000мл
+PRICE_ELEA_CLEAN,36,ELE-0035,Extract volume from name,,4000 ml
+PRICE_ELEA_CLEAN,37,ELE-0036,Normalize category,Окисники  ARTISTO 4000мл,Окисники ARTISTO 4000мл
+PRICE_ELEA_CLEAN,37,ELE-0036,Extract volume from name,,4000 ml
+PRICE_ELEA_CLEAN,38,ELE-0037,Normalize category,Окисники  ARTISTO 4000мл,Окисники ARTISTO 4000мл
+PRICE_ELEA_CLEAN,38,ELE-0037,Extract volume from name,,4000 ml
+PRICE_ELEA_CLEAN,39,ELE-0038,Extract volume from name,,250 g
+PRICE_ELEA_CLEAN,40,ELE-0039,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,41,ELE-0040,Extract volume from name,,120 ml
+PRICE_ELEA_CLEAN,42,ELE-0041,Extract volume from name,,100 g
+PRICE_ELEA_CLEAN,43,ELE-0042,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,44,ELE-0043,Extract volume from name,,150 ml
+PRICE_ELEA_CLEAN,45,ELE-0044,Extract volume from name,,1100 ml
+PRICE_ELEA_CLEAN,46,ELE-0045,Extract volume from name,,490 ml
+PRICE_ELEA_CLEAN,47,ELE-0046,Extract volume from name,,120 ml
+PRICE_ELEA_CLEAN,48,ELE-0047,Extract volume from name,,250 ml
+PRICE_ELEA_CLEAN,49,ELE-0048,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,50,ELE-0049,Normalize product name,EA Флюїд  ARTISTO поживний в крем-фарбу - 50 саше  по 3 г в коробцi,EA Флюїд ARTISTO поживний в крем-фарбу - 50 саше по 3 г в коробцi
+PRICE_ELEA_CLEAN,50,ELE-0049,Extract volume from name,,3 g
+PRICE_ELEA_CLEAN,51,ELE-0050,Extract volume from name,,98 ml
+PRICE_ELEA_CLEAN,52,ELE-0051,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,53,ELE-0052,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,54,ELE-0053,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,55,ELE-0054,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,56,ELE-0055,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,57,ELE-0056,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,58,ELE-0057,Extract volume from name,,5000 ml
+PRICE_ELEA_CLEAN,59,ELE-0058,Extract volume from name,,200 ml
+PRICE_ELEA_CLEAN,60,ELE-0059,Extract volume from name,,200 ml
+PRICE_ELEA_CLEAN,61,ELE-0060,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,62,ELE-0061,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,63,ELE-0062,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,64,ELE-0063,Extract volume from name,,5000 ml
+PRICE_ELEA_CLEAN,65,ELE-0064,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,66,ELE-0065,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,67,ELE-0066,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,68,ELE-0067,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,69,ELE-0068,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,70,ELE-0069,Extract volume from name,,250 ml
+PRICE_ELEA_CLEAN,71,ELE-0070,Extract volume from name,,500 ml
+PRICE_ELEA_CLEAN,72,ELE-0071,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,73,ELE-0072,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,74,ELE-0073,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,75,ELE-0074,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,76,ELE-0075,Extract volume from name,,250 ml
+PRICE_ELEA_CLEAN,77,ELE-0076,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,78,ELE-0077,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,79,ELE-0078,Extract volume from name,,250 ml
+PRICE_ELEA_CLEAN,80,ELE-0079,Extract volume from name,,155 ml
+PRICE_ELEA_CLEAN,81,ELE-0080,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,82,ELE-0081,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,83,ELE-0082,Extract volume from name,,150 ml
+PRICE_ELEA_CLEAN,84,ELE-0083,Extract volume from name,,490 ml
+PRICE_ELEA_CLEAN,85,ELE-0084,Extract volume from name,,1000 ml
+PRICE_ELEA_CLEAN,86,ELE-0085,Extract volume from name,,300 ml
+PRICE_ELEA_CLEAN,87,ELE-0086,Normalize product name,EA Комуфляж для чоловіків   ARTISTO Color MEN №3.0 Темно-коричневий,EA Комуфляж для чоловіків ARTISTO Color MEN №3.0 Темно-коричневий
+PRICE_ELEA_CLEAN,88,ELE-0087,Normalize product name,EA Комуфляж для чоловіків  ARTISTO Color MEN №1.0 Чорний,EA Комуфляж для чоловіків ARTISTO Color MEN №1.0 Чорний
+PRICE_ELEA_CLEAN,89,ELE-0088,Normalize product name,EA Комуфляж для чоловіків  ARTISTO Color MEN №4.0 Коричневый,EA Комуфляж для чоловіків ARTISTO Color MEN №4.0 Коричневый
+PRICE_ELEA_CLEAN,92,ELE-0091,Extract volume from name,,150 ml
+PRICE_ELEA_CLEAN,93,ELE-0092,Extract volume from name,,150 ml
+PRICE_ELEA_CLEAN,94,ELE-0093,Extract volume from name,,150 ml
+PRICE_ELEA_CLEAN,95,ELE-0094,Extract volume from name,,75 g
+PRICE_ELEA_CLEAN,96,ELE-0095,Extract volume from name,,75 ml
+PRICE_ELEA_CLEAN,97,ELE-0096,Extract volume from name,,150 ml
+PRICE_ELEA_CLEAN,98,ELE-0097,Extract volume from name,,250 ml
+PRICE_ELEA_CLEAN,99,ELE-0098,Extract volume from name,,75 g
+PRICE_ELEA_CLEAN,100,ELE-0099,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,2,ERA-0001,Normalize product name,ERAYBA Стійка крем-фарба  GAMMA 100 мл,ERAYBA Стійка крем-фарба GAMMA 100 мл
+PRICE_ERAYBA_CLEAN,2,ERA-0001,Missing or technical category,,
+PRICE_ERAYBA_CLEAN,2,ERA-0001,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,3,ERA-0002,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,4,ERA-0003,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,5,ERA-0004,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,6,ERA-0005,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,7,ERA-0006,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,8,ERA-0007,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,9,ERA-0008,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,10,ERA-0009,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,11,ERA-0010,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,12,ERA-0011,Normalize product name,Erayba GO BLOND 7р. (G30)  Пудра для знебарвлення 500 г,Erayba GO BLOND 7р. (G30) Пудра для знебарвлення 500 г
+PRICE_ERAYBA_CLEAN,12,ERA-0011,Extract volume from name,,500 g
+PRICE_ERAYBA_CLEAN,13,ERA-0012,Extract volume from name,,30 g
+PRICE_ERAYBA_CLEAN,14,ERA-0013,Extract volume from name,,500 g
+PRICE_ERAYBA_CLEAN,15,ERA-0014,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,16,ERA-0015,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,17,ERA-0016,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,18,ERA-0017,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,19,ERA-0018,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,20,ERA-0019,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,21,ERA-0020,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,22,ERA-0021,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,23,ERA-0022,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,24,ERA-0023,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,25,ERA-0024,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,26,ERA-0025,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,27,ERA-0026,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,28,ERA-0027,Extract volume from name,,200 ml
+PRICE_ERAYBA_CLEAN,29,ERA-0028,Normalize product name,Erayba  Активатор GAMMA Color Bliss ACTIVATOR 0 VOL 750 мл,Erayba Активатор GAMMA Color Bliss ACTIVATOR 0 VOL 750 мл
+PRICE_ERAYBA_CLEAN,29,ERA-0028,Extract volume from name,,750 ml
+PRICE_ERAYBA_CLEAN,30,ERA-0029,Extract volume from name,,750 ml
+PRICE_ERAYBA_CLEAN,31,ERA-0030,Normalize product name,E ABH Маска лікувальна Ayurvedic Mask 1000мл,Erayba Маска лікувальна Ayurvedic Mask 1000мл
+PRICE_ERAYBA_CLEAN,31,ERA-0030,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,32,ERA-0031,Normalize product name,E ABH Маска лікувальна Ayurvedic Mask 250мл,Erayba Маска лікувальна Ayurvedic Mask 250мл
+PRICE_ERAYBA_CLEAN,32,ERA-0031,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,33,ERA-0032,Normalize product name,E ABH Шампунь лікувальний Ayurvedic Shampoo 1000мл,Erayba Шампунь лікувальний Ayurvedic Shampoo 1000мл
+PRICE_ERAYBA_CLEAN,33,ERA-0032,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,34,ERA-0033,Normalize product name,E ABH Шампунь лікувальний Ayurvedic Shampoo 250мл,Erayba Шампунь лікувальний Ayurvedic Shampoo 250мл
+PRICE_ERAYBA_CLEAN,34,ERA-0033,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,35,ERA-0034,Normalize product name,E ABH Кондиціонер Color Care Conditioner leave-in 200мл,Erayba Кондиціонер Color Care Conditioner leave-in 200мл
+PRICE_ERAYBA_CLEAN,35,ERA-0034,Extract volume from name,,200 ml
+PRICE_ERAYBA_CLEAN,36,ERA-0035,Normalize product name,E ABH Маска для фарбованного волосся Color Care Mask 1000мл,Erayba Маска для фарбованного волосся Color Care Mask 1000мл
+PRICE_ERAYBA_CLEAN,36,ERA-0035,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,37,ERA-0036,Normalize product name,E ABH Маска для фарбованного волосся Color Care Mask 250мл,Erayba Маска для фарбованного волосся Color Care Mask 250мл
+PRICE_ERAYBA_CLEAN,37,ERA-0036,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,38,ERA-0037,Normalize product name,E ABH Шампунь для фарбованого волосся  Color Care Shampoo 1000мл,Erayba Шампунь для фарбованого волосся Color Care Shampoo 1000мл
+PRICE_ERAYBA_CLEAN,38,ERA-0037,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,39,ERA-0038,Normalize product name,E ABH Шампунь для фарбованного волосся  Color Care Shampoo 250мл,Erayba Шампунь для фарбованного волосся Color Care Shampoo 250мл
+PRICE_ERAYBA_CLEAN,39,ERA-0038,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,40,ERA-0039,Normalize product name,E ABH Бальзам для курчавого волосся Curls 150мл,Erayba Бальзам для курчавого волосся Curls 150мл
+PRICE_ERAYBA_CLEAN,40,ERA-0039,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,41,ERA-0040,Normalize product name,E ABH Маска д/курчавого волосся  Curls 1000мл,Erayba Маска д/курчавого волосся Curls 1000мл
+PRICE_ERAYBA_CLEAN,41,ERA-0040,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,42,ERA-0041,Normalize product name,E ABH Маска для курчавого волосся Curls 250мл,Erayba Маска для курчавого волосся Curls 250мл
+PRICE_ERAYBA_CLEAN,42,ERA-0041,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,43,ERA-0042,Normalize product name,E ABH Шампунь для курчавого волосся Curls 1000мл,Erayba Шампунь для курчавого волосся Curls 1000мл
+PRICE_ERAYBA_CLEAN,43,ERA-0042,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,44,ERA-0043,Normalize product name,E ABH Шампунь для курчавого волосся Curls 250мл,Erayba Шампунь для курчавого волосся Curls 250мл
+PRICE_ERAYBA_CLEAN,44,ERA-0043,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,45,ERA-0044,Normalize product name,E ABH Кондиціонер Detox Refresh Conditioner leave-in 200мл,Erayba Кондиціонер Detox Refresh Conditioner leave-in 200мл
+PRICE_ERAYBA_CLEAN,45,ERA-0044,Extract volume from name,,200 ml
+PRICE_ERAYBA_CLEAN,46,ERA-0045,Normalize product name,E ABH Маска для всіх типів волосся Detox Refresh Mask 1000мл,Erayba Маска для всіх типів волосся Detox Refresh Mask 1000мл
+PRICE_ERAYBA_CLEAN,46,ERA-0045,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,47,ERA-0046,Normalize product name,E ABH Маска для всіх типів волосся Detox Refresh Mask 250мл,Erayba Маска для всіх типів волосся Detox Refresh Mask 250мл
+PRICE_ERAYBA_CLEAN,47,ERA-0046,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,48,ERA-0047,Normalize product name,E ABH Шампунь очищаючий Detox Refresh Shampoo 1000мл,Erayba Шампунь очищаючий Detox Refresh Shampoo 1000мл
+PRICE_ERAYBA_CLEAN,48,ERA-0047,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,49,ERA-0048,Normalize product name,E ABH Шампунь очищаючий Detox Refresh Shampoo 250мл,Erayba Шампунь очищаючий Detox Refresh Shampoo 250мл
+PRICE_ERAYBA_CLEAN,49,ERA-0048,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,50,ERA-0049,Normalize product name,E ABH Двофазовий кондиціонер Repair 200мл,Erayba Двофазовий кондиціонер Repair 200мл
+PRICE_ERAYBA_CLEAN,50,ERA-0049,Extract volume from name,,200 ml
+PRICE_ERAYBA_CLEAN,51,ERA-0050,Normalize product name,E ABH Маска для пошкодженого волосся Repair Mask 1000 мл,Erayba Маска для пошкодженого волосся Repair Mask 1000 мл
+PRICE_ERAYBA_CLEAN,51,ERA-0050,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,52,ERA-0051,Normalize product name,E ABH Маска для пошкодженого волосся Repair 250мл,Erayba Маска для пошкодженого волосся Repair 250мл
+PRICE_ERAYBA_CLEAN,52,ERA-0051,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,53,ERA-0052,Normalize product name,E ABH Сироватка Repair Ends Sealer 100мл,Erayba Сироватка Repair Ends Sealer 100мл
+PRICE_ERAYBA_CLEAN,53,ERA-0052,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,54,ERA-0053,Normalize product name,E ABH Сироватка Repair treatment 100мл,Erayba Сироватка Repair treatment 100мл
+PRICE_ERAYBA_CLEAN,54,ERA-0053,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,55,ERA-0054,Normalize product name,E ABH Шампунь для пошкодженого волосся Repair Shampoo 1000 мл,Erayba Шампунь для пошкодженого волосся Repair Shampoo 1000 мл
+PRICE_ERAYBA_CLEAN,55,ERA-0054,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,56,ERA-0055,Normalize product name,E ABH Шампунь для пошкодженого волосся Repair 250мл,Erayba Шампунь для пошкодженого волосся Repair 250мл
+PRICE_ERAYBA_CLEAN,56,ERA-0055,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,57,ERA-0056,Normalize product name,E ABH Маска антижовта  Silver No-Yellow Mask 1000мл,Erayba Маска антижовта Silver No-Yellow Mask 1000мл
+PRICE_ERAYBA_CLEAN,57,ERA-0056,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,58,ERA-0057,Normalize product name,E ABH Маска антижовта  Silver No-Yellow Mask 250мл,Erayba Маска антижовта Silver No-Yellow Mask 250мл
+PRICE_ERAYBA_CLEAN,58,ERA-0057,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,59,ERA-0058,Normalize product name,E ABH Шампунь антижовтий  Silver No-Yellow Shampoo 1000мл,Erayba Шампунь антижовтий Silver No-Yellow Shampoo 1000мл
+PRICE_ERAYBA_CLEAN,59,ERA-0058,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,60,ERA-0059,Normalize product name,E ABH Шампунь антижовтий  Silver No-Yellow Shampoo 250мл,Erayba Шампунь антижовтий Silver No-Yellow Shampoo 250мл
+PRICE_ERAYBA_CLEAN,60,ERA-0059,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,61,ERA-0060,Normalize product name,E ABH Крем для об'єму Volume 150мл,Erayba Крем для об'єму Volume 150мл
+PRICE_ERAYBA_CLEAN,61,ERA-0060,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,62,ERA-0061,Normalize product name,E ABH Маска для об'єму Volume 1000мл,Erayba Маска для об'єму Volume 1000мл
+PRICE_ERAYBA_CLEAN,62,ERA-0061,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,63,ERA-0062,Normalize product name,E ABH Маска для об'єму Volume 250мл,Erayba Маска для об'єму Volume 250мл
+PRICE_ERAYBA_CLEAN,63,ERA-0062,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,64,ERA-0063,Normalize product name,E ABH Шампунь для об'єму Volume 1000мл,Erayba Шампунь для об'єму Volume 1000мл
+PRICE_ERAYBA_CLEAN,64,ERA-0063,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,65,ERA-0064,Normalize product name,E ABH Шампунь для об'єму Volume 250мл,Erayba Шампунь для об'єму Volume 250мл
+PRICE_ERAYBA_CLEAN,65,ERA-0064,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,66,ERA-0065,Normalize product name,E ABH Шампунь сухий Volume Dry 150мл,Erayba Шампунь сухий Volume Dry 150мл
+PRICE_ERAYBA_CLEAN,66,ERA-0065,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,67,ERA-0066,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,68,ERA-0067,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,69,ERA-0068,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,70,ERA-0069,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,71,ERA-0070,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,72,ERA-0071,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,73,ERA-0072,Extract volume from name,,50 ml
+PRICE_ERAYBA_CLEAN,74,ERA-0073,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,75,ERA-0074,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,76,ERA-0075,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,77,ERA-0076,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,78,ERA-0077,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,79,ERA-0078,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,80,ERA-0079,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,81,ERA-0080,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,82,ERA-0081,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,83,ERA-0082,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,84,ERA-0083,Extract volume from name,,200 ml
+PRICE_ERAYBA_CLEAN,85,ERA-0084,Extract volume from name,,500 ml
+PRICE_ERAYBA_CLEAN,86,ERA-0085,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,87,ERA-0086,Extract volume from name,,200 ml
+PRICE_ERAYBA_CLEAN,88,ERA-0087,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,89,ERA-0088,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,90,ERA-0089,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,91,ERA-0090,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,92,ERA-0091,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,93,ERA-0092,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,94,ERA-0093,Extract volume from name,,200 ml
+PRICE_ERAYBA_CLEAN,95,ERA-0094,Extract volume from name,,500 ml
+PRICE_ERAYBA_CLEAN,96,ERA-0095,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,97,ERA-0096,Extract volume from name,,200 ml
+PRICE_ERAYBA_CLEAN,98,ERA-0097,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,99,ERA-0098,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,100,ERA-0099,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,101,ERA-0100,Extract volume from name,,200 ml
+PRICE_ERAYBA_CLEAN,102,ERA-0101,Extract volume from name,,500 ml
+PRICE_ERAYBA_CLEAN,103,ERA-0102,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,104,ERA-0103,Extract volume from name,,750 ml
+PRICE_ERAYBA_CLEAN,105,ERA-0104,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,106,ERA-0105,Normalize product name,Erayba Z18R/EXOАмпули проти випадіння волосся  БЛІСТЕР 5од!!! 5мл,Erayba Z18R/EXOАмпули проти випадіння волосся БЛІСТЕР 5од!!! 5мл
+PRICE_ERAYBA_CLEAN,106,ERA-0105,Extract volume from name,,5 ml
+PRICE_ERAYBA_CLEAN,107,ERA-0106,Extract volume from name,,5 ml
+PRICE_ERAYBA_CLEAN,108,ERA-0107,Normalize product name,E Z12B Шампунь проти жирного волосся 250 мл  NEW!!!,E Z12B Шампунь проти жирного волосся 250 мл NEW!!!
+PRICE_ERAYBA_CLEAN,108,ERA-0107,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,109,ERA-0108,Normalize product name,E Z12B Шампунь проти жирного волосся 750 мл  NEW!!!,E Z12B Шампунь проти жирного волосся 750 мл NEW!!!
+PRICE_ERAYBA_CLEAN,109,ERA-0108,Extract volume from name,,750 ml
+PRICE_ERAYBA_CLEAN,110,ERA-0109,Normalize product name,E Z18B Льосьон проти жирного волосся 100  мл NEW!!!,E Z18B Льосьон проти жирного волосся 100 мл NEW!!!
+PRICE_ERAYBA_CLEAN,110,ERA-0109,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,111,ERA-0110,Extract volume from name,,250 ml
+PRICE_ERAYBA_CLEAN,112,ERA-0111,Extract volume from name,,750 ml
+PRICE_ERAYBA_CLEAN,113,ERA-0112,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,114,ERA-0113,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,115,ERA-0114,Extract volume from name,,750 ml
+PRICE_ERAYBA_CLEAN,116,ERA-0115,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,117,ERA-0116,Normalize product name,E Z15A Сироватка заспокійлива  Zen Active 150 мл NEW!!!,E Z15A Сироватка заспокійлива Zen Active 150 мл NEW!!!
+PRICE_ERAYBA_CLEAN,117,ERA-0116,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,118,ERA-0117,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,119,ERA-0118,Extract volume from name,,15 ml
+PRICE_ERAYBA_CLEAN,120,ERA-0119,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,121,ERA-0120,Extract volume from name,,07 g
+PRICE_ERAYBA_CLEAN,122,ERA-0121,Normalize product name,Erayba S10  Лак середньої фіксації 300 мл,Erayba S10 Лак середньої фіксації 300 мл
+PRICE_ERAYBA_CLEAN,122,ERA-0121,Extract volume from name,,300 ml
+PRICE_ERAYBA_CLEAN,123,ERA-0122,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,124,ERA-0123,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,125,ERA-0124,Extract volume from name,,300 ml
+PRICE_ERAYBA_CLEAN,126,ERA-0125,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,127,ERA-0126,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,128,ERA-0127,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,129,ERA-0128,Extract volume from name,,300 ml
+PRICE_ERAYBA_CLEAN,130,ERA-0129,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,131,ERA-0130,Extract volume from name,,100 ml
+PRICE_ERAYBA_CLEAN,132,ERA-0131,Extract volume from name,,150 ml
+PRICE_ERAYBA_CLEAN,133,ERA-0132,Extract volume from name,,1000 ml
+PRICE_ERAYBA_CLEAN,136,ERA-0135,Extract volume from name,,500 ml
+PRICE_ERAYBA_CLEAN,137,ERA-0136,Extract volume from name,,500 ml
+PRICE_ERAYBA_CLEAN,138,ERA-0137,Extract volume from name,,500 ml
+PRICE_GLYNT_CLEAN,2,GLY-0001,Missing or technical category,,
+PRICE_GLYNT_CLEAN,2,GLY-0001,Extract volume from name,,100 ml
+PRICE_GLYNT_CLEAN,3,GLY-0002,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,4,GLY-0003,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,5,GLY-0004,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,6,GLY-0005,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,7,GLY-0006,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,8,GLY-0007,Extract volume from name,,150 ml
+PRICE_GLYNT_CLEAN,9,GLY-0008,Extract volume from name,,150 ml
+PRICE_GLYNT_CLEAN,10,GLY-0009,Extract volume from name,,150 ml
+PRICE_GLYNT_CLEAN,11,GLY-0010,Extract volume from name,,450 g
+PRICE_GLYNT_CLEAN,12,GLY-0011,Extract volume from name,,40 g
+PRICE_GLYNT_CLEAN,13,GLY-0012,Extract volume from name,,500 g
+PRICE_GLYNT_CLEAN,14,GLY-0013,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,15,GLY-0014,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,16,GLY-0015,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,17,GLY-0016,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,18,GLY-0017,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,19,GLY-0018,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,20,GLY-0019,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,21,GLY-0020,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,22,GLY-0021,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,23,GLY-0022,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,24,GLY-0023,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,25,GLY-0024,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,26,GLY-0025,Extract volume from name,,100 ml
+PRICE_GLYNT_CLEAN,27,GLY-0026,Extract volume from name,,100 ml
+PRICE_GLYNT_CLEAN,28,GLY-0027,Extract volume from name,,500 ml
+PRICE_GLYNT_CLEAN,29,GLY-0028,Normalize product name,GLYNT TRIJUVEN Step 1-  7 мл + Step 2-  15 мл,GLYNT TRIJUVEN Step 1- 7 мл + Step 2- 15 мл
+PRICE_GLYNT_CLEAN,29,GLY-0028,Extract volume from name,,7 ml
+PRICE_GLYNT_CLEAN,30,GLY-0029,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,31,GLY-0030,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,32,GLY-0031,Normalize product name,GLYNT  Загущувач для фарби / пудри Thickener Additive 100 мл,GLYNT Загущувач для фарби / пудри Thickener Additive 100 мл
+PRICE_GLYNT_CLEAN,32,GLY-0031,Extract volume from name,,100 ml
+PRICE_GLYNT_CLEAN,33,GLY-0032,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,34,GLY-0033,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,35,GLY-0034,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,36,GLY-0035,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,37,GLY-0036,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,38,GLY-0037,Extract volume from name,,150 ml
+PRICE_GLYNT_CLEAN,39,GLY-0038,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,40,GLY-0039,Extract volume from name,,250 ml
+PRICE_GLYNT_CLEAN,41,GLY-0040,Extract volume from name,,3000 ml
+PRICE_GLYNT_CLEAN,42,GLY-0041,Normalize product name,GLYNT Кондиціонер для об'єму  VOLUME Conditioner 200 мл,GLYNT Кондиціонер для об'єму VOLUME Conditioner 200 мл
+PRICE_GLYNT_CLEAN,42,GLY-0041,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,43,GLY-0042,Normalize product name,GLYNT Кондиціонер для об'єму  VOLUME Conditioner 1000 мл,GLYNT Кондиціонер для об'єму VOLUME Conditioner 1000 мл
+PRICE_GLYNT_CLEAN,43,GLY-0042,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,44,GLY-0043,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,45,GLY-0044,Extract volume from name,,100 ml
+PRICE_GLYNT_CLEAN,46,GLY-0045,Extract volume from name,,30 ml
+PRICE_GLYNT_CLEAN,47,GLY-0046,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,48,GLY-0047,Extract volume from name,,250 ml
+PRICE_GLYNT_CLEAN,49,GLY-0048,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,50,GLY-0049,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,51,GLY-0050,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,52,GLY-0051,Extract volume from name,,150 ml
+PRICE_GLYNT_CLEAN,53,GLY-0052,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,54,GLY-0053,Extract volume from name,,250 ml
+PRICE_GLYNT_CLEAN,55,GLY-0054,Extract volume from name,,3000 ml
+PRICE_GLYNT_CLEAN,56,GLY-0055,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,57,GLY-0056,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,58,GLY-0057,Normalize product name,GLYNT Спрей для блиску  NUTRI  Shine Spray 100 мл,GLYNT Спрей для блиску NUTRI Shine Spray 100 мл
+PRICE_GLYNT_CLEAN,58,GLY-0057,Extract volume from name,,100 ml
+PRICE_GLYNT_CLEAN,59,GLY-0058,Extract volume from name,,30 ml
+PRICE_GLYNT_CLEAN,60,GLY-0059,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,61,GLY-0060,Extract volume from name,,250 ml
+PRICE_GLYNT_CLEAN,62,GLY-0061,Extract volume from name,,30 ml
+PRICE_GLYNT_CLEAN,63,GLY-0062,Extract volume from name,,100 ml
+PRICE_GLYNT_CLEAN,64,GLY-0063,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,65,GLY-0064,Extract volume from name,,100 ml
+PRICE_GLYNT_CLEAN,66,GLY-0065,Normalize product name,GLYNT Тонік п/випадіння  DERMA Ginkgo Energeticum 30 мл,GLYNT Тонік п/випадіння DERMA Ginkgo Energeticum 30 мл
+PRICE_GLYNT_CLEAN,66,GLY-0065,Extract volume from name,,30 ml
+PRICE_GLYNT_CLEAN,67,GLY-0066,Extract volume from name,,100 ml
+PRICE_GLYNT_CLEAN,68,GLY-0067,Extract volume from name,,30 ml
+PRICE_GLYNT_CLEAN,69,GLY-0068,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,70,GLY-0069,Extract volume from name,,250 ml
+PRICE_GLYNT_CLEAN,71,GLY-0070,Normalize product name,GLYNT Шампунь п/випадіння  REFRESH Shampoo 1000 мл,GLYNT Шампунь п/випадіння REFRESH Shampoo 1000 мл
+PRICE_GLYNT_CLEAN,71,GLY-0070,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,72,GLY-0071,Normalize product name,GLYNT Шампунь п/випадіння  REFRESH Shampoo 250 мл,GLYNT Шампунь п/випадіння REFRESH Shampoo 250 мл
+PRICE_GLYNT_CLEAN,72,GLY-0071,Extract volume from name,,250 ml
+PRICE_GLYNT_CLEAN,73,GLY-0072,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,74,GLY-0073,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,75,GLY-0074,Extract volume from name,,1000 ml
+PRICE_GLYNT_CLEAN,76,GLY-0075,Extract volume from name,,250 ml
+PRICE_GLYNT_CLEAN,77,GLY-0076,Normalize product name,GLYNT Smoothing Water Відновлення волосся  200 мл,GLYNT Smoothing Water Відновлення волосся 200 мл
+PRICE_GLYNT_CLEAN,77,GLY-0076,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,78,GLY-0077,Normalize product name,GLYNT Smoothing Water Відновлення волосся  500 мл,GLYNT Smoothing Water Відновлення волосся 500 мл
+PRICE_GLYNT_CLEAN,78,GLY-0077,Extract volume from name,,500 ml
+PRICE_GLYNT_CLEAN,79,GLY-0078,Normalize product name,GLYNT Smoothing Water Відновлення волосся  75 мл NEW!!,GLYNT Smoothing Water Відновлення волосся 75 мл NEW!!
+PRICE_GLYNT_CLEAN,79,GLY-0078,Extract volume from name,,75 ml
+PRICE_GLYNT_CLEAN,80,GLY-0079,Extract volume from name,,25 g
+PRICE_GLYNT_CLEAN,81,GLY-0080,Extract volume from name,,75 ml
+PRICE_GLYNT_CLEAN,82,GLY-0081,Extract volume from name,,100 ml
+PRICE_GLYNT_CLEAN,83,GLY-0082,Extract volume from name,,100 ml
+PRICE_GLYNT_CLEAN,84,GLY-0083,Extract volume from name,,75 ml
+PRICE_GLYNT_CLEAN,85,GLY-0084,Extract volume from name,,125 ml
+PRICE_GLYNT_CLEAN,86,GLY-0085,Extract volume from name,,125 ml
+PRICE_GLYNT_CLEAN,87,GLY-0086,Extract volume from name,,100 ml
+PRICE_GLYNT_CLEAN,88,GLY-0087,Extract volume from name,,125 ml
+PRICE_GLYNT_CLEAN,89,GLY-0088,Extract volume from name,,500 ml
+PRICE_GLYNT_CLEAN,90,GLY-0089,Extract volume from name,,300 ml
+PRICE_GLYNT_CLEAN,91,GLY-0090,Normalize product name,GLYNT Лак д/волосся сил.фікс.  VENTO Texture Spray 300 мл h5,GLYNT Лак д/волосся сил.фікс. VENTO Texture Spray 300 мл h5
+PRICE_GLYNT_CLEAN,91,GLY-0090,Extract volume from name,,300 ml
+PRICE_GLYNT_CLEAN,92,GLY-0091,Extract volume from name,,500 ml
+PRICE_GLYNT_CLEAN,93,GLY-0092,Extract volume from name,,300 ml
+PRICE_GLYNT_CLEAN,94,GLY-0093,Extract volume from name,,500 ml
+PRICE_GLYNT_CLEAN,95,GLY-0094,Extract volume from name,,150 ml
+PRICE_GLYNT_CLEAN,96,GLY-0095,Extract volume from name,,150 ml
+PRICE_GLYNT_CLEAN,97,GLY-0096,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,98,GLY-0097,Extract volume from name,,500 ml
+PRICE_GLYNT_CLEAN,99,GLY-0098,Extract volume from name,,75 ml
+PRICE_GLYNT_CLEAN,100,GLY-0099,Extract volume from name,,75 ml
+PRICE_GLYNT_CLEAN,101,GLY-0100,Extract volume from name,,6 g
+PRICE_GLYNT_CLEAN,102,GLY-0101,Normalize product name,GLYNT Спрей для полегш. Розчіс.  BREEZE Smoothing Spray 200 мл h0,GLYNT Спрей для полегш. Розчіс. BREEZE Smoothing Spray 200 мл h0
+PRICE_GLYNT_CLEAN,102,GLY-0101,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,103,GLY-0102,Extract volume from name,,300 ml
+PRICE_GLYNT_CLEAN,104,GLY-0103,Extract volume from name,,150 ml
+PRICE_GLYNT_CLEAN,105,GLY-0104,Extract volume from name,,150 ml
+PRICE_GLYNT_CLEAN,106,GLY-0105,Extract volume from name,,150 ml
+PRICE_GLYNT_CLEAN,107,GLY-0106,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,108,GLY-0107,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,109,GLY-0108,Extract volume from name,,200 ml
+PRICE_GLYNT_CLEAN,110,GLY-0109,Extract volume from name,,20 ml
+PRICE_GLYNT_CLEAN,111,GLY-0110,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,112,GLY-0111,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,113,GLY-0112,Extract volume from name,,20 ml
+PRICE_GLYNT_CLEAN,114,GLY-0113,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,115,GLY-0114,Extract volume from name,,30 ml
+PRICE_GLYNT_CLEAN,116,GLY-0115,Extract volume from name,,30 ml
+PRICE_GLYNT_CLEAN,117,GLY-0116,Extract volume from name,,30 ml
+PRICE_GLYNT_CLEAN,118,GLY-0117,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,119,GLY-0118,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,120,GLY-0119,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,121,GLY-0120,Normalize product name,GLYNT МИНІ-ПРОДУКТ Маска NUTRI  50 мл,GLYNT МИНІ-ПРОДУКТ Маска NUTRI 50 мл
+PRICE_GLYNT_CLEAN,121,GLY-0120,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,122,GLY-0121,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,123,GLY-0122,Extract volume from name,,20 ml
+PRICE_GLYNT_CLEAN,124,GLY-0123,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,125,GLY-0124,Extract volume from name,,20 ml
+PRICE_GLYNT_CLEAN,126,GLY-0125,Extract volume from name,,20 ml
+PRICE_GLYNT_CLEAN,127,GLY-0126,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,128,GLY-0127,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,129,GLY-0128,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,130,GLY-0129,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,131,GLY-0130,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,132,GLY-0131,Extract volume from name,,20 ml
+PRICE_GLYNT_CLEAN,133,GLY-0132,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,134,GLY-0133,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,135,GLY-0134,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,136,GLY-0135,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,137,GLY-0136,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,138,GLY-0137,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,139,GLY-0138,Extract volume from name,,50 ml
+PRICE_GLYNT_CLEAN,140,GLY-0139,Extract volume from name,,50 ml
+PRICE_GRAHAM_HILL_CLEAN,2,GRA-0001,Extract volume from name,,100 ml
+PRICE_GRAHAM_HILL_CLEAN,3,GRA-0002,Extract volume from name,,1000 ml
+PRICE_GRAHAM_HILL_CLEAN,4,GRA-0003,Extract volume from name,,250 ml
+PRICE_GRAHAM_HILL_CLEAN,5,GRA-0004,Extract volume from name,,100 ml
+PRICE_GRAHAM_HILL_CLEAN,6,GRA-0005,Extract volume from name,,100 ml
+PRICE_GRAHAM_HILL_CLEAN,7,GRA-0006,Extract volume from name,,1000 ml
+PRICE_GRAHAM_HILL_CLEAN,8,GRA-0007,Extract volume from name,,250 ml
+PRICE_GRAHAM_HILL_CLEAN,9,GRA-0008,Extract volume from name,,100 ml
+PRICE_GRAHAM_HILL_CLEAN,10,GRA-0009,Extract volume from name,,1000 ml
+PRICE_GRAHAM_HILL_CLEAN,11,GRA-0010,Extract volume from name,,250 ml
+PRICE_GRAHAM_HILL_CLEAN,12,GRA-0011,Extract volume from name,,100 ml
+PRICE_GRAHAM_HILL_CLEAN,13,GRA-0012,Extract volume from name,,200 ml
+PRICE_GRAHAM_HILL_CLEAN,14,GRA-0013,Extract volume from name,,150 ml
+PRICE_GRAHAM_HILL_CLEAN,15,GRA-0014,Extract volume from name,,30 ml
+PRICE_GRAHAM_HILL_CLEAN,16,GRA-0015,Extract volume from name,,85 g
+PRICE_GRAHAM_HILL_CLEAN,17,GRA-0016,Normalize product name,GRAHAM HILL Порошок для очищення бороди  RASCASSE 40 г,GRAHAM HILL Порошок для очищення бороди RASCASSE 40 г
+PRICE_GRAHAM_HILL_CLEAN,17,GRA-0016,Extract volume from name,,40 g
+PRICE_GRAHAM_HILL_CLEAN,18,GRA-0017,Extract volume from name,,100 ml
+PRICE_GRAHAM_HILL_CLEAN,19,GRA-0018,Extract volume from name,,100 ml
+PRICE_GRAHAM_HILL_CLEAN,20,GRA-0019,Extract volume from name,,100 ml
+PRICE_GRAHAM_HILL_CLEAN,21,GRA-0020,Extract volume from name,,75 ml
+PRICE_GRAHAM_HILL_CLEAN,22,GRA-0021,Normalize product name,GRAHAM HILL Крем звол. для стайлінгу  BROOKLANDS 150 мл,GRAHAM HILL Крем звол. для стайлінгу BROOKLANDS 150 мл
+PRICE_GRAHAM_HILL_CLEAN,22,GRA-0021,Extract volume from name,,150 ml
+PRICE_GRAHAM_HILL_CLEAN,23,GRA-0022,Extract volume from name,,100 ml
+PRICE_GRAHAM_HILL_CLEAN,24,GRA-0023,Extract volume from name,,75 ml
+PRICE_GRAHAM_HILL_CLEAN,25,GRA-0024,Extract volume from name,,75 ml
+PRICE_GRAHAM_HILL_CLEAN,26,GRA-0025,Extract volume from name,,200 ml
+PRICE_LOTHMANN_CLEAN,2,LOT-0001,Extract volume from name,,100 ml
+PRICE_LOTHMANN_CLEAN,3,LOT-0002,Extract volume from name,,100 ml
+PRICE_LOTHMANN_CLEAN,4,LOT-0003,Extract volume from name,,100 ml
+PRICE_LOTHMANN_CLEAN,6,LOT-0005,Extract volume from name,,60 ml
+PRICE_LOTHMANN_CLEAN,7,LOT-0006,Extract volume from name,,60 ml
+PRICE_LOTHMANN_CLEAN,8,LOT-0007,Extract volume from name,,60 ml
+PRICE_LOTHMANN_CLEAN,9,LOT-0008,Extract volume from name,,60 ml
+PRICE_LOTHMANN_CLEAN,10,LOT-0009,Extract volume from name,,60 ml
+PRICE_LOTHMANN_CLEAN,11,LOT-0010,Extract volume from name,,60 ml
+PRICE_LOTHMANN_CLEAN,12,LOT-0011,Extract volume from name,,60 ml
+PRICE_LOTHMANN_CLEAN,13,LOT-0012,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,14,LOT-0013,Extract volume from name,,60 ml
+PRICE_LOTHMANN_CLEAN,15,LOT-0014,Extract volume from name,,60 ml
+PRICE_LOTHMANN_CLEAN,16,LOT-0015,Extract volume from name,,60 ml
+PRICE_LOTHMANN_CLEAN,17,LOT-0016,Extract volume from name,,60 ml
+PRICE_LOTHMANN_CLEAN,18,LOT-0017,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,19,LOT-0018,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,20,LOT-0019,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,21,LOT-0020,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,22,LOT-0021,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,23,LOT-0022,Extract volume from name,,500 g
+PRICE_LOTHMANN_CLEAN,24,LOT-0023,Extract volume from name,,500 g
+PRICE_LOTHMANN_CLEAN,25,LOT-0024,Extract volume from name,,500 g
+PRICE_LOTHMANN_CLEAN,26,LOT-0025,Extract volume from name,,500 g
+PRICE_LOTHMANN_CLEAN,28,LOT-0027,Normalize product name,LOTHMANN Захист волосся  SOIN RECOVERY NUTRI PROTECT 250 мл,LOTHMANN Захист волосся SOIN RECOVERY NUTRI PROTECT 250 мл
+PRICE_LOTHMANN_CLEAN,28,LOT-0027,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,29,LOT-0028,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,30,LOT-0029,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,31,LOT-0030,Normalize product name,"LOTHMANN Шампунь глибокого очищення ph 8,5 ALCALIN   1000 мл","LOTHMANN Шампунь глибокого очищення ph 8,5 ALCALIN 1000 мл"
+PRICE_LOTHMANN_CLEAN,31,LOT-0030,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,32,LOT-0031,Extract volume from name,,5000 ml
+PRICE_LOTHMANN_CLEAN,33,LOT-0032,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,34,LOT-0033,Extract volume from name,,200 ml
+PRICE_LOTHMANN_CLEAN,35,LOT-0034,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,36,LOT-0035,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,37,LOT-0036,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,38,LOT-0037,Extract volume from name,,500 ml
+PRICE_LOTHMANN_CLEAN,39,LOT-0038,Extract volume from name,,100 ml
+PRICE_LOTHMANN_CLEAN,40,LOT-0039,Extract volume from name,,150 ml
+PRICE_LOTHMANN_CLEAN,41,LOT-0040,Extract volume from name,,100 ml
+PRICE_LOTHMANN_CLEAN,42,LOT-0041,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,43,LOT-0042,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,44,LOT-0043,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,45,LOT-0044,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,46,LOT-0045,Normalize product name,LOTHMANN  Маска HYDRATANT MASK UNITED COLOR 500 мл,LOTHMANN Маска HYDRATANT MASK UNITED COLOR 500 мл
+PRICE_LOTHMANN_CLEAN,46,LOT-0045,Extract volume from name,,500 ml
+PRICE_LOTHMANN_CLEAN,47,LOT-0046,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,48,LOT-0047,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,49,LOT-0048,Extract volume from name,,150 ml
+PRICE_LOTHMANN_CLEAN,50,LOT-0049,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,51,LOT-0050,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,52,LOT-0051,Extract volume from name,,1000 ml
+PRICE_LOTHMANN_CLEAN,53,LOT-0052,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,54,LOT-0053,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,55,LOT-0054,Extract volume from name,,500 ml
+PRICE_LOTHMANN_CLEAN,56,LOT-0055,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,57,LOT-0056,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,58,LOT-0057,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,59,LOT-0058,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,60,LOT-0059,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,61,LOT-0060,Extract volume from name,,150 ml
+PRICE_LOTHMANN_CLEAN,62,LOT-0061,Extract volume from name,,150 ml
+PRICE_LOTHMANN_CLEAN,63,LOT-0062,Extract volume from name,,50 ml
+PRICE_LOTHMANN_CLEAN,64,LOT-0063,Extract volume from name,,150 ml
+PRICE_LOTHMANN_CLEAN,65,LOT-0064,Extract volume from name,,100 ml
+PRICE_LOTHMANN_CLEAN,66,LOT-0065,Extract volume from name,,100 ml
+PRICE_LOTHMANN_CLEAN,67,LOT-0066,Extract volume from name,,200 ml
+PRICE_LOTHMANN_CLEAN,68,LOT-0067,Extract volume from name,,100 ml
+PRICE_LOTHMANN_CLEAN,69,LOT-0068,Extract volume from name,,100 ml
+PRICE_LOTHMANN_CLEAN,70,LOT-0069,Extract volume from name,,300 ml
+PRICE_LOTHMANN_CLEAN,71,LOT-0070,Extract volume from name,,300 ml
+PRICE_LOTHMANN_CLEAN,72,LOT-0071,Extract volume from name,,400 ml
+PRICE_LOTHMANN_CLEAN,73,LOT-0072,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,74,LOT-0073,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,75,LOT-0074,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,76,LOT-0075,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,77,LOT-0076,Extract volume from name,,150 ml
+PRICE_LOTHMANN_CLEAN,78,LOT-0077,Normalize product name,LOTHMANN Спрей-термозахист  WONDER PROTECT 200 мл NEW!!!,LOTHMANN Спрей-термозахист WONDER PROTECT 200 мл NEW!!!
+PRICE_LOTHMANN_CLEAN,78,LOT-0077,Extract volume from name,,200 ml
+PRICE_LOTHMANN_CLEAN,79,LOT-0078,Extract volume from name,,200 ml
+PRICE_LOTHMANN_CLEAN,80,LOT-0079,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,81,LOT-0080,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,82,LOT-0081,Extract volume from name,,150 ml
+PRICE_LOTHMANN_CLEAN,83,LOT-0082,Extract volume from name,,100 ml
+PRICE_LOTHMANN_CLEAN,84,LOT-0083,Extract volume from name,,250 ml
+PRICE_LOTHMANN_CLEAN,85,LOT-0084,Extract volume from name,,150 ml
+PRICE_LOTHMANN_CLEAN,86,LOT-0085,Extract volume from name,,250 ml
+PRICE_LOVIEN_CLEAN,2,LOV-0001,Normalize product name,LOVIEN Стійка крем-фарба  LOVIN COLOR 100 мл,LOVIEN Стійка крем-фарба LOVIN COLOR 100 мл
+PRICE_LOVIEN_CLEAN,2,LOV-0001,Missing or technical category,,
+PRICE_LOVIEN_CLEAN,2,LOV-0001,Extract volume from name,,100 ml
+PRICE_LOVIEN_CLEAN,3,LOV-0002,Extract volume from name,,1000 ml
+PRICE_LOVIEN_CLEAN,4,LOV-0003,Extract volume from name,,1000 ml
+PRICE_LOVIEN_CLEAN,5,LOV-0004,Extract volume from name,,1000 ml
+PRICE_LOVIEN_CLEAN,6,LOV-0005,Extract volume from name,,1000 ml
+PRICE_LOVIEN_CLEAN,7,LOV-0006,Extract volume from name,,150 ml
+PRICE_LOVIEN_CLEAN,8,LOV-0007,Extract volume from name,,150 ml
+PRICE_LOVIEN_CLEAN,9,LOV-0008,Extract volume from name,,150 ml
+PRICE_LOVIEN_CLEAN,10,LOV-0009,Normalize product name,Lovien Окисник 40 Vol 12%  150 мл,Lovien Окисник 40 Vol 12% 150 мл
+PRICE_LOVIEN_CLEAN,10,LOV-0009,Extract volume from name,,150 ml
+PRICE_LOVIEN_CLEAN,11,LOV-0010,Extract volume from name,,50 g
+PRICE_LOVIEN_CLEAN,12,LOV-0011,Extract volume from name,,400 g
+PRICE_LOVIEN_CLEAN,13,LOV-0012,Extract volume from name,,250 ml
+PRICE_LOVIEN_CLEAN,14,LOV-0013,Extract volume from name,,10 ml
+PRICE_LOVIEN_CLEAN,15,LOV-0014,Extract volume from name,,8 ml
+PRICE_LOVIEN_CLEAN,16,LOV-0015,Normalize product name,Lovien Ампула ШТУКА !!!  MINERAL OIL сonditioner 10*10 мл,Lovien Ампула ШТУКА !!! MINERAL OIL сonditioner 10*10 мл
+PRICE_LOVIEN_CLEAN,16,LOV-0015,Extract volume from name,,10 ml
+PRICE_LOVIEN_CLEAN,17,LOV-0016,Extract volume from name,,250 ml
+PRICE_LOVIEN_CLEAN,18,LOV-0017,Extract volume from name,,150 ml
+PRICE_LOVIEN_CLEAN,19,LOV-0018,Extract volume from name,,1000 ml
+PRICE_LOVIEN_CLEAN,20,LOV-0019,Extract volume from name,,150 ml
+PRICE_LOVIEN_CLEAN,21,LOV-0020,Extract volume from name,,250 ml
+PRICE_LOVIEN_CLEAN,22,LOV-0021,Extract volume from name,,500 ml
+PRICE_LOVIEN_CLEAN,23,LOV-0022,Normalize product name,Lovien Сироватка для волосся  SERUM THERAPY 100 мл,Lovien Сироватка для волосся SERUM THERAPY 100 мл
+PRICE_LOVIEN_CLEAN,23,LOV-0022,Extract volume from name,,100 ml
+PRICE_LOVIEN_CLEAN,24,LOV-0023,Extract volume from name,,120 ml
+PRICE_LOVIEN_CLEAN,25,LOV-0024,Extract volume from name,,250 ml
+PRICE_LOVIEN_CLEAN,26,LOV-0025,Extract volume from name,,1000 ml
+PRICE_LOVIEN_CLEAN,27,LOV-0026,Extract volume from name,,150 ml
+PRICE_LOVIEN_CLEAN,28,LOV-0027,Extract volume from name,,300 ml
+PRICE_LOVIEN_CLEAN,29,LOV-0028,Normalize product name,Lovien Шампунь проти лупи  ANTIDANDRUFF 150 мл,Lovien Шампунь проти лупи ANTIDANDRUFF 150 мл
+PRICE_LOVIEN_CLEAN,29,LOV-0028,Extract volume from name,,150 ml
+PRICE_LOVIEN_CLEAN,30,LOV-0029,Extract volume from name,,300 ml
+PRICE_LOVIEN_CLEAN,31,LOV-0030,Extract volume from name,,1000 ml
+PRICE_LOVIEN_CLEAN,32,LOV-0031,Extract volume from name,,150 ml
+PRICE_LOVIEN_CLEAN,33,LOV-0032,Extract volume from name,,300 ml
+PRICE_LOVIEN_CLEAN,34,LOV-0033,Extract volume from name,,10 ml
+PRICE_LOVIEN_CLEAN,35,LOV-0034,Extract volume from name,,150 ml
+PRICE_LOVIEN_CLEAN,36,LOV-0035,Extract volume from name,,500 ml
+PRICE_LOVIEN_CLEAN,37,LOV-0036,Extract volume from name,,250 ml
+ENVIE_CLEAN,2,ENV-0001,Normalize category,#N/A,
+ENVIE_CLEAN,3,ENV-0002,Normalize category,#N/A,Hair Oil
+ENVIE_CLEAN,8,ENV-0007,Normalize product name,"FIXATIVE RE-BONDER  Фікс відновлюючий розчин, EN368","FIXATIVE RE-BONDER Фікс відновлюючий розчин, EN368"
+ENVIE_CLEAN,35,ENV-0034,Normalize product name,"ENVIE SUBLIME MILK Шампунь з молочними протеінами  з кислим PH 1000ml  EN426, EN426","ENVIE SUBLIME MILK Шампунь з молочними протеінами з кислим PH 1000ml EN426, EN426"
+ENVIE_CLEAN,36,ENV-0035,Normalize product name,"ENVIE SUBLIME SHAMPOO MILK 250 ML EN425 Шампунь з молочними протеінами  з кислим PH, EN425","ENVIE SUBLIME SHAMPOO MILK 250 ML EN425 Шампунь з молочними протеінами з кислим PH, EN425"
+ENVIE_CLEAN,37,ENV-0036,Normalize product name,"ENVIE SUBLIME MILK Маска з молочними протеінами  з кислим PH 1000ml  EN428, EN428","ENVIE SUBLIME MILK Маска з молочними протеінами з кислим PH 1000ml EN428, EN428"
+ENVIE_CLEAN,38,ENV-0037,Normalize product name,"ENVIE SUBLIME MILK MASK 250 ML EN427 Маска з молочними протеїнамиз  кислим PH , EN427","ENVIE SUBLIME MILK MASK 250 ML EN427 Маска з молочними протеїнамиз кислим PH , EN427"
+ENVIE_CLEAN,39,ENV-0038,Normalize product name,"ENVIE SUBLIME MILK ALL IN ONE  10 в 1 250 ML  EN434 Крем термозахист 10 в 1, EN434","ENVIE SUBLIME MILK ALL IN ONE 10 в 1 250 ML EN434 Крем термозахист 10 в 1, EN434"
+ENVIE_CLEAN,40,ENV-0039,Normalize product name,"ENVIE SUBLIME MILK Двохфазний спрей 250 ML  , EN431","ENVIE SUBLIME MILK Двохфазний спрей 250 ML , EN431"
+ENVIE_CLEAN,44,ENV-0043,Normalize product name,"ENVIE MILK SUBLIME Молочний Мус-Крем  EN430, EN430","ENVIE MILK SUBLIME Молочний Мус-Крем EN430, EN430"
+ENVIE_CLEAN,49,ENV-0048,Normalize product name,"ENVIE CROMACTIVE COLOR PROTECTOR  250 ML  Шампунь  для захисту кольору з кислим PH з екстр.граната, EN439","ENVIE CROMACTIVE COLOR PROTECTOR 250 ML Шампунь для захисту кольору з кислим PH з екстр.граната, EN439"
+EXTREMO_CLEAN,2,EXT-0001,Normalize category,Артикул,Lightening Powder
+EXTREMO_CLEAN,3,EXT-0002,Normalize category,Артикул,Lightening Powder
+EXTREMO_CLEAN,4,EXT-0003,Normalize category,Артикул,Lightening Powder
+EXTREMO_CLEAN,5,EXT-0004,Normalize category,Артикул,
+EXTREMO_CLEAN,6,EXT-0005,Normalize category,Артикул,
+EXTREMO_CLEAN,7,EXT-0006,Normalize category,Артикул,Shampoo
+EXTREMO_CLEAN,8,EXT-0007,Normalize category,Артикул,Conditioner
+EXTREMO_CLEAN,34,EXT-0033,Normalize product name,"EXTREMO SILKY&SOFT  Кристали з аргановою олією,  EX307","EXTREMO SILKY&SOFT Кристали з аргановою олією, EX307"
+EXTREMO_CLEAN,35,EXT-0034,Normalize product name,"EXTREMO SPLIT-ENDS  Кристали інтенсив,  EX306","EXTREMO SPLIT-ENDS Кристали інтенсив, EX306"
+EXTREMO_CLEAN,36,EXT-0035,Normalize product name,"EXTREMO  Кристали Макадамія ,  EX315","EXTREMO Кристали Макадамія , EX315"
+RAYWELL_CLEAN,2,RAY-0001,Normalize category,Артикул,
+RAYWELL_CLEAN,3,RAY-0002,Normalize category,Артикул,Hair Oil
+RAYWELL_CLEAN,4,RAY-0003,Normalize category,Артикул,Lightening Powder
+RAYWELL_CLEAN,5,RAY-0004,Normalize category,Артикул,Lightening Powder
+RAYWELL_CLEAN,6,RAY-0005,Normalize category,Артикул,Lightening Powder
+RAYWELL_CLEAN,7,RAY-0006,Normalize category,Артикул,Lightening Powder
+RAYWELL_CLEAN,8,RAY-0007,Normalize category,Артикул,
+RAYWELL_CLEAN,9,RAY-0008,Normalize category,Артикул,Conditioner
+RAYWELL_CLEAN,61,RAY-0060,Normalize product name,"Закріплювач  міні , RD516","Закріплювач міні , RD516"
+RAYWELL_CLEAN,69,RAY-0068,Normalize product name,"Ампули  проти  випадіння волосся  для жінок, RR334","Ампули проти випадіння волосся для жінок, RR334"
+RAYWELL_CLEAN,100,RAY-0099,Normalize category,24  карати  БОТОКС,24 карати БОТОКС
+RAYWELL_CLEAN,101,RAY-0100,Normalize product name,"Флюїд  для кучерявого волосся, RM117","Флюїд для кучерявого волосся, RM117"

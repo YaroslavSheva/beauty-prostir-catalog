@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <title>Beauty Prostir Catalog</title>
+    <link rel="icon" type="image/png" href="favicon.png?v=20260613-02" />
+    <link rel="stylesheet" href="styles.css?v=20260613-02" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="Beauty Prostir">
+        <img class="brand-logo" src="logo-mark-optimized.jpg" alt="Beauty Prostir" width="320" height="256" decoding="async" />
+        <span>
+          <strong>Beauty Prostir</strong>
+          <small>професійний догляд для волосся</small>
+        </span>
+      </a>
+      <nav class="nav" aria-label="Навігація">
+        <a href="#catalog">Каталог</a>
+        <a class="cart-nav" href="#cart">Кошик <span id="cart-count" class="cart-count">0</span></a>
+        <a href="#expertise">Експертність</a>
+        <a href="#consultation">Консультація</a>
+        <a href="https://instagram.com/anna_shevchenko_as/" target="_blank" rel="noreferrer">Instagram</a>
+      </nav>
+    </header>
+
+    <main id="top" class="site-main">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">салонна експертиза</p>
+          <h1>Професійний догляд після кератину, ботоксу та нанопластики</h1>
+          <p class="hero-lead">
+            Компактний каталог з відібраними позиціями: шампуні, маски,
+            термозахист, реконструкція та догляд після салонних процедур.
+          </p>
+          <div class="hero-badges" aria-label="Напрями експертності">
+            <span>Кератин</span>
+            <span>Ботокс</span>
+            <span>Нанопластика</span>
+            <span>Відновлення</span>
+          </div>
+          <div class="hero-actions">
+            <a class="primary-action" href="#catalog">Дивитися товари</a>
+            <a class="secondary-action" href="#consultation">Підібрати догляд</a>
+          </div>
+          <div class="hero-trust" aria-label="Переваги">
+            <div>
+              <strong>Відбір майстра</strong>
+              <span>Тільки релевантні позиції без перевантаження.</span>
+            </div>
+            <div>
+              <strong>Швидке замовлення</strong>
+              <span>Кошик, знижки та заявка в одному сценарії.</span>
+            </div>
+            <div>
+              <strong>Пояснення по догляду</strong>
+              <span>Підкажемо, що працює після процедур саме у вас.</span>
+            </div>
+          </div>
+        </div>
+
+        <aside class="hero-spotlight" aria-label="Рекомендований товар">
+          <img class="hero-spotlight-logo" src="logo-beauty-prostir-optimized.jpg" alt="Beauty Prostir" width="700" height="493" decoding="async" />
+          <p class="hero-spotlight-label">Рекомендований товар</p>
+          <h2 id="hero-product-name" class="hero-product-name">Підбираємо актуальну позицію...</h2>
+          <p id="hero-product-meta" class="hero-product-meta">Бренд · Категорія · Об'єм</p>
+          <div class="hero-price-row">
+            <strong id="hero-product-price" class="hero-product-price">0 грн</strong>
+            <span id="hero-product-brand" class="hero-product-brand">Beauty Prostir</span>
+          </div>
+          <div class="hero-spotlight-actions">
+            <button id="hero-product-cart" class="primary-action" type="button">Додати в кошик</button>
+            <a class="secondary-action" href="#catalog">Перейти в каталог</a>
+          </div>
+          <div class="hero-product-media">
+            <img id="hero-product-photo" src="hero-salon-optimized.jpg" alt="Професійний догляд у салоні" width="1200" height="600" decoding="async" fetchpriority="high" />
+          </div>
+        </aside>
+      </section>
+
+      <section id="catalog" class="catalog-section">
+        <div class="section-heading">
+          <p class="eyebrow">професійний догляд</p>
+          <h2>Каталог товарів</h2>
+        </div>
+
+        <div class="search-spotlight" aria-label="Пошук у каталозі">
+          <label class="search-spotlight-field">
+            <span>Швидкий пошук по каталогу</span>
+            <input id="search" type="search" placeholder="Введіть назву товару або бренд" />
+          </label>
+          <p class="search-spotlight-note">
+            Почніть з пошуку. Бренд, категорія та країна допоможуть звузити вибір далі.
+          </p>
+        </div>
+
+        <div class="catalog-layout">
+          <aside class="filters" aria-label="Фільтри каталогу">
+            <label>
+              Бренд
+              <select id="brand-filter"></select>
+            </label>
+            <label>
+              Категорія
+              <select id="category-filter"></select>
+            </label>
+            <label>
+              Країна
+              <select id="country-filter"></select>
+            </label>
+            <div class="filter-row">
+              <button id="reset-filters" type="button">Скинути</button>
+              <span id="result-count">0 позицій</span>
+            </div>
+          </aside>
+
+          <div class="catalog-panel">
+            <div id="product-grid" class="product-grid" aria-live="polite"></div>
+            <nav class="pagination" aria-label="Сторінки каталогу">
+              <button id="prev-page" type="button">Назад</button>
+              <span id="page-status">Сторінка 1</span>
+              <button id="next-page" type="button">Далі</button>
+            </nav>
+          </div>
+        </div>
+      </section>
+
+      <section id="cart" class="cart-section">
+        <div class="section-heading">
+          <p class="eyebrow">оформлення замовлення</p>
+          <h2>Кошик</h2>
+        </div>
+        <div class="cart-layout">
+          <div class="cart-items-panel">
+            <p id="cart-empty" class="cart-empty">Кошик порожній. Додайте товари з каталогу.</p>
+            <div id="cart-items" class="cart-items" aria-live="polite"></div>
+          </div>
+          <form id="checkout-form" class="checkout-form">
+            <div class="cart-summary">
+              <div class="summary-row">
+                <span>Товари</span>
+                <strong id="cart-subtotal">0 грн</strong>
+              </div>
+              <div class="summary-row">
+                <span id="cart-discount-label">Знижка</span>
+                <strong id="cart-discount">0 грн</strong>
+              </div>
+              <div class="summary-row">
+                <span>Доставка</span>
+                <strong id="cart-delivery">за тарифами Нової пошти</strong>
+              </div>
+              <div class="summary-total">
+                <span>До сплати</span>
+                <strong id="cart-total">0 грн</strong>
+              </div>
+              <p id="discount-note" class="discount-note">Знижка 3% від 1000 грн, 4% від 1500 грн, 5% і безкоштовна доставка від 2000 грн.</p>
+            </div>
+            <label>
+              Ім'я
+              <input type="text" name="name" placeholder="Ваше ім'я" required />
+            </label>
+            <label>
+              Телефон
+              <span class="phone-field">
+                <span class="phone-prefix">+380</span>
+                <input type="tel" name="phone" inputmode="numeric" autocomplete="tel-national" placeholder="__ ___ __ __" pattern="[0-9]{9}" maxlength="9" required />
+              </span>
+            </label>
+            <label>
+              Email
+              <input type="email" name="email" placeholder="для чека або уточнень" />
+            </label>
+            <fieldset class="checkout-group">
+              <legend>Доставка</legend>
+              <label class="radio-option">
+                <input type="radio" name="deliveryMethod" value="Нова пошта: відділення" checked />
+                <span>Нова пошта: відділення</span>
+              </label>
+              <label class="radio-option">
+                <input type="radio" name="deliveryMethod" value="Нова пошта: поштомат" />
+                <span>Нова пошта: поштомат</span>
+              </label>
+              <label class="radio-option">
+                <input type="radio" name="deliveryMethod" value="Нова пошта: кур'єр" />
+                <span>Нова пошта: кур'єр на адресу</span>
+              </label>
+            </fieldset>
+            <label>
+              Місто
+              <input type="text" name="city" placeholder="Наприклад: Полтава" required />
+            </label>
+            <label>
+              Відділення / поштомат / адреса
+              <input type="text" name="warehouse" placeholder="Наприклад: Відділення №12" required />
+            </label>
+            <fieldset class="checkout-group">
+              <legend>Оплата</legend>
+              <label class="radio-option">
+                <input type="radio" name="paymentMethod" value="Оплата при отриманні" checked />
+                <span>Оплата при отриманні</span>
+              </label>
+              <label class="radio-option">
+                <input type="radio" name="paymentMethod" value="Переказ на карту" />
+                <span>Переказ на карту</span>
+              </label>
+              <label class="radio-option">
+                <input type="radio" name="paymentMethod" value="Онлайн-оплата після підтвердження менеджером" />
+                <span>Онлайн-оплата після підтвердження менеджером</span>
+              </label>
+            </fieldset>
+            <label>
+              Коментар
+              <textarea name="comment" rows="3" placeholder="Побажання до замовлення або підбору"></textarea>
+            </label>
+            <label class="agree-option">
+              <input type="checkbox" name="agree" required />
+              <span>Погоджуюсь з умовами замовлення та обробкою даних для зв'язку і доставки.</span>
+            </label>
+            <button type="button">Оформити замовлення</button>
+            <p id="checkout-note" class="form-note" role="status"></p>
+          </form>
+          <section id="checkout-success" class="checkout-success" hidden aria-live="polite">
+            <div class="checkout-success-mark" aria-hidden="true">✓</div>
+            <p class="checkout-success-eyebrow">Замовлення оформлене</p>
+            <h3 class="checkout-success-title">Дякуємо, заявку отримано</h3>
+            <p id="checkout-success-message" class="checkout-success-message">
+              Менеджер зв'яжеться з вами для уточнення деталей замовлення.
+            </p>
+            <p id="checkout-success-order" class="checkout-success-order"></p>
+            <button id="checkout-success-reset" class="primary-action checkout-success-button" type="button">Продовжити покупки</button>
+          </section>
+        </div>
+      </section>
+
+      <section id="expertise" class="expertise-section">
+        <div class="expert-copy">
+          <p class="eyebrow">10 років практики</p>
+          <h2>Підбір від майстра, який знає волосся після процедур</h2>
+          <p>
+            Досвід салону допомагає рекомендувати засоби не навмання, а під стан
+            волосся, процедуру та домашній режим догляду. Особливо це важливо після
+            кератину, ботоксу, нанопластики, реконструкції та освітлення.
+          </p>
+          <div class="expert-profile">
+            <strong>Анна | Beauty-експерт</strong>
+            <span>Полтава</span>
+            <a href="https://instagram.com/anna_shevchenko_as/" target="_blank" rel="noreferrer">@anna_shevchenko_as</a>
+          </div>
+        </div>
+        <div class="expert-points">
+          <article>
+            <h3>Після процедур</h3>
+            <p>Підбір для кератину, ботоксу, нанопластики, реконструкції та blond-догляду.</p>
+          </article>
+          <article>
+            <h3>10 років досвіду</h3>
+            <p>Рекомендації спираються на щоденну роботу з різними типами волосся.</p>
+          </article>
+          <article>
+            <h3>Навчання майстрів</h3>
+            <p>Навчання спеціалістів з 0 до рівня Expert і підвищення кваліфікації.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="consultation" class="consultation-section">
+        <div class="section-heading">
+          <p class="eyebrow">індивідуальний підбір</p>
+          <h2>Замовити консультацію майстра</h2>
+        </div>
+        <div class="consultation-layout">
+          <div class="consultation-copy">
+            <p>
+              Якщо не знаєте, який засіб підійде після процедури, залиште запит.
+              Майстер допоможе підібрати домашній догляд під тип волосся, історію
+              процедур і бажаний результат.
+            </p>
+            <div class="consultation-actions">
+              <a class="primary-action" href="#consultation-form">Заповнити запит</a>
+              <a class="secondary-action" href="https://t.me/hairshop_as" target="_blank" rel="noreferrer">Написати в Telegram</a>
+              <a class="secondary-action" href="https://instagram.com/anna_shevchenko_as/" target="_blank" rel="noreferrer">Написати в Instagram</a>
+            </div>
+          </div>
+          <form id="consultation-form" class="consultation-form">
+            <p class="form-intro">Заповніть коротко, що потрібно підібрати. Ми відкриємо Telegram, а текст заявки буде готовий для відправки.</p>
+            <label>
+              Ім'я
+              <input type="text" name="name" placeholder="Ваше ім'я" />
+            </label>
+            <label>
+              Телефон
+              <span class="phone-field">
+                <span class="phone-prefix">+380</span>
+                <input type="tel" name="phone" inputmode="numeric" autocomplete="tel-national" placeholder="__ ___ __ __" pattern="[0-9]{9}" maxlength="9" />
+              </span>
+            </label>
+            <label>
+              Що потрібно підібрати
+              <textarea name="request" rows="4" placeholder="Наприклад: догляд після кератину, сухе пористе волосся"></textarea>
+            </label>
+            <button type="button">Надіслати в Telegram</button>
+            <p id="consultation-note" class="form-note" role="status"></p>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <div id="image-lightbox" class="image-lightbox" hidden aria-hidden="true">
+      <button id="image-lightbox-close" class="image-lightbox-close" type="button" aria-label="Закрити перегляд">×</button>
+      <div class="image-lightbox-stage">
+        <img id="image-lightbox-photo" src="" alt="" />
+      </div>
+    </div>
+
+    <div id="site-toast" class="site-toast" hidden aria-live="polite" aria-atomic="true">
+      <div id="site-toast-card" class="site-toast-card">
+        <strong id="site-toast-title" class="site-toast-title"></strong>
+        <p id="site-toast-message" class="site-toast-message"></p>
+      </div>
+    </div>
+
+    <div id="success-modal" class="success-modal" hidden aria-hidden="true">
+      <div class="success-modal-backdrop"></div>
+      <div class="success-modal-card" role="dialog" aria-modal="true" aria-labelledby="success-modal-title">
+        <div class="success-modal-mark" aria-hidden="true">✓</div>
+        <p class="success-modal-eyebrow">Замовлення оформлене</p>
+        <h2 id="success-modal-title" class="success-modal-title">Дякуємо, заявку отримано</h2>
+        <p class="success-modal-text">
+          Менеджер Beauty Prostir зв'яжеться з вами для уточнення деталей замовлення,
+          підтвердження наявності та доставки.
+        </p>
+        <div class="success-modal-actions">
+          <button id="success-modal-close" class="primary-action success-modal-button" type="button">Зрозуміло</button>
+          <a id="success-modal-catalog" class="secondary-action success-modal-link" href="#catalog">Повернутись у каталог</a>
+        </div>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <span>Beauty Prostir by Anna Shevchenko</span>
+      <span>Професійний підбір домашнього догляду</span>
+    </footer>
+
+    <script src="catalog-data.js?v=20260613-02"></script>
+    <script src="app.js?v=20260613-02"></script>
+  </body>
+</html>

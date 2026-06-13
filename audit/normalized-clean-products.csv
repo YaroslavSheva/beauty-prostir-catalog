@@ -1,0 +1,1010 @@
+﻿sku,brand,name,category,volume,country,purchase_price,retail_price,my_retail,selected,source_sheet,source_row
+ABR-0001,Abril,"ABRIL Окисник 1,2% 4 VOL 1000 мл",Окисники,1000 ml,Spain,395,790,711,no,PRICE_ABRIL_CLEAN,2
+ABR-0002,Abril,ABRIL Окисник Special blonde 1000 мл,Окисники,1000 ml,Spain,510,1020,918,no,PRICE_ABRIL_CLEAN,3
+ABR-0003,Abril,ABRIL Окисник 10 VOL 3% 1000мл,Окисники,1000 ml,Spain,395,790,711,no,PRICE_ABRIL_CLEAN,4
+ABR-0004,Abril,ABRIL Окисник 20 VOL 6% 1000 мл,Окисники,1000 ml,Spain,395,790,711,no,PRICE_ABRIL_CLEAN,5
+ABR-0005,Abril,ABRIL Окисник 25 VOL 7.5% OXY-PLEX 1000 мл,Окисники,1000 ml,Spain,420,840,756,no,PRICE_ABRIL_CLEAN,6
+ABR-0006,Abril,ABRIL Окисник 25 VOL 7.5% OXY-PLEX 120 мл,Окисники,120 ml,Spain,145,260,260,no,PRICE_ABRIL_CLEAN,7
+ABR-0007,Abril,ABRIL Окисник 30 VOL 9% 1000 мл,Окисники,1000 ml,Spain,420,840,756,no,PRICE_ABRIL_CLEAN,8
+ABR-0008,Abril,ABRIL Крем осв. PLATINUM BLEACHING CREAM 120 мл,Засоби для знебарвлення,120 ml,Spain,585,1170,1053,no,PRICE_ABRIL_CLEAN,9
+ABR-0009,Abril,ABRIL Крем знебарвлюючий PLATINUM BLEACHING CREAM 60 мл,Засоби для знебарвлення,60 ml,Spain,270,540,486,no,PRICE_ABRIL_CLEAN,10
+ABR-0010,Abril,ABRIL Пудра знебарвлююча 9 рівнів BLONDE & BLONDE 500 г,Засоби для знебарвлення,500 g,Spain,1387,2400,2400,no,PRICE_ABRIL_CLEAN,11
+ABR-0011,Abril,ABRIL Пудра осв. BLACK CARBON WHITE 500 мл,Засоби для знебарвлення,500 ml,Spain,1387,2400,2400,no,PRICE_ABRIL_CLEAN,12
+ABR-0012,Abril,ABRIL Спрей-термозахист THERMAL TREATMENT 200 мл,Термозахисти,200 ml,Spain,470,940,846,yes,PRICE_ABRIL_CLEAN,13
+ABR-0013,Abril,ABRIL Термозахист PROTECTOR PLEX STOP BREAKAGE 200 мл,Термозахисти,200 ml,Spain,670,1340,1206,yes,PRICE_ABRIL_CLEAN,14
+ABR-0014,Abril,ABRIL Термозахист THERMAL PROTECTOR LISS 200 мл,Термозахисти,200 ml,Spain,670,1340,1206,yes,PRICE_ABRIL_CLEAN,15
+ABR-0015,Abril,ABRIL Блиск для волосся Shine Finish Molecular 100 мл,Серія MOLECULAR для відновлення волосся,100 ml,Spain,635,1270,1143,yes,PRICE_ABRIL_CLEAN,16
+ABR-0016,Abril,ABRIL Маска MOLECULAR 1000 мл,Серія MOLECULAR для відновлення волосся,1000 ml,Spain,1885,3770,3393,no,PRICE_ABRIL_CLEAN,17
+ABR-0017,Abril,ABRIL Маска MOLECULAR 200 мл,Серія MOLECULAR для відновлення волосся,200 ml,Spain,750,1500,1350,no,PRICE_ABRIL_CLEAN,18
+ABR-0018,Abril,ABRIL Набор 30 + 30 + 10 MOLECULAR,Серія MOLECULAR для відновлення волосся,,Spain,375,750,675,no,PRICE_ABRIL_CLEAN,19
+ABR-0019,Abril,ABRIL Флюїд MOLECULAR 10 мл (30 шт./уп.),Серія MOLECULAR для відновлення волосся,10 ml,Spain,210,420,378,no,PRICE_ABRIL_CLEAN,20
+ABR-0020,Abril,ABRIL Флюїд MOLECULAR 100 мл (12 шт./уп.),Серія MOLECULAR для відновлення волосся,100 ml,Spain,995,1990,1791,no,PRICE_ABRIL_CLEAN,21
+ABR-0021,Abril,ABRIL Шампунь MOLECULAR 1000 мл,Серія MOLECULAR для відновлення волосся,1000 ml,Spain,1885,3770,3393,no,PRICE_ABRIL_CLEAN,22
+ABR-0022,Abril,ABRIL Шампунь MOLECULAR 250 мл,Серія MOLECULAR для відновлення волосся,250 ml,Spain,750,1500,1350,no,PRICE_ABRIL_CLEAN,23
+ABR-0023,Abril,ABRIL Гель-крем DINAMIC CURL 200 мл,Серія CURL для кучерявого волосся,200 ml,Spain,785,1570,1413,no,PRICE_ABRIL_CLEAN,24
+ABR-0024,Abril,ABRIL Крем-бустер CURL BOOSTER 100 мл,Серія CURL для кучерявого волосся,100 ml,Spain,755,1510,1359,no,PRICE_ABRIL_CLEAN,25
+ABR-0025,Abril,ABRIL Маска CURLY Definition 1000 мл,Серія CURL для кучерявого волосся,1000 ml,Spain,1860,3720,3348,no,PRICE_ABRIL_CLEAN,26
+ABR-0026,Abril,ABRIL Маска CURLY Definition 200 мл,Серія CURL для кучерявого волосся,200 ml,Spain,790,1580,1422,yes,PRICE_ABRIL_CLEAN,27
+ABR-0027,Abril,ABRIL Спрей для формування локонів CURLY Definition 200 мл,Серія CURL для кучерявого волосся,200 ml,Spain,810,1620,1458,yes,PRICE_ABRIL_CLEAN,28
+ABR-0028,Abril,ABRIL Шампунь CURLY Definition 1000 мл,Серія CURL для кучерявого волосся,1000 ml,Spain,1860,3720,3348,yes,PRICE_ABRIL_CLEAN,29
+ABR-0029,Abril,ABRIL Шампунь CURLY Definition 250 мл,Серія CURL для кучерявого волосся,250 ml,Spain,620,1240,1116,yes,PRICE_ABRIL_CLEAN,30
+ABR-0030,Abril,ABRIL Гель для об'єму Matte Extra Volume 100ml,Серія VOLUME для об'єму,100 ml,Spain,595,1190,1071,no,PRICE_ABRIL_CLEAN,31
+ABR-0031,Abril,ABRIL Маска Extra Volume 1000ml,Серія VOLUME для об'єму,1000 ml,Spain,1860,3720,3348,yes,PRICE_ABRIL_CLEAN,32
+ABR-0032,Abril,ABRIL Маска Extra Volume 200ml,Серія VOLUME для об'єму,200 ml,Spain,790,1580,1422,yes,PRICE_ABRIL_CLEAN,33
+ABR-0033,Abril,ABRIL Спрей для об'єму Extra Volume 100ml,Серія VOLUME для об'єму,100 ml,Spain,595,1190,1071,no,PRICE_ABRIL_CLEAN,34
+ABR-0034,Abril,ABRIL Шампунь-кондиціонер Extra Volume 1000ml,Серія VOLUME для об'єму,1000 ml,Spain,1860,3720,3348,yes,PRICE_ABRIL_CLEAN,35
+ABR-0035,Abril,ABRIL Шампунь-кондиціонер Extra Volume 250ml,Серія VOLUME для об'єму,250 ml,Spain,620,1240,1116,yes,PRICE_ABRIL_CLEAN,36
+ABR-0036,Abril,ABRIL Маска CELL INNOVE MASK 1000 мл,Серія CELL INNOVE для сухого волосся,1000 ml,Spain,1800,3599,3240,no,PRICE_ABRIL_CLEAN,37
+ABR-0037,Abril,ABRIL Маска CELL INNOVE MASK 200 мл,Серія CELL INNOVE для сухого волосся,200 ml,Spain,650,1300,1170,no,PRICE_ABRIL_CLEAN,38
+ABR-0038,Abril,ABRIL Сироватка CELL INNOVE 100 мл,Серія CELL INNOVE для сухого волосся,100 ml,Spain,650,1300,1170,no,PRICE_ABRIL_CLEAN,39
+ABR-0039,Abril,ABRIL Шампунь CELL INNOVE SHAMPOO 1000 мл,Серія CELL INNOVE для сухого волосся,1000 ml,Spain,1440,2880,2592,no,PRICE_ABRIL_CLEAN,40
+ABR-0040,Abril,ABRIL Шампунь CELL INNOVE SHAMPOO 250 мл,Серія CELL INNOVE для сухого волосся,250 ml,Spain,580,1160,1044,no,PRICE_ABRIL_CLEAN,41
+ABR-0041,Abril,ABRIL Маска KERATIN 1000 мл,Серія KERATIN д/пошкодженного волосся,1000 ml,Spain,1590,3180,2862,yes,PRICE_ABRIL_CLEAN,42
+ABR-0042,Abril,ABRIL Маска KERATIN 200 мл,Серія KERATIN д/пошкодженного волосся,200 ml,Spain,575,1150,1035,yes,PRICE_ABRIL_CLEAN,43
+ABR-0043,Abril,ABRIL Сироватка KERATIN 100 мл,Серія KERATIN д/пошкодженного волосся,100 ml,Spain,620,1240,1116,yes,PRICE_ABRIL_CLEAN,44
+ABR-0044,Abril,ABRIL Шампунь KERATIN 1000 мл,Серія KERATIN д/пошкодженного волосся,1000 ml,Spain,1440,2880,2592,yes,PRICE_ABRIL_CLEAN,45
+ABR-0045,Abril,ABRIL Шампунь KERATIN 250 мл,Серія KERATIN д/пошкодженного волосся,250 ml,Spain,555,1110,999,yes,PRICE_ABRIL_CLEAN,46
+ABR-0046,Abril,ABRIL Маска REHYDRATION 1000 мл,Догляд REHYDRATION зволоження волосся,1000 ml,Spain,1450,2900,2610,yes,PRICE_ABRIL_CLEAN,47
+ABR-0047,Abril,ABRIL Маска REHYDRATION 200 мл,Догляд REHYDRATION зволоження волосся,200 ml,Spain,565,1130,1017,yes,PRICE_ABRIL_CLEAN,48
+ABR-0048,Abril,ABRIL Шампунь REHYDRATION 1000 мл,Догляд REHYDRATION зволоження волосся,1000 ml,Spain,1450,2900,2610,yes,PRICE_ABRIL_CLEAN,49
+ABR-0049,Abril,ABRIL Шампунь REHYDRATION 250 мл,Догляд REHYDRATION зволоження волосся,250 ml,Spain,565,1130,1017,yes,PRICE_ABRIL_CLEAN,50
+ABR-0050,Abril,ABRIL Маска NATURPLEX 1000 мл,Догляд NATUREPLEX захист та відновлення,1000 ml,Spain,2475,4950,4455,yes,PRICE_ABRIL_CLEAN,51
+ABR-0051,Abril,ABRIL Маска NATURPLEX 200 мл,Догляд NATUREPLEX захист та відновлення,200 ml,Spain,685,1370,1233,yes,PRICE_ABRIL_CLEAN,52
+ABR-0052,Abril,ABRIL Мус NATURPLEX 100 мл,Догляд NATUREPLEX захист та відновлення,100 ml,Spain,1175,2350,2115,yes,PRICE_ABRIL_CLEAN,53
+ABR-0053,Abril,ABRIL Сироватка FINAL TOUCH 100 мл,Догляд NATUREPLEX захист та відновлення,100 ml,Spain,715,1430,1287,yes,PRICE_ABRIL_CLEAN,54
+ABR-0054,Abril,ABRIL Шампунь NATURPLEX 1000 мл,Догляд NATUREPLEX захист та відновлення,1000 ml,Spain,1620,3240,2916,yes,PRICE_ABRIL_CLEAN,55
+ABR-0055,Abril,ABRIL Шампунь NATURPLEX 250 мл,Догляд NATUREPLEX захист та відновлення,250 ml,Spain,565,1130,1017,yes,PRICE_ABRIL_CLEAN,56
+ABR-0056,Abril,ABRIL Маска ENERGIC 1000 мл,Догляд ENERGIC д/пошкодж.волосся,1000 ml,Spain,1450,2900,2610,yes,PRICE_ABRIL_CLEAN,57
+ABR-0057,Abril,ABRIL Маска ENERGIC 200 мл,Догляд ENERGIC д/пошкодж.волосся,200 ml,Spain,565,1130,1017,yes,PRICE_ABRIL_CLEAN,58
+ABR-0058,Abril,ABRIL Сироватка SPLENDOR ESSENCE 100 мл,Догляд ENERGIC д/пошкодж.волосся,100 ml,Spain,665,1329,1197,yes,PRICE_ABRIL_CLEAN,59
+ABR-0059,Abril,ABRIL Шампунь ENERGIC 250 мл,Догляд ENERGIC д/пошкодж.волосся,250 ml,Spain,565,1130,1017,yes,PRICE_ABRIL_CLEAN,60
+ABR-0060,Abril,ABRIL Шампунь ENERGIC 1000 мл,Догляд ENERGIC д/пошкодж.волосся,1000 ml,Spain,1450,2900,2610,no,PRICE_ABRIL_CLEAN,61
+ABR-0061,Abril,ABRIL Маска PLATINUM TONER 1000 мл,Догляд PLATINUM BLOND,1000 ml,Spain,1390,2780,2502,no,PRICE_ABRIL_CLEAN,62
+ABR-0062,Abril,ABRIL Маска PLATINUM TONER 200 мл,Догляд PLATINUM BLOND,200 ml,Spain,520,1040,936,yes,PRICE_ABRIL_CLEAN,63
+ABR-0063,Abril,ABRIL Шампунь PLATINUM 250 мл,Догляд PLATINUM BLOND,250 ml,Spain,520,1040,936,yes,PRICE_ABRIL_CLEAN,64
+ABR-0064,Abril,ABRIL Шампунь PLATINUM 1000 мл,Догляд PLATINUM BLOND,1000 ml,Spain,1390,2780,2502,no,PRICE_ABRIL_CLEAN,65
+ABR-0065,Abril,ABRIL Ампула проти випадіння волосся 5 мл--1 ШТУКА !!!,Лікувальна серія FEPEAN,5 ml,Spain,100,200,180,yes,PRICE_ABRIL_CLEAN,66
+ABR-0066,Abril,ABRIL Ампули проти випадіння волосся 5 мл (50 шт./уп.) УПАКОВКА!!!!,Лікувальна серія FEPEAN,5 ml,Spain,4800,9600,8640,yes,PRICE_ABRIL_CLEAN,67
+ABR-0067,Abril,ABRIL Лосьйон проти випадіння PLUS 100 мл,Лікувальна серія FEPEAN,100 ml,Spain,1170,2340,2106,yes,PRICE_ABRIL_CLEAN,68
+ABR-0068,Abril,ABRIL Лосьйон проти випадіння VITAMIN 100 мл,Лікувальна серія FEPEAN,100 ml,Spain,820,1640,1476,no,PRICE_ABRIL_CLEAN,69
+ABR-0069,Abril,ABRIL Масло-пілінг OIL EXFOLIANT 200 мл,Лікувальна серія FEPEAN,200 ml,Spain,790,1580,1422,no,PRICE_ABRIL_CLEAN,70
+ABR-0070,Abril,ABRIL Шампунь проти випадіння ANTI- HAIR LOSS 1000 мл,Лікувальна серія FEPEAN,1000 ml,Spain,1620,3240,2916,no,PRICE_ABRIL_CLEAN,71
+ABR-0071,Abril,ABRIL Шампунь проти випадіння ANTI- HAIR LOSS 250 мл,Лікувальна серія FEPEAN,250 ml,Spain,610,1220,1098,yes,PRICE_ABRIL_CLEAN,72
+ABR-0072,Abril,ABRIL Шампунь проти лупи ANTI-DANDRUFF 1000 мл,Лікувальна серія FEPEAN,1000 ml,Spain,1620,3240,2916,no,PRICE_ABRIL_CLEAN,73
+ABR-0073,Abril,ABRIL Шампунь проти лупи ANTI-DANDRUFF 250 мл,Лікувальна серія FEPEAN,250 ml,Spain,610,1220,1098,yes,PRICE_ABRIL_CLEAN,74
+ABR-0074,Abril,ABRIL Шампунь проти жирного волосся GREASY HAIR 1000 мл,Лікувальна серія FEPEAN,1000 ml,Spain,1620,3240,2916,no,PRICE_ABRIL_CLEAN,75
+ABR-0075,Abril,ABRIL Шампунь проти жирного волосся GREASY HAIR 250 мл,Лікувальна серія FEPEAN,250 ml,Spain,610,1220,1098,no,PRICE_ABRIL_CLEAN,76
+ABR-0076,Abril,ABRIL Крем для укладання DINAMIC CREAM 200 мл,Укладання DEFINITION LINE,200 ml,Spain,690,1380,1242,yes,PRICE_ABRIL_CLEAN,77
+ABR-0077,Abril,ABRIL Спрей FAST BLOW DRYING 200 мл,Укладання DEFINITION LINE,200 ml,Spain,750,1500,1350,yes,PRICE_ABRIL_CLEAN,78
+COI-0001,Coiffance,COIFFANCE Стійка крем-фарба COLOR PAPILLON 100 мл,,100 ml,France,307,460,460,no,PRICE_COIFFANCE_CLEAN,2
+COI-0002,Coiffance,COIFFANCE Окисники 1000мл,,1000 ml,France,354,531,531,no,PRICE_COIFFANCE_CLEAN,3
+COI-0003,Coiffance,CF Coiffance BLONDSHADES Крем осв.GRAY BLEACHING CREAM 300 гр,"Засоби для знебарвлення волосся, окисники",300 g,France,793,1190,1190,no,PRICE_COIFFANCE_CLEAN,4
+COI-0004,Coiffance,CF Coiffance BLONDSHADES Пудра 9 р. BLUE BLEACHING POWDER500 гр,"Засоби для знебарвлення волосся, окисники",500 g,France,1395,2093,2093,no,PRICE_COIFFANCE_CLEAN,5
+COI-0005,Coiffance,CF Coiffance BLONDSHADES Шампунь POST DECO SHAMPOO 1000 мл,"Засоби для знебарвлення волосся, окисники",1000 ml,France,793,1190,1190,no,PRICE_COIFFANCE_CLEAN,6
+COI-0006,Coiffance,CF Coiffance гель для захисту контуру волосся SKIN PROTECTIVE 100 мл,Технічні продукти,100 ml,France,718,1077,1077,no,PRICE_COIFFANCE_CLEAN,7
+COI-0007,Coiffance,CF Coiffance Видалення фарби зі шкіри голови STAIN REMOVER 200 мл,Технічні продукти,200 ml,France,428,642,642,no,PRICE_COIFFANCE_CLEAN,8
+COI-0008,Coiffance,CF Coiffance Захисний флюїд для шкіри голови COLOR REPRIEVE 200 мл,Технічні продукти,200 ml,France,487,731,731,no,PRICE_COIFFANCE_CLEAN,9
+COI-0009,Coiffance,CF Coiffance Шампунь POST COLOR 1000 мл,Технічні продукти,1000 ml,France,770,1155,1155,no,PRICE_COIFFANCE_CLEAN,10
+COI-0010,Coiffance,CF Coiffance Шампунь проти лупи ANTI-DANDRUFF 250 мл,SPECIFIC Лікувальні шампуні,250 ml,France,514,771,771,no,PRICE_COIFFANCE_CLEAN,11
+COI-0011,Coiffance,CF Coiffance Шампунь-пілінг PEELING 1000 мл,SPECIFIC Лікувальні шампуні,1000 ml,France,1253,1880,1880,no,PRICE_COIFFANCE_CLEAN,12
+COI-0012,Coiffance,CF Coiffance Шампунь-пілінг PEELING 250 мл,SPECIFIC Лікувальні шампуні,250 ml,France,514,771,771,no,PRICE_COIFFANCE_CLEAN,13
+COI-0013,Coiffance,CF 572 Coiffance Крем CREAM BEAUTE 100 мл,"Еліксир, сироватка",100 ml,France,600,900,900,no,PRICE_COIFFANCE_CLEAN,14
+COI-0014,Coiffance,CF 8644 Coiffance Еліксир незмивний ELIXIR FOR NUTRITION AND BRIL. SHINE 50 мл,"Еліксир, сироватка",50 ml,France,791,1187,1187,no,PRICE_COIFFANCE_CLEAN,15
+COI-0015,Coiffance,CF Coiffance Двофазний спрей COLOR 150 мл,COLOR CARE LINE Догляд д/фарбованого волосся,150 ml,France,535,803,803,no,PRICE_COIFFANCE_CLEAN,16
+COI-0016,Coiffance,CF Coiffance Маска COLOR INTENSE 200 мл,COLOR CARE LINE Догляд д/фарбованого волосся,200 ml,France,673,1010,1010,no,PRICE_COIFFANCE_CLEAN,17
+COI-0017,Coiffance,CF Coiffance Шампунь COLOR 1000 мл,COLOR CARE LINE Догляд д/фарбованого волосся,1000 ml,France,1253,1880,1880,no,PRICE_COIFFANCE_CLEAN,18
+COI-0018,Coiffance,CF Coiffance Шампунь COLOR 250 мл,COLOR CARE LINE Догляд д/фарбованого волосся,250 ml,France,514,771,771,no,PRICE_COIFFANCE_CLEAN,19
+COI-0019,Coiffance,CF Coiffance Шампунь COLOR INTENSE 1000 мл,COLOR CARE LINE Догляд д/фарбованого волосся,1000 ml,France,1253,1880,1880,no,PRICE_COIFFANCE_CLEAN,20
+COI-0020,Coiffance,CF Coiffabce Шампунь COLOR INTENSE 250 мл,COLOR CARE LINE Догляд д/фарбованого волосся,250 ml,France,514,771,771,no,PRICE_COIFFANCE_CLEAN,21
+COI-0021,Coiffance,CF Coiffance Кондиціонер NUTRI 200 мл,NUTRI LINE Догляд д/сухого та пошкодж.волосся,200 ml,France,634,951,951,no,PRICE_COIFFANCE_CLEAN,22
+COI-0022,Coiffance,CF Coiffance Маска NUTRI INTENSE 200 мл,NUTRI LINE Догляд д/сухого та пошкодж.волосся,200 ml,France,673,1010,1010,no,PRICE_COIFFANCE_CLEAN,23
+COI-0023,Coiffance,CF Coiffance Маска NUTRI INTENSE 500 мл,NUTRI LINE Догляд д/сухого та пошкодж.волосся,500 ml,France,942,1413,1413,no,PRICE_COIFFANCE_CLEAN,24
+COI-0024,Coiffance,CF Coiffance Шампунь NUTRI INTENSE 1000 мл,NUTRI LINE Догляд д/сухого та пошкодж.волосся,1000 ml,France,1253,1880,1880,no,PRICE_COIFFANCE_CLEAN,25
+COI-0025,Coiffance,CF Coiffance Шампунь NUTRI INTENSE 250 мл,NUTRI LINE Догляд д/сухого та пошкодж.волосся,250 ml,France,514,771,771,no,PRICE_COIFFANCE_CLEAN,26
+COI-0026,Coiffance,CF Coiffance Шампунь NUTRI 1000 мл,NUTRI LINE Догляд д/сухого та пошкодж.волосся,1000 ml,France,1253,1880,1880,no,PRICE_COIFFANCE_CLEAN,27
+COI-0027,Coiffance,CF Coiffance Шампунь NUTRI 250 мл,NUTRI LINE Догляд д/сухого та пошкодж.волосся,250 ml,France,514,771,771,no,PRICE_COIFFANCE_CLEAN,28
+COI-0028,Coiffance,CF Coiffance Конд-спрей VOLUME 150мл,VOLUME Серія для об'єму волосся,150 ml,France,545,818,818,no,PRICE_COIFFANCE_CLEAN,29
+COI-0029,Coiffance,CF Coiffance Шампунь VOLUME 1000 мл,VOLUME Серія для об'єму волосся,1000 ml,France,1253,1880,1880,no,PRICE_COIFFANCE_CLEAN,30
+COI-0030,Coiffance,CF Coiffance Шампунь VOLUME 250 мл,VOLUME Серія для об'єму волосся,250 ml,France,514,771,771,no,PRICE_COIFFANCE_CLEAN,31
+COI-0031,Coiffance,CF Coiffance Двофазний cпрей DAILY 150 мл,DAILY Догляд для нормального волосся,150 ml,France,556,834,834,no,PRICE_COIFFANCE_CLEAN,32
+COI-0032,Coiffance,CF Coiffance Шампунь BALANCING 1000 мл,DAILY Догляд для нормального волосся,1000 ml,France,1059,1589,1589,no,PRICE_COIFFANCE_CLEAN,33
+COI-0033,Coiffance,CF Coiffance Шампунь BALANCING 250 мл,DAILY Догляд для нормального волосся,250 ml,France,483,725,725,no,PRICE_COIFFANCE_CLEAN,34
+COI-0034,Coiffance,CF Coiffance Шампунь DAILY 1000 мл,DAILY Догляд для нормального волосся,1000 ml,France,1253,1880,1880,no,PRICE_COIFFANCE_CLEAN,35
+COI-0035,Coiffance,CF Coiffance Шампунь DAILY 250мл,DAILY Догляд для нормального волосся,250 ml,France,514,771,771,no,PRICE_COIFFANCE_CLEAN,36
+COI-0036,Coiffance,CF Coiffance Спрей сильний STRONG FIXING 400 мл,STYLING Засоби для укладання,400 ml,France,877,1316,1316,no,PRICE_COIFFANCE_CLEAN,37
+COI-0037,Coiffance,CF Coiffance Спрей-термозахист THERMAL 200 мл,STYLING Засоби для укладання,200 ml,France,642,963,963,no,PRICE_COIFFANCE_CLEAN,38
+ELE-0001,Elea,ELEA Стійка крем-фарба ARTISTO 100 мл,,100 ml,Bulgaria,150,225,225,no,PRICE_ELEA_CLEAN,2
+ELE-0002,Elea,ELEA Безаміачна фарба ARTISTO 100 мл,,100 ml,Bulgaria,150,225,225,no,PRICE_ELEA_CLEAN,3
+ELE-0003,Elea,EAF BLUE Тонувальний гель Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл,100 ml,Bulgaria,140,225,225,no,PRICE_ELEA_CLEAN,4
+ELE-0004,Elea,EAF FUCHSIA Тонувальний гель Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл,100 ml,Bulgaria,140,225,225,no,PRICE_ELEA_CLEAN,5
+ELE-0005,Elea,EAF GREEN Тонувальний гель Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл,100 ml,Bulgaria,140,225,225,no,PRICE_ELEA_CLEAN,6
+ELE-0006,Elea,EAF ORANGE Тонувальний гель Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл,100 ml,Bulgaria,140,225,225,no,PRICE_ELEA_CLEAN,7
+ELE-0007,Elea,EAF RED Тонувальний гель Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл,100 ml,Bulgaria,140,225,225,no,PRICE_ELEA_CLEAN,8
+ELE-0008,Elea,EAF VIOLET Тонувальний гель Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл,100 ml,Bulgaria,140,225,225,no,PRICE_ELEA_CLEAN,9
+ELE-0009,Elea,EAF YELLOW Тонувальний гель Funky Colors 100 мл,Тонуючий гель Funky Colors 100 мл,100 ml,Bulgaria,140,225,225,no,PRICE_ELEA_CLEAN,10
+ELE-0010,Elea,EA 00-N ARTISTO Коректор 100 мл,Коректори ARTISTO 100 мл,100 ml,Bulgaria,150,225,225,no,PRICE_ELEA_CLEAN,11
+ELE-0011,Elea,EA 00 ARTISTO Коректор аміачний 100 мл,Коректори ARTISTO 100 мл,100 ml,Bulgaria,150,225,225,no,PRICE_ELEA_CLEAN,12
+ELE-0012,Elea,EA 11 ARTISTO Коректор 100 мл,Коректори ARTISTO 100 мл,100 ml,Bulgaria,150,225,225,no,PRICE_ELEA_CLEAN,13
+ELE-0013,Elea,EA 22 ARTISTO Коректор 100 мл,Коректори ARTISTO 100 мл,100 ml,Bulgaria,150,225,225,no,PRICE_ELEA_CLEAN,14
+ELE-0014,Elea,EA 33 ARTISTO Коректор 100 мл,Коректори ARTISTO 100 мл,100 ml,Bulgaria,380,555,555,no,PRICE_ELEA_CLEAN,15
+ELE-0015,Elea,EA 44 ARTISTO Коректор 100 мл,Коректори ARTISTO 100 мл,100 ml,Bulgaria,150,225,225,no,PRICE_ELEA_CLEAN,16
+ELE-0016,Elea,EA 55 ARTISTO Коректор 100 мл,Коректори ARTISTO 100 мл,100 ml,Bulgaria,150,225,225,no,PRICE_ELEA_CLEAN,17
+ELE-0017,Elea,EA 66 ARTISTO Коректор 100 мл,Коректори ARTISTO 100 мл,100 ml,Bulgaria,240,336,336,no,PRICE_ELEA_CLEAN,18
+ELE-0018,Elea,EA 88 ARTISTO Коректор 100 мл,Коректори ARTISTO 100 мл,100 ml,Bulgaria,330,488,488,no,PRICE_ELEA_CLEAN,19
+ELE-0019,Elea,EA G ARTISTO Коректор 100 мл,Коректори ARTISTO 100 мл,100 ml,Bulgaria,150,225,225,no,PRICE_ELEA_CLEAN,20
+ELE-0020,Elea,Elea Фарба для брів графіт / №4.01 ARTISTO,Фарба для брів та вій ARTISTO,,Bulgaria,115,184,184,no,PRICE_ELEA_CLEAN,21
+ELE-0021,Elea,Elea Фарба для брів коричневий / №5.7 ARTISTO,Фарба для брів та вій ARTISTO,,Bulgaria,115,184,184,no,PRICE_ELEA_CLEAN,22
+ELE-0022,Elea,Elea Фарба для брів чорний/ №1.0 ARTISTO,Фарба для брів та вій ARTISTO,,Bulgaria,115,184,184,no,PRICE_ELEA_CLEAN,23
+ELE-0023,Elea,Elea Фарба для брів коричнево-мідний / №6.74 ARTISTO,Фарба для брів та вій ARTISTO,,Bulgaria,115,184,184,no,PRICE_ELEA_CLEAN,24
+ELE-0024,Elea,Elea Фарба для брів світло-коричневий /№7.7 ARTISTO,Фарба для брів та вій ARTISTO,,Bulgaria,115,184,184,no,PRICE_ELEA_CLEAN,25
+ELE-0025,Elea,"EA Окисник 1,5 % ARTISTO 1000 мл",Окисники ARTISTO 1000мл,1000 ml,Bulgaria,255,408,408,no,PRICE_ELEA_CLEAN,26
+ELE-0026,Elea,EA Окисник 12 % ARTISTO 1000 мл,Окисники ARTISTO 1000мл,1000 ml,Bulgaria,255,408,408,no,PRICE_ELEA_CLEAN,27
+ELE-0027,Elea,EA Окисник 3 % ARTISTO 1000 мл,Окисники ARTISTO 1000мл,1000 ml,Bulgaria,255,408,408,no,PRICE_ELEA_CLEAN,28
+ELE-0028,Elea,EA Окисник 6 % ARTISTO 1000 мл,Окисники ARTISTO 1000мл,1000 ml,Bulgaria,255,408,408,no,PRICE_ELEA_CLEAN,29
+ELE-0029,Elea,EA Окисник 9 % ARTISTO 1000 мл,Окисники ARTISTO 1000мл,1000 ml,Bulgaria,255,408,408,no,PRICE_ELEA_CLEAN,30
+ELE-0030,Elea,"EA Окисник 1,5 % ARTISTO 100 мл",Окисники ARTISTO 100мл,100 ml,Bulgaria,50,75,75,no,PRICE_ELEA_CLEAN,31
+ELE-0031,Elea,EA Окисник 12 % ARTISTO 100 мл,Окисники ARTISTO 100мл,100 ml,Bulgaria,50,75,75,no,PRICE_ELEA_CLEAN,32
+ELE-0032,Elea,EA Окисник 3 % ARTISTO 100 мл,Окисники ARTISTO 100мл,100 ml,Bulgaria,50,75,75,no,PRICE_ELEA_CLEAN,33
+ELE-0033,Elea,EA Окисник 6 % ARTISTO 100 мл,Окисники ARTISTO 100мл,100 ml,Bulgaria,50,75,75,no,PRICE_ELEA_CLEAN,34
+ELE-0034,Elea,EA Окисник 9 % ARTISTO 100 мл,Окисники ARTISTO 100мл,100 ml,Bulgaria,50,75,75,no,PRICE_ELEA_CLEAN,35
+ELE-0035,Elea,"EA Окисник 1,5 % ARTISTO 4000 мл",Окисники ARTISTO 4000мл,4000 ml,Bulgaria,815,1304,1304,no,PRICE_ELEA_CLEAN,36
+ELE-0036,Elea,EA Окисник 3 % ARTISTO 4000 мл,Окисники ARTISTO 4000мл,4000 ml,Bulgaria,815,1304,1304,no,PRICE_ELEA_CLEAN,37
+ELE-0037,Elea,EA Окисник 6 % ARTISTO 4000 мл,Окисники ARTISTO 4000мл,4000 ml,Bulgaria,815,1304,1304,no,PRICE_ELEA_CLEAN,38
+ELE-0038,Elea,EA Пудра знебарвлююча ARTISTO BLOND (запаска) 250 гр,Освітлюючі засоби ARTISTO,250 g,Bulgaria,330,528,528,no,PRICE_ELEA_CLEAN,39
+ELE-0039,Elea,EA Бальзам-нейтралiзатор пiсля фарбування ARTISTO SALON 1000мл,"Технічні продукти ARTISTO ""SALON""",1000 ml,Bulgaria,295,472,472,no,PRICE_ELEA_CLEAN,40
+ELE-0040,Elea,EA Бустер богатофункціональний ARTISTO SALON 120мл,"Технічні продукти ARTISTO ""SALON""",120 ml,Bulgaria,145,232,232,no,PRICE_ELEA_CLEAN,41
+ELE-0041,Elea,EA Гель-протектор для чутливої шкіри перед фарбуванням ARTISTO SALON 100гр,"Технічні продукти ARTISTO ""SALON""",100 g,Bulgaria,155,248,248,no,PRICE_ELEA_CLEAN,42
+ELE-0042,Elea,EA Двофазний відновлючий спрей-кондиціонер ARTISTO SALON 300мл,"Технічні продукти ARTISTO ""SALON""",300 ml,Bulgaria,330,528,528,no,PRICE_ELEA_CLEAN,43
+ELE-0043,Elea,EA Лосьйон для видалення фарби з шкіри ARTISTO SALON 150мл,"Технічні продукти ARTISTO ""SALON""",150 ml,Bulgaria,205,328,328,no,PRICE_ELEA_CLEAN,44
+ELE-0044,Elea,EA Маска реструктуруюча ARTISTO SALON 1100мл,"Технічні продукти ARTISTO ""SALON""",1100 ml,Bulgaria,575,920,920,no,PRICE_ELEA_CLEAN,45
+ELE-0045,Elea,EA Маска реструктуруюча ARTISTO SALON 490мл,"Технічні продукти ARTISTO ""SALON""",490 ml,Bulgaria,285,456,456,no,PRICE_ELEA_CLEAN,46
+ELE-0046,Elea,EA Система для видалення кольору з волосся ARTISTO DECOLORANT SYSTEM 120мл,"Технічні продукти ARTISTO ""SALON""",120 ml,Bulgaria,180,288,288,no,PRICE_ELEA_CLEAN,47
+ELE-0047,Elea,EA Спрей для захисту волосся перед фарбуванням ARTISTO SALON 250мл,"Технічні продукти ARTISTO ""SALON""",250 ml,Bulgaria,235,377,377,no,PRICE_ELEA_CLEAN,48
+ELE-0048,Elea,EA Флюїд відновлюючий з екстрактом соняшника ARTISTO SALON 300мл,"Технічні продукти ARTISTO ""SALON""",300 ml,Bulgaria,295,472,472,no,PRICE_ELEA_CLEAN,49
+ELE-0049,Elea,EA Флюїд ARTISTO поживний в крем-фарбу - 50 саше по 3 г в коробцi,"Технічні продукти ARTISTO ""SALON""",3 g,Bulgaria,15,25,25,no,PRICE_ELEA_CLEAN,50
+ELE-0050,Elea,EA Флюїд ARTISTO поживний в крем-фарбу 98 мл,"Технічні продукти ARTISTO ""SALON""",98 ml,Bulgaria,280,448,448,no,PRICE_ELEA_CLEAN,51
+ELE-0051,Elea,EA Шампунь глибокого очищення ARTISTO SALON 1000мл,"Технічні продукти ARTISTO ""SALON""",1000 ml,Bulgaria,390,624,624,no,PRICE_ELEA_CLEAN,52
+ELE-0052,Elea,EA Шампунь глибокого очищення ARTISTO SALON 300мл,"Технічні продукти ARTISTO ""SALON""",300 ml,Bulgaria,170,272,272,no,PRICE_ELEA_CLEAN,53
+ELE-0053,Elea,EA Шампунь для щоденного використання ARTISTO SALON 1000мл,"Технічні продукти ARTISTO ""SALON""",1000 ml,Bulgaria,440,704,704,no,PRICE_ELEA_CLEAN,54
+ELE-0054,Elea,EA Шампунь-нейтралізатор після фарбування ARTISTO SALON 1000мл,"Технічні продукти ARTISTO ""SALON""",1000 ml,Bulgaria,410,656,656,no,PRICE_ELEA_CLEAN,55
+ELE-0055,Elea,EA Бальзам для блиску волосся Shine Conditioner 1000мл,"Лікувальна серія ARTISTO ""BALANCE & CONTROL""",1000 ml,Bulgaria,425,679,679,no,PRICE_ELEA_CLEAN,56
+ELE-0056,Elea,EA Бальзам для блиску волосся Shine Conditioner 300мл,"Лікувальна серія ARTISTO ""BALANCE & CONTROL""",300 ml,Bulgaria,180,288,288,no,PRICE_ELEA_CLEAN,57
+ELE-0057,Elea,EA Бальзам для блиску волосся Shine Conditioner 5000мл,"Лікувальна серія ARTISTO ""BALANCE & CONTROL""",5000 ml,Bulgaria,980,1568,1568,no,PRICE_ELEA_CLEAN,58
+ELE-0058,Elea,"EA Лосьйон для шкіри голови, стимулюючий зріст волосся Lotion Forte 200мл","Лікувальна серія ARTISTO ""BALANCE & CONTROL""",200 ml,Bulgaria,265,424,424,no,PRICE_ELEA_CLEAN,59
+ELE-0059,Elea,EA Пілінг для шкіри голови Multifunctional Scalp Scrub 200мл,"Лікувальна серія ARTISTO ""BALANCE & CONTROL""",200 ml,Bulgaria,265,424,424,no,PRICE_ELEA_CLEAN,60
+ELE-0060,Elea,EA Шампунь бівалентний Balancing Shampoo 1000мл,"Лікувальна серія ARTISTO ""BALANCE & CONTROL""",1000 ml,Bulgaria,415,664,664,no,PRICE_ELEA_CLEAN,61
+ELE-0061,Elea,EA Шампунь бівалентний Balancing Shampoo 300мл,"Лікувальна серія ARTISTO ""BALANCE & CONTROL""",300 ml,Bulgaria,180,288,288,no,PRICE_ELEA_CLEAN,62
+ELE-0062,Elea,EA Шампунь для блиску волосся Shine Shampoo 1000мл,"Лікувальна серія ARTISTO ""BALANCE & CONTROL""",1000 ml,Bulgaria,415,664,664,no,PRICE_ELEA_CLEAN,63
+ELE-0063,Elea,EA Шампунь для блиску волосся Shine Shampoo 5000мл,"Лікувальна серія ARTISTO ""BALANCE & CONTROL""",5000 ml,Bulgaria,1135,1816,1816,no,PRICE_ELEA_CLEAN,64
+ELE-0064,Elea,EA Шампунь для жирного волосся Balancing Shampoo 1000мл NEW!,"Лікувальна серія ARTISTO ""BALANCE & CONTROL""",1000 ml,Bulgaria,415,664,664,no,PRICE_ELEA_CLEAN,65
+ELE-0065,Elea,EA Шампунь для жирного волосся Balancing Shampoo 300мл,"Лікувальна серія ARTISTO ""BALANCE & CONTROL""",300 ml,Bulgaria,180,288,288,no,PRICE_ELEA_CLEAN,66
+ELE-0066,Elea,EA Шампунь для об'єму волосся Volume Shampoo 1000мл,"Лікувальна серія ARTISTO ""BALANCE & CONTROL""",1000 ml,Bulgaria,415,664,664,no,PRICE_ELEA_CLEAN,67
+ELE-0067,Elea,EA Шампунь для зростання волосся Growth Energy Shampoo 300мл,"Лікувальна серія ARTISTO ""BALANCE & CONTROL""",300 ml,Bulgaria,180,288,288,no,PRICE_ELEA_CLEAN,68
+ELE-0068,Elea,EA Шампунь проти лупи Anti-dandruff Shampoo 300мл,"Лікувальна серія ARTISTO ""BALANCE & CONTROL""",300 ml,Bulgaria,195,312,312,no,PRICE_ELEA_CLEAN,69
+ELE-0069,Elea,EA Маска тонуюча срібляста Silver 250мл,"Шампуні для волосся ARTISTO ""BLOND COLLECTION""",250 ml,Bulgaria,360,576,576,no,PRICE_ELEA_CLEAN,70
+ELE-0070,Elea,EA Маска тонуюча срібляста Silver 500мл,"Шампуні для волосся ARTISTO ""BLOND COLLECTION""",500 ml,Bulgaria,460,736,736,no,PRICE_ELEA_CLEAN,71
+ELE-0071,Elea,EA Шампунь тонуючий сріблястий Silver Shampoo 1000мл,"Шампуні для волосся ARTISTO ""BLOND COLLECTION""",1000 ml,Bulgaria,720,1152,1152,no,PRICE_ELEA_CLEAN,72
+ELE-0072,Elea,EA Шампунь тонуючий сріблястий Silver Shampoo 300мл,"Шампуні для волосся ARTISTO ""BLOND COLLECTION""",300 ml,Bulgaria,300,480,480,no,PRICE_ELEA_CLEAN,73
+ELE-0073,Elea,EA Шампунь тонуючий рожевий Pink Shampoo 300мл,"Шампуні для волосся ARTISTO ""BLOND COLLECTION""",300 ml,Bulgaria,375,600,600,no,PRICE_ELEA_CLEAN,74
+ELE-0074,Elea,EA Шампунь тонуючий фіолетовий Violet Shampoo 300мл,"Шампуні для волосся ARTISTO ""BLOND COLLECTION""",300 ml,Bulgaria,375,600,600,no,PRICE_ELEA_CLEAN,75
+ELE-0075,Elea,EA Маска для фарбованого волосся Color Save Mask 250мл,"Догляд для фарбування. волосся ARTISTO ""COLOR SAVE""",250 ml,Bulgaria,282,451,451,no,PRICE_ELEA_CLEAN,76
+ELE-0076,Elea,EA Шампунь для фарбованого волосся Color Save Shampoo 1000 мл,"Догляд для фарбування. волосся ARTISTO ""COLOR SAVE""",1000 ml,Bulgaria,601,961,961,no,PRICE_ELEA_CLEAN,77
+ELE-0077,Elea,EA Шампунь для фарбованого волосся Color Save Shampoo 300мл,"Догляд для фарбування. волосся ARTISTO ""COLOR SAVE""",300 ml,Bulgaria,235,377,377,no,PRICE_ELEA_CLEAN,78
+ELE-0078,Elea,EA Маска зволоження для сухого волосся Hydra Intense Mask 250мл,"Зволоження волосся ARTISTO ""HYDRA INTENSE""",250 ml,Bulgaria,260,416,416,no,PRICE_ELEA_CLEAN,79
+ELE-0079,Elea,EA Мус зволоження для сухого волосся Hydra Intense Foam 155мл,"Зволоження волосся ARTISTO ""HYDRA INTENSE""",155 ml,Bulgaria,295,472,472,no,PRICE_ELEA_CLEAN,80
+ELE-0080,Elea,EA Шампунь зволоження для сухого волосся Hydra Intense Shampoo 1000мл NEW!,"Зволоження волосся ARTISTO ""HYDRA INTENSE""",1000 ml,Bulgaria,590,943,943,no,PRICE_ELEA_CLEAN,81
+ELE-0081,Elea,EA Шампунь зволоження для сухого волосся Hydra Intense Shampoo 300мл,"Зволоження волосся ARTISTO ""HYDRA INTENSE""",300 ml,Bulgaria,215,344,344,no,PRICE_ELEA_CLEAN,82
+ELE-0082,Elea,EA Крем відновлюючий з кератином Keratin Cream 150мл,"Відновлення волосся ARTISTO ""KERATIN""",150 ml,Bulgaria,265,424,424,no,PRICE_ELEA_CLEAN,83
+ELE-0083,Elea,EA Маска відновлююча з кератином Keratin Mask 490мл,"Відновлення волосся ARTISTO ""KERATIN""",490 ml,Bulgaria,375,600,600,no,PRICE_ELEA_CLEAN,84
+ELE-0084,Elea,EA Шампунь відновлюючий з кератином Keratin Shampoo 1000мл,"Відновлення волосся ARTISTO ""KERATIN""",1000 ml,Bulgaria,650,1040,1040,no,PRICE_ELEA_CLEAN,85
+ELE-0085,Elea,EA Шампунь відновлюючий з кератином Keratin Shampoo 300мл,"Відновлення волосся ARTISTO ""KERATIN""",300 ml,Bulgaria,275,440,440,no,PRICE_ELEA_CLEAN,86
+ELE-0086,Elea,EA Комуфляж для чоловіків ARTISTO Color MEN №3.0 Темно-коричневий,ARTISTO COLOR MEN (на наявність з березня 2026),,Bulgaria,180,288,288,no,PRICE_ELEA_CLEAN,87
+ELE-0087,Elea,EA Комуфляж для чоловіків ARTISTO Color MEN №1.0 Чорний,ARTISTO COLOR MEN (на наявність з березня 2026),,Bulgaria,180,288,288,no,PRICE_ELEA_CLEAN,88
+ELE-0088,Elea,EA Комуфляж для чоловіків ARTISTO Color MEN №4.0 Коричневый,ARTISTO COLOR MEN (на наявність з березня 2026),,Bulgaria,180,288,288,no,PRICE_ELEA_CLEAN,89
+ELE-0089,Elea,EA Комуфляж для чоловіків ARTISTO Color MEN №5.0 Світло-коричневий,ARTISTO COLOR MEN (на наявність з березня 2026),,Bulgaria,180,288,288,no,PRICE_ELEA_CLEAN,90
+ELE-0090,Elea,EA Комуфляж для чоловіків ARTISTO Color MEN №7.0 Русявий,ARTISTO COLOR MEN (на наявність з березня 2026),,Bulgaria,180,288,288,no,PRICE_ELEA_CLEAN,91
+ELE-0091,Elea,EA Гель для укладання екстра сильної фіксації Extra Strong Gel 150мл,Засоби для укладки ARTISTO STYLING,150 ml,Bulgaria,225,360,360,no,PRICE_ELEA_CLEAN,92
+ELE-0092,Elea,EA Гель структуруючий для курчавого волосся Curl Control Gel 150мл,Засоби для укладки ARTISTO STYLING,150 ml,Bulgaria,310,496,496,no,PRICE_ELEA_CLEAN,93
+ELE-0093,Elea,EA Крем для вирівнювання волосся Thermo Protect Cream 150мл,Засоби для укладки ARTISTO STYLING,150 ml,Bulgaria,235,377,377,no,PRICE_ELEA_CLEAN,94
+ELE-0094,Elea,EA Крем-віск середньої фіксації Wax Cream 75гр,Засоби для укладки ARTISTO STYLING,75 g,Bulgaria,180,288,288,no,PRICE_ELEA_CLEAN,95
+ELE-0095,Elea,EA Крем-гель для об'єму Volume Cream 75 мл,Засоби для укладки ARTISTO STYLING,75 ml,Bulgaria,120,192,192,no,PRICE_ELEA_CLEAN,96
+ELE-0096,Elea,EA Крем для курчавого волосся Curl Control Cream 150мл,Засоби для укладки ARTISTO STYLING,150 ml,Bulgaria,240,384,384,no,PRICE_ELEA_CLEAN,97
+ELE-0097,Elea,EA Морський спрей Black Sea Salt Mist 250мл,Засоби для укладки ARTISTO STYLING,250 ml,Bulgaria,230,368,368,no,PRICE_ELEA_CLEAN,98
+ELE-0098,Elea,EA Паста з матовим ефектом Mat Sculpting Paste 75гр,Засоби для укладки ARTISTO STYLING,75 g,Bulgaria,180,288,288,no,PRICE_ELEA_CLEAN,99
+ELE-0099,Elea,EA Спрей для об'єму Thermo Protect Volume Spray 250мл,Засоби для укладки ARTISTO STYLING,250 ml,Bulgaria,290,464,464,no,PRICE_ELEA_CLEAN,100
+ERA-0001,Erayba,ERAYBA Стійка крем-фарба GAMMA 100 мл,,100 ml,Spain,225,360,360,no,PRICE_ERAYBA_CLEAN,2
+ERA-0002,Erayba,Erayba OxyActive Окисник 1.5% 5 VOL 1000 мл,Окислювачі OXY ACTIVE 1000мл,1000 ml,Spain,365,584,584,no,PRICE_ERAYBA_CLEAN,3
+ERA-0003,Erayba,Erayba OxyActive Окисникь 12% 40 VOL 1000 мл,Окислювачі OXY ACTIVE 1000мл,1000 ml,Spain,365,584,584,no,PRICE_ERAYBA_CLEAN,4
+ERA-0004,Erayba,Erayba OxyActive Окисник 3% 10 VOL 1000 мл,Окислювачі OXY ACTIVE 1000мл,1000 ml,Spain,365,584,584,no,PRICE_ERAYBA_CLEAN,5
+ERA-0005,Erayba,Erayba OxyActive Окисник 6% 20 VOL 1000 мл,Окислювачі OXY ACTIVE 1000мл,1000 ml,Spain,365,584,584,no,PRICE_ERAYBA_CLEAN,6
+ERA-0006,Erayba,Erayba OxyActive Окисник 9% 30 VOL 1000 мл,Окислювачі OXY ACTIVE 1000мл,1000 ml,Spain,365,584,584,no,PRICE_ERAYBA_CLEAN,7
+ERA-0007,Erayba,Erayba OxyActive Окисник 1.5% 5 VOL 150 мл,Окислювачі OXY ACTIVE 150 мл,150 ml,Spain,180,288,288,no,PRICE_ERAYBA_CLEAN,8
+ERA-0008,Erayba,Erayba OxyActive Окисник 3% 10 VOL 150 мл,Окислювачі OXY ACTIVE 150 мл,150 ml,Spain,180,288,288,no,PRICE_ERAYBA_CLEAN,9
+ERA-0009,Erayba,Erayba OxyActive Окисник 6% 20 VOL 150 мл,Окислювачі OXY ACTIVE 150 мл,150 ml,Spain,180,288,288,no,PRICE_ERAYBA_CLEAN,10
+ERA-0010,Erayba,Erayba OxyActive Окисник 9% 30 VOL 150 мл,Окислювачі OXY ACTIVE 150 мл,150 ml,Spain,180,288,288,no,PRICE_ERAYBA_CLEAN,11
+ERA-0011,Erayba,Erayba GO BLOND 7р. (G30) Пудра для знебарвлення 500 г,Засоби для знебарвлення GAMMA,500 g,Spain,785,1256,1256,no,PRICE_ERAYBA_CLEAN,12
+ERA-0012,Erayba,Erayba GO BLOND 9р. Пудра для знебарвлення саше 30 г,Засоби для знебарвлення GAMMA,30 g,Spain,160,256,256,no,PRICE_ERAYBA_CLEAN,13
+ERA-0013,Erayba,Erayba GO BLOND 9р. Пудра для знебарвлення 500 г,Засоби для знебарвлення GAMMA,500 g,Spain,785,1256,1256,no,PRICE_ERAYBA_CLEAN,14
+ERA-0014,Erayba,Erayba С00 COOLCOLOR Прямий пігмент 100мл,Прямий пігмент COOLCOLOR 100 мл,100 ml,Spain,556,889,889,no,PRICE_ERAYBA_CLEAN,15
+ERA-0015,Erayba,Erayba С01 COOLCOLOR Прямий пігмент 100мл,Прямий пігмент COOLCOLOR 100 мл,100 ml,Spain,556,889,889,no,PRICE_ERAYBA_CLEAN,16
+ERA-0016,Erayba,Erayba C02 COOLCOLOR Прямий пігмент 100мл,Прямий пігмент COOLCOLOR 100 мл,100 ml,Spain,556,889,889,no,PRICE_ERAYBA_CLEAN,17
+ERA-0017,Erayba,Erayba C03 COOLCOLOR Прямий пігмент 100мл,Прямий пігмент COOLCOLOR 100 мл,100 ml,Spain,556,889,889,no,PRICE_ERAYBA_CLEAN,18
+ERA-0018,Erayba,Erayba C04 COOLCOLOR Прямий пігмент 100мл,Прямий пігмент COOLCOLOR 100 мл,100 ml,Spain,556,889,889,no,PRICE_ERAYBA_CLEAN,19
+ERA-0019,Erayba,Erayba C05 COOLCOLOR Прямий пігмент 100мл,Прямий пігмент COOLCOLOR 100 мл,100 ml,Spain,556,889,889,no,PRICE_ERAYBA_CLEAN,20
+ERA-0020,Erayba,Erayba C06 COOLCOLOR Прямий пігмент 100мл,Прямий пігмент COOLCOLOR 100 мл,100 ml,Spain,556,889,889,no,PRICE_ERAYBA_CLEAN,21
+ERA-0021,Erayba,Erayba C07 COOLCOLOR Прямий пігмент 100мл,Прямий пігмент COOLCOLOR 100 мл,100 ml,Spain,556,889,889,no,PRICE_ERAYBA_CLEAN,22
+ERA-0022,Erayba,Erayba C08 COOLCOLOR Прямий пігмент 100мл,Прямий пігмент COOLCOLOR 100 мл,100 ml,Spain,556,889,889,no,PRICE_ERAYBA_CLEAN,23
+ERA-0023,Erayba,Erayba C09 COOLCOLOR Прямий пігмент 100мл,Прямий пігмент COOLCOLOR 100 мл,100 ml,Spain,556,889,889,no,PRICE_ERAYBA_CLEAN,24
+ERA-0024,Erayba,Erayba C10 Erayba COOLCOLOR 100мл,Прямий пігмент COOLCOLOR 100 мл,100 ml,Spain,556,889,889,no,PRICE_ERAYBA_CLEAN,25
+ERA-0025,Erayba,Erayba C11 COOLCOLOR Прямий пігмент 100мл,Прямий пігмент COOLCOLOR 100 мл,100 ml,Spain,556,889,889,no,PRICE_ERAYBA_CLEAN,26
+ERA-0026,Erayba,Erayba C12 COOLCOLOR Прямий пігмент100 мл,Прямий пігмент COOLCOLOR 100 мл,100 ml,Spain,556,889,889,no,PRICE_ERAYBA_CLEAN,27
+ERA-0027,Erayba,Erayba G03 Засіб для видалення фарби 200 мл,Технічні продукти GAMMA,200 ml,Spain,385,616,616,no,PRICE_ERAYBA_CLEAN,28
+ERA-0028,Erayba,Erayba Активатор GAMMA Color Bliss ACTIVATOR 0 VOL 750 мл,Технічні продукти GAMMA,750 ml,Spain,455,728,728,no,PRICE_ERAYBA_CLEAN,29
+ERA-0029,Erayba,Erayba Бальзам-трансформер Color Bliss DEMI COLOR BALM 750 мл,Технічні продукти GAMMA,750 ml,Spain,1070,1712,1712,no,PRICE_ERAYBA_CLEAN,30
+ERA-0030,Erayba,Erayba Маска лікувальна Ayurvedic Mask 1000мл,Догляд за волоссям ALWAYS BEAUTIFUL HAIR AYURVEDIC Лікувальна,1000 ml,Spain,1485,2570,2570,yes,PRICE_ERAYBA_CLEAN,31
+ERA-0031,Erayba,Erayba Маска лікувальна Ayurvedic Mask 250мл,Догляд за волоссям ALWAYS BEAUTIFUL HAIR AYURVEDIC Лікувальна,250 ml,Spain,605,1072,1072,yes,PRICE_ERAYBA_CLEAN,32
+ERA-0032,Erayba,Erayba Шампунь лікувальний Ayurvedic Shampoo 1000мл,Догляд за волоссям ALWAYS BEAUTIFUL HAIR AYURVEDIC Лікувальна,1000 ml,Spain,1485,2570,2570,yes,PRICE_ERAYBA_CLEAN,33
+ERA-0033,Erayba,Erayba Шампунь лікувальний Ayurvedic Shampoo 250мл,Догляд за волоссям ALWAYS BEAUTIFUL HAIR AYURVEDIC Лікувальна,250 ml,Spain,605,1072,1072,yes,PRICE_ERAYBA_CLEAN,34
+ERA-0034,Erayba,Erayba Кондиціонер Color Care Conditioner leave-in 200мл,Догляд за волоссям ALWAYS BEAUTIFUL HAIR COLOR Для фарбованого волосся,200 ml,Spain,522,922,922,yes,PRICE_ERAYBA_CLEAN,35
+ERA-0035,Erayba,Erayba Маска для фарбованного волосся Color Care Mask 1000мл,Догляд за волоссям ALWAYS BEAUTIFUL HAIR COLOR Для фарбованого волосся,1000 ml,Spain,1485,2570,2570,yes,PRICE_ERAYBA_CLEAN,36
+ERA-0036,Erayba,Erayba Маска для фарбованного волосся Color Care Mask 250мл,Догляд за волоссям ALWAYS BEAUTIFUL HAIR COLOR Для фарбованого волосся,250 ml,Spain,605,1072,1072,yes,PRICE_ERAYBA_CLEAN,37
+ERA-0037,Erayba,Erayba Шампунь для фарбованого волосся Color Care Shampoo 1000мл,Догляд за волоссям ALWAYS BEAUTIFUL HAIR COLOR Для фарбованого волосся,1000 ml,Spain,1408,2570,2534,yes,PRICE_ERAYBA_CLEAN,38
+ERA-0038,Erayba,Erayba Шампунь для фарбованного волосся Color Care Shampoo 250мл,Догляд за волоссям ALWAYS BEAUTIFUL HAIR COLOR Для фарбованого волосся,250 ml,Spain,556,1072,1001,yes,PRICE_ERAYBA_CLEAN,39
+ERA-0039,Erayba,Erayba Бальзам для курчавого волосся Curls 150мл,CURLY Для кучерявого волосся,150 ml,Spain,625,1072,1072,yes,PRICE_ERAYBA_CLEAN,40
+ERA-0040,Erayba,Erayba Маска д/курчавого волосся Curls 1000мл,CURLY Для кучерявого волосся,1000 ml,Spain,1485,2570,2570,yes,PRICE_ERAYBA_CLEAN,41
+ERA-0041,Erayba,Erayba Маска для курчавого волосся Curls 250мл,CURLY Для кучерявого волосся,250 ml,Spain,605,1072,1072,yes,PRICE_ERAYBA_CLEAN,42
+ERA-0042,Erayba,Erayba Шампунь для курчавого волосся Curls 1000мл,CURLY Для кучерявого волосся,1000 ml,Spain,1410,2570,2538,yes,PRICE_ERAYBA_CLEAN,43
+ERA-0043,Erayba,Erayba Шампунь для курчавого волосся Curls 250мл,CURLY Для кучерявого волосся,250 ml,Spain,590,1072,1062,yes,PRICE_ERAYBA_CLEAN,44
+ERA-0044,Erayba,Erayba Кондиціонер Detox Refresh Conditioner leave-in 200мл,DETOX Для всіх типіві волосся,200 ml,Spain,525,922,922,yes,PRICE_ERAYBA_CLEAN,45
+ERA-0045,Erayba,Erayba Маска для всіх типів волосся Detox Refresh Mask 1000мл,DETOX Для всіх типіві волосся,1000 ml,Spain,1485,2570,2570,yes,PRICE_ERAYBA_CLEAN,46
+ERA-0046,Erayba,Erayba Маска для всіх типів волосся Detox Refresh Mask 250мл,DETOX Для всіх типіві волосся,250 ml,Spain,605,1072,1072,yes,PRICE_ERAYBA_CLEAN,47
+ERA-0047,Erayba,Erayba Шампунь очищаючий Detox Refresh Shampoo 1000мл,DETOX Для всіх типіві волосся,1000 ml,Spain,1410,2570,2538,yes,PRICE_ERAYBA_CLEAN,48
+ERA-0048,Erayba,Erayba Шампунь очищаючий Detox Refresh Shampoo 250мл,DETOX Для всіх типіві волосся,250 ml,Spain,590,1072,1062,yes,PRICE_ERAYBA_CLEAN,49
+ERA-0049,Erayba,Erayba Двофазовий кондиціонер Repair 200мл,REPAIR Для пошкодженого волосся,200 ml,Spain,565,1008,1008,yes,PRICE_ERAYBA_CLEAN,50
+ERA-0050,Erayba,Erayba Маска для пошкодженого волосся Repair Mask 1000 мл,REPAIR Для пошкодженого волосся,1000 ml,Spain,1485,2570,2570,yes,PRICE_ERAYBA_CLEAN,51
+ERA-0051,Erayba,Erayba Маска для пошкодженого волосся Repair 250мл,REPAIR Для пошкодженого волосся,250 ml,Spain,605,1072,1072,yes,PRICE_ERAYBA_CLEAN,52
+ERA-0052,Erayba,Erayba Сироватка Repair Ends Sealer 100мл,REPAIR Для пошкодженого волосся,100 ml,Spain,815,1458,1458,yes,PRICE_ERAYBA_CLEAN,53
+ERA-0053,Erayba,Erayba Сироватка Repair treatment 100мл,REPAIR Для пошкодженого волосся,100 ml,Spain,915,1584,1584,yes,PRICE_ERAYBA_CLEAN,54
+ERA-0054,Erayba,Erayba Шампунь для пошкодженого волосся Repair Shampoo 1000 мл,REPAIR Для пошкодженого волосся,1000 ml,Spain,1410,2570,2538,yes,PRICE_ERAYBA_CLEAN,55
+ERA-0055,Erayba,Erayba Шампунь для пошкодженого волосся Repair 250мл,REPAIR Для пошкодженого волосся,250 ml,Spain,590,1072,1062,yes,PRICE_ERAYBA_CLEAN,56
+ERA-0056,Erayba,Erayba Маска антижовта Silver No-Yellow Mask 1000мл,SILVER Для освітленого волосся,1000 ml,Spain,1485,2570,2570,no,PRICE_ERAYBA_CLEAN,57
+ERA-0057,Erayba,Erayba Маска антижовта Silver No-Yellow Mask 250мл,SILVER Для освітленого волосся,250 ml,Spain,605,1072,1072,yes,PRICE_ERAYBA_CLEAN,58
+ERA-0058,Erayba,Erayba Шампунь антижовтий Silver No-Yellow Shampoo 1000мл,SILVER Для освітленого волосся,1000 ml,Spain,1410,2570,2538,no,PRICE_ERAYBA_CLEAN,59
+ERA-0059,Erayba,Erayba Шампунь антижовтий Silver No-Yellow Shampoo 250мл,SILVER Для освітленого волосся,250 ml,Spain,590,1072,1062,no,PRICE_ERAYBA_CLEAN,60
+ERA-0060,Erayba,Erayba Крем для об'єму Volume 150мл,VOLUME Для тонкого волосся,150 ml,Spain,625,1072,1072,no,PRICE_ERAYBA_CLEAN,61
+ERA-0061,Erayba,Erayba Маска для об'єму Volume 1000мл,VOLUME Для тонкого волосся,1000 ml,Spain,1485,2570,2570,yes,PRICE_ERAYBA_CLEAN,62
+ERA-0062,Erayba,Erayba Маска для об'єму Volume 250мл,VOLUME Для тонкого волосся,250 ml,Spain,605,1072,1072,yes,PRICE_ERAYBA_CLEAN,63
+ERA-0063,Erayba,Erayba Шампунь для об'єму Volume 1000мл,VOLUME Для тонкого волосся,1000 ml,Spain,1410,2570,2538,no,PRICE_ERAYBA_CLEAN,64
+ERA-0064,Erayba,Erayba Шампунь для об'єму Volume 250мл,VOLUME Для тонкого волосся,250 ml,Spain,590,1072,1062,no,PRICE_ERAYBA_CLEAN,65
+ERA-0065,Erayba,Erayba Шампунь сухий Volume Dry 150мл,VOLUME Для тонкого волосся,150 ml,Spain,685,1286,1233,no,PRICE_ERAYBA_CLEAN,66
+ERA-0066,Erayba,Erayba K10 Keratin Маска 10в1! 1000 мл,Ботокс лікування волосся HYDRAKER,1000 ml,Spain,1185,1895,1895,yes,PRICE_ERAYBA_CLEAN,67
+ERA-0067,Erayba,Erayba K10 Keratin Маска 10в1! 150 мл,Ботокс лікування волосся HYDRAKER,150 ml,Spain,400,640,640,yes,PRICE_ERAYBA_CLEAN,68
+ERA-0068,Erayba,Erayba K11 Ботокс для волосcя 100 мл,Ботокс лікування волосся HYDRAKER,100 ml,Spain,775,1240,1240,no,PRICE_ERAYBA_CLEAN,69
+ERA-0069,Erayba,Erayba K11 Ботокс для волосся 1000 мл,Ботокс лікування волосся HYDRAKER,1000 ml,Spain,2020,3231,3231,no,PRICE_ERAYBA_CLEAN,70
+ERA-0070,Erayba,Erayba K12 Keratin Шампунь 250 мл,Ботокс лікування волосся HYDRAKER,250 ml,Spain,555,888,888,yes,PRICE_ERAYBA_CLEAN,71
+ERA-0071,Erayba,Erayba K12 Keratin Шампунь 1000 мл,Ботокс лікування волосся HYDRAKER,1000 ml,Spain,1360,2176,2176,yes,PRICE_ERAYBA_CLEAN,72
+ERA-0072,Erayba,Erayba K15 Argan Mystic Oil Олія 50 мл,Ботокс лікування волосся HYDRAKER,50 ml,Spain,575,920,920,yes,PRICE_ERAYBA_CLEAN,73
+ERA-0073,Erayba,Erayba K16 Keratin Кондиціонер 1000 мл,Ботокс лікування волосся HYDRAKER,1000 ml,Spain,915,1464,1464,yes,PRICE_ERAYBA_CLEAN,74
+ERA-0074,Erayba,Erayba K16 Keratin Кондиціонер 250 мл,Ботокс лікування волосся HYDRAKER,250 ml,Spain,480,768,768,yes,PRICE_ERAYBA_CLEAN,75
+ERA-0075,Erayba,Erayba NC10 Collastin Маска 1000 мл,Догляд для волосся NUTRIACTIVE COLLASTIN,1000 ml,Spain,1170,1872,1872,yes,PRICE_ERAYBA_CLEAN,76
+ERA-0076,Erayba,Erayba NC10 Collastin Маска 250 мл,Догляд для волосся NUTRIACTIVE COLLASTIN,250 ml,Spain,550,880,880,yes,PRICE_ERAYBA_CLEAN,77
+ERA-0077,Erayba,Erayba NC11 Hyaluronic velvet Крем 100 мл,Догляд для волосся NUTRIACTIVE COLLASTIN,100 ml,Spain,800,1280,1280,no,PRICE_ERAYBA_CLEAN,78
+ERA-0078,Erayba,Erayba NC12 Collastin Шампунь 1000 мл,Догляд для волосся NUTRIACTIVE COLLASTIN,1000 ml,Spain,1360,2176,2176,yes,PRICE_ERAYBA_CLEAN,79
+ERA-0079,Erayba,Erayba NC12 Collastin Шампунь 250 мл,Догляд для волосся NUTRIACTIVE COLLASTIN,250 ml,Spain,555,888,888,yes,PRICE_ERAYBA_CLEAN,80
+ERA-0080,Erayba,Erayba NC15 Instant serum Сироватка 100 мл,Догляд для волосся NUTRIACTIVE COLLASTIN,100 ml,Spain,665,1063,1063,yes,PRICE_ERAYBA_CLEAN,81
+ERA-0081,Erayba,Erayba NC16 Collastin Кондиціонер 1000 мл,Догляд для волосся NUTRIACTIVE COLLASTIN,1000 ml,Spain,865,1384,1384,yes,PRICE_ERAYBA_CLEAN,82
+ERA-0082,Erayba,Erayba NC16 Collastin Кондиціонер 250 мл,Догляд для волосся NUTRIACTIVE COLLASTIN,250 ml,Spain,470,752,752,yes,PRICE_ERAYBA_CLEAN,83
+ERA-0083,Erayba,Erayba NC18 Collasin 2phase Двофазний спрей 200 мл,Догляд для волосся NUTRIACTIVE COLLASTIN,200 ml,Spain,420,672,672,yes,PRICE_ERAYBA_CLEAN,84
+ERA-0084,Erayba,Erayba NC18 Collasin 2phase Двофазний спрей 500 мл,Догляд для волосся NUTRIACTIVE COLLASTIN,500 ml,Spain,745,1192,1192,yes,PRICE_ERAYBA_CLEAN,85
+ERA-0085,Erayba,Erayba BIO smooth TREATMENT випрямлення 1000 мл,Випрямлення + догляд BIO SMOOTH,1000 ml,Spain,3305,5288,5288,no,PRICE_ERAYBA_CLEAN,86
+ERA-0086,Erayba,Erayba BIO smooth TREATMENT випрямлення 200 мл,Випрямлення + догляд BIO SMOOTH,200 ml,Spain,1165,1864,1864,no,PRICE_ERAYBA_CLEAN,87
+ERA-0087,Erayba,Erayba BS10 Маска 1000 мл,Випрямлення + догляд BIO SMOOTH,1000 ml,Spain,1530,2449,2449,yes,PRICE_ERAYBA_CLEAN,88
+ERA-0088,Erayba,Erayba BS10 Спрей-маска незмиваема 150 мл,Випрямлення + догляд BIO SMOOTH,150 ml,Spain,475,760,760,yes,PRICE_ERAYBA_CLEAN,89
+ERA-0089,Erayba,Erayba BS12 Шампунь 1000 мл,Випрямлення + догляд BIO SMOOTH,1000 ml,Spain,1360,2176,2176,yes,PRICE_ERAYBA_CLEAN,90
+ERA-0090,Erayba,Erayba BS12 Шампунь 250 мл,Випрямлення + догляд BIO SMOOTH,250 ml,Spain,555,888,888,yes,PRICE_ERAYBA_CLEAN,91
+ERA-0091,Erayba,Erayba BS16 Кондиціонер 1000 мл,Випрямлення + догляд BIO SMOOTH,1000 ml,Spain,1155,1848,1848,yes,PRICE_ERAYBA_CLEAN,92
+ERA-0092,Erayba,Erayba BS16 Кондиціонер 250 мл,Випрямлення + догляд BIO SMOOTH,250 ml,Spain,490,784,784,yes,PRICE_ERAYBA_CLEAN,93
+ERA-0093,Erayba,Erayba BS18 Двофазний спрей 200 мл,Випрямлення + догляд BIO SMOOTH,200 ml,Spain,510,816,816,yes,PRICE_ERAYBA_CLEAN,94
+ERA-0094,Erayba,Erayba BS18 Двофазний спрей 500 мл,Випрямлення + догляд BIO SMOOTH,500 ml,Spain,880,1408,1408,yes,PRICE_ERAYBA_CLEAN,95
+ERA-0095,Erayba,Erayba B10 Біомаска 1000 мл,Органічний догляд для волосся BIO ME,1000 ml,Spain,1071,1714,1714,yes,PRICE_ERAYBA_CLEAN,96
+ERA-0096,Erayba,Erayba B10 Біомаска 200 мл,Органічний догляд для волосся BIO ME,200 ml,Spain,460,736,736,yes,PRICE_ERAYBA_CLEAN,97
+ERA-0097,Erayba,Erayba B11 Біолосьон для лікування 100 мл,Органічний догляд для волосся BIO ME,100 ml,Spain,643,1029,1029,no,PRICE_ERAYBA_CLEAN,98
+ERA-0098,Erayba,Erayba B12 Біошампунь 1000 мл,Органічний догляд для волосся BIO ME,1000 ml,Spain,1178,1885,1885,no,PRICE_ERAYBA_CLEAN,99
+ERA-0099,Erayba,Erayba B12 Біошампунь 250 мл,Органічний догляд для волосся BIO ME,250 ml,Spain,482,771,771,no,PRICE_ERAYBA_CLEAN,100
+ERA-0100,Erayba,Erayba B18 Біодвофазний спрей 200 мл,Органічний догляд для волосся BIO ME,200 ml,Spain,449,718,718,yes,PRICE_ERAYBA_CLEAN,101
+ERA-0101,Erayba,Erayba B18 Біодвофазний спрей 500 мл,Органічний догляд для волосся BIO ME,500 ml,Spain,600,960,960,yes,PRICE_ERAYBA_CLEAN,102
+ERA-0102,Erayba,E Z12R Шампунь проти випадіння волосся 250 мл NEW!!!,Лікування волосся ZEN NEW!!! Проти Випадіння,250 ml,Spain,605,968,968,no,PRICE_ERAYBA_CLEAN,103
+ERA-0103,Erayba,E Z12R Шампунь проти випадіння волосся 750 мл NEW!!!,Лікування волосся ZEN NEW!!! Проти Випадіння,750 ml,Spain,1490,2384,2384,no,PRICE_ERAYBA_CLEAN,104
+ERA-0104,Erayba,Erayba Z18R Лосьон проти випадіння волосся 100 мл NEW!!!,Лікування волосся ZEN NEW!!! Проти Випадіння,100 ml,Spain,1145,1832,1832,no,PRICE_ERAYBA_CLEAN,105
+ERA-0105,Erayba,Erayba Z18R/EXOАмпули проти випадіння волосся БЛІСТЕР 5од!!! 5мл,Лікування волосся ZEN NEW!!! Проти Випадіння,5 ml,Spain,420,672,672,no,PRICE_ERAYBA_CLEAN,106
+ERA-0106,Erayba,Erayba Z18R/EXO Ампули проти випадіння волосся 5 мл х 15 шт. NEW!!!,Лікування волосся ZEN NEW!!! Проти Випадіння,5 ml,Spain,1250,2000,2000,yes,PRICE_ERAYBA_CLEAN,107
+ERA-0107,Erayba,E Z12B Шампунь проти жирного волосся 250 мл NEW!!!,Лікування волосся ZEN NEW!!! Жирність,250 ml,Spain,605,968,968,yes,PRICE_ERAYBA_CLEAN,108
+ERA-0108,Erayba,E Z12B Шампунь проти жирного волосся 750 мл NEW!!!,Лікування волосся ZEN NEW!!! Жирність,750 ml,Spain,1490,2384,2384,yes,PRICE_ERAYBA_CLEAN,109
+ERA-0109,Erayba,E Z18B Льосьон проти жирного волосся 100 мл NEW!!!,Лікування волосся ZEN NEW!!! Жирність,100 ml,Spain,1145,1832,1832,yes,PRICE_ERAYBA_CLEAN,110
+ERA-0110,Erayba,E Z12P Шампунь проти лупи 250 мл NEW!!!,Лікування волосся ZEN NEW!!! Лупа,250 ml,Spain,605,968,968,no,PRICE_ERAYBA_CLEAN,111
+ERA-0111,Erayba,E Z12P Шампунь проти лупи 750 мл NEW!!!,Лікування волосся ZEN NEW!!! Лупа,750 ml,Spain,1490,2384,2384,no,PRICE_ERAYBA_CLEAN,112
+ERA-0112,Erayba,E Z18P Лосьон проти лупи 100 мл NEW!!!,Лікування волосся ZEN NEW!!! Лупа,100 ml,Spain,1145,1832,1832,no,PRICE_ERAYBA_CLEAN,113
+ERA-0113,Erayba,E Z10A Маска для волосся Zen Active 150 мл NEW!!!,Лікування волосся ZEN NEW!!! Універсальний догляд,150 ml,Spain,660,1056,1056,no,PRICE_ERAYBA_CLEAN,114
+ERA-0114,Erayba,E Z10A Маска для волосся Zen Active 750 мл NEW!!!,Лікування волосся ZEN NEW!!! Універсальний догляд,750 ml,Spain,1700,2720,2720,no,PRICE_ERAYBA_CLEAN,115
+ERA-0115,Erayba,Erayba Z14A Скраб-гель Zen Active 150 мл NEW!!!,Лікування волосся ZEN NEW!!! Універсальний догляд,150 ml,Spain,880,1408,1408,no,PRICE_ERAYBA_CLEAN,116
+ERA-0116,Erayba,E Z15A Сироватка заспокійлива Zen Active 150 мл NEW!!!,Лікування волосся ZEN NEW!!! Універсальний догляд,150 ml,Spain,615,984,984,no,PRICE_ERAYBA_CLEAN,117
+ERA-0117,Erayba,Erayba S01 Бальзам для випрямлення волосся 150 мл,Укладка STYLE ACTIVE NEW!!!,150 ml,Spain,755,1208,1208,no,PRICE_ERAYBA_CLEAN,118
+ERA-0118,Erayba,Erayba S04 Восковий стік 15 мл,Укладка STYLE ACTIVE NEW!!!,15 ml,Spain,625,1000,1000,no,PRICE_ERAYBA_CLEAN,119
+ERA-0119,Erayba,Erayba S05 Віск для волосся сильної фіксації 100 мл,Укладка STYLE ACTIVE NEW!!!,100 ml,Spain,580,928,928,no,PRICE_ERAYBA_CLEAN,120
+ERA-0120,Erayba,Erayba S07 Гель для волосся сильної фіксації 150 мл,Укладка STYLE ACTIVE NEW!!!,07 g,Spain,575,920,920,no,PRICE_ERAYBA_CLEAN,121
+ERA-0121,Erayba,Erayba S10 Лак середньої фіксації 300 мл,Укладка STYLE ACTIVE NEW!!!,300 ml,Spain,870,1392,1392,no,PRICE_ERAYBA_CLEAN,122
+ERA-0122,Erayba,Erayba S12 Сухий шампунь 150 мл,Укладка STYLE ACTIVE NEW!!!,150 ml,Spain,695,1112,1112,no,PRICE_ERAYBA_CLEAN,123
+ERA-0123,Erayba,Erayba S14 Спрей-віск 150 мл,Укладка STYLE ACTIVE NEW!!!,150 ml,Spain,715,1144,1144,no,PRICE_ERAYBA_CLEAN,124
+ERA-0124,Erayba,Erayba S15 Лак сильної фіксації 300 мл,Укладка STYLE ACTIVE NEW!!!,300 ml,Spain,875,1400,1400,no,PRICE_ERAYBA_CLEAN,125
+ERA-0125,Erayba,Erayba S18 Спрей з антифриз ефектом 150 мл,Укладка STYLE ACTIVE NEW!!!,150 ml,Spain,515,824,824,no,PRICE_ERAYBA_CLEAN,126
+ERA-0126,Erayba,Erayba S19 Термозахисний спрей 150 мл,Укладка STYLE ACTIVE NEW!!!,150 ml,Spain,720,1152,1152,yes,PRICE_ERAYBA_CLEAN,127
+ERA-0127,Erayba,Erayba S23 Піна для кучерів 150 мл,Укладка STYLE ACTIVE NEW!!!,150 ml,Spain,740,1184,1184,no,PRICE_ERAYBA_CLEAN,128
+ERA-0128,Erayba,Erayba S25 Мус сильної фіксації 300 мл,Укладка STYLE ACTIVE NEW!!!,300 ml,Spain,1040,1664,1664,no,PRICE_ERAYBA_CLEAN,129
+ERA-0129,Erayba,Erayba S33 Крем для кучерів 150 мл,Укладка STYLE ACTIVE NEW!!!,150 ml,Spain,650,1040,1040,no,PRICE_ERAYBA_CLEAN,130
+ERA-0130,Erayba,Erayba S35 Паста-жуйка 100 мл,Укладка STYLE ACTIVE NEW!!!,100 ml,Spain,795,1272,1272,no,PRICE_ERAYBA_CLEAN,131
+ERA-0131,Erayba,Erayba S50 Сольвий спрей 150 мл,Укладка STYLE ACTIVE NEW!!!,150 ml,Spain,540,864,864,yes,PRICE_ERAYBA_CLEAN,132
+ERA-0132,Erayba,Erayba M12 Шампунь очищуючий 1000 мл,"Хім. завивка, догляд MASTERKER",1000 ml,Spain,1195,1912,1912,no,PRICE_ERAYBA_CLEAN,133
+ERA-0133,Erayba,Erayba M80 Набір для створення м'яких локонів,"Хім. завивка, догляд MASTERKER",,Spain,905,1448,1448,no,PRICE_ERAYBA_CLEAN,134
+ERA-0134,Erayba,Erayba M90 Набір для створення чітких локонів,"Хім. завивка, догляд MASTERKER",,Spain,905,1448,1448,no,PRICE_ERAYBA_CLEAN,135
+ERA-0135,Erayba,Erayba E 01 bond shelter 500 мл,Система захисту та відновлення. волосся WELLPLEX,500 ml,Spain,1950,3120,3120,no,PRICE_ERAYBA_CLEAN,136
+ERA-0136,Erayba,Erayba E 02 bond connector 500 мл,Система захисту та відновлення. волосся WELLPLEX,500 ml,Spain,1320,2112,2112,no,PRICE_ERAYBA_CLEAN,137
+ERA-0137,Erayba,Erayba Wellplex Набір №1 500 мл + №2 2*500 мл,Система захисту та відновлення. волосся WELLPLEX,500 ml,Spain,4370,6992,6992,no,PRICE_ERAYBA_CLEAN,138
+GLY-0001,Glynt,GLYNT Крем-фарба Shadows 100 мл,,100 ml,Germany,430,860,774,no,PRICE_GLYNT_CLEAN,2
+GLY-0002,Glynt,GLYNT Окисник 12% 1000мл,Окислювачі 1000мл,1000 ml,Germany,560,1120,1008,no,PRICE_GLYNT_CLEAN,3
+GLY-0003,Glynt,GLYNT Окисник 2% Shadows Energizer 1000 мл,Окислювачі 1000мл,1000 ml,Germany,560,1120,1008,no,PRICE_GLYNT_CLEAN,4
+GLY-0004,Glynt,GLYNT Окисник 3% 1000 мл,Окислювачі 1000мл,1000 ml,Germany,560,1120,1008,no,PRICE_GLYNT_CLEAN,5
+GLY-0005,Glynt,GLYNT Окисник 6% 1000 мл,Окислювачі 1000мл,1000 ml,Germany,560,1120,1008,no,PRICE_GLYNT_CLEAN,6
+GLY-0006,Glynt,GLYNT Окисник 9% 1000 мл,Окислювачі 1000мл,1000 ml,Germany,560,1120,1008,no,PRICE_GLYNT_CLEAN,7
+GLY-0007,Glynt,GLYNT Окисник 3% 150 мл,Окислювачі 150мл,150 ml,Germany,160,320,288,no,PRICE_GLYNT_CLEAN,8
+GLY-0008,Glynt,GLYNT Окисник 6% 150 мл,Окислювачі 150мл,150 ml,Germany,160,320,288,no,PRICE_GLYNT_CLEAN,9
+GLY-0009,Glynt,GLYNT Окисник 9% 150 мл,Окислювачі 150мл,150 ml,Germany,160,320,288,no,PRICE_GLYNT_CLEAN,10
+GLY-0010,Glynt,GLYNT Пудра обесц. MAGNUM BLOND 450 г,Знебарвлювальні засоби,450 g,Germany,1330,2660,2394,no,PRICE_GLYNT_CLEAN,11
+GLY-0011,Glynt,GLYNT Пудра знебарвл. PLATINUM BLOND 40 г,Знебарвлювальні засоби,40 g,Germany,195,390,351,no,PRICE_GLYNT_CLEAN,12
+GLY-0012,Glynt,GLYNT Пудра знебарвл. PLATINUM BLOND 500 г,Знебарвлювальні засоби,500 g,Germany,1330,2660,2394,no,PRICE_GLYNT_CLEAN,13
+GLY-0013,Glynt,GLYNT Маска-пігмент AURORA Mangala 200 мл,MANGALA Маска-пігмент Color Treatment 200 мл,200 ml,Germany,520,1040,936,no,PRICE_GLYNT_CLEAN,14
+GLY-0014,Glynt,GLYNT Маска-пігмент BEIGE BLOND Mangala Colour Fresh Up 200 мл,MANGALA Маска-пігмент Color Treatment 200 мл,200 ml,Germany,520,1040,936,no,PRICE_GLYNT_CLEAN,15
+GLY-0015,Glynt,GLYNT Маска-пігмент BRUNETTE Mangala Colour Fresh Up 200 мл,MANGALA Маска-пігмент Color Treatment 200 мл,200 ml,Germany,520,1040,936,no,PRICE_GLYNT_CLEAN,16
+GLY-0016,Glynt,GLYNT Маска-пігмент CHERRY Mangala 200 мл,MANGALA Маска-пігмент Color Treatment 200 мл,200 ml,Germany,520,1040,936,no,PRICE_GLYNT_CLEAN,17
+GLY-0017,Glynt,GLYNT Маска-пігмент COOPER Mangala Colour Fresh Up 200 мл,MANGALA Маска-пігмент Color Treatment 200 мл,200 ml,Germany,520,1040,936,no,PRICE_GLYNT_CLEAN,18
+GLY-0018,Glynt,GLYNT Маска-пігмент ESPRESSO Mangala Colour Fresh Up 200 мл,MANGALA Маска-пігмент Color Treatment 200 мл,200 ml,Germany,520,1040,936,no,PRICE_GLYNT_CLEAN,19
+GLY-0019,Glynt,GLYNT Маска-пігмент FIRE RED Mangala 200 мл,MANGALA Маска-пігмент Color Treatment 200 мл,200 ml,Germany,520,1040,936,no,PRICE_GLYNT_CLEAN,20
+GLY-0020,Glynt,GLYNT Маска-пігмент PLATINA Mangala 200 мл,MANGALA Маска-пігмент Color Treatment 200 мл,200 ml,Germany,520,1040,936,no,PRICE_GLYNT_CLEAN,21
+GLY-0021,Glynt,GLYNT Маска-пігмент ROSEGOLD Mangala 200 мл,MANGALA Маска-пігмент Color Treatment 200 мл,200 ml,Germany,520,1040,936,no,PRICE_GLYNT_CLEAN,22
+GLY-0022,Glynt,GLYNT Маска-пігмент SNOW MANGALA Fashion 200 мл,MANGALA Маска-пігмент Color Treatment 200 мл,200 ml,Germany,520,1040,936,no,PRICE_GLYNT_CLEAN,23
+GLY-0023,Glynt,GLYNT Маска-пігмент SUN BLOND Mangala 200 мл,MANGALA Маска-пігмент Color Treatment 200 мл,200 ml,Germany,520,1040,936,no,PRICE_GLYNT_CLEAN,24
+GLY-0024,Glynt,GLYNT Шампунь анти жовтий MANGALA NoYellow INTENSE 1000 мл,MANGALA Маска-пігмент Color Treatment 200 мл,1000 ml,Germany,965,1930,1737,no,PRICE_GLYNT_CLEAN,25
+GLY-0025,Glynt,GLYNT ph Transformer Additive 100 мл,Технічний догляд +процедури,100 ml,Germany,620,1241,1116,no,PRICE_GLYNT_CLEAN,26
+GLY-0026,Glynt,GLYNT TRIJUVEN Step 1 - 100 мл,Технічний догляд +процедури,100 ml,Germany,780,1560,1404,no,PRICE_GLYNT_CLEAN,27
+GLY-0027,Glynt,GLYNT TRIJUVEN Step 1 - 500 мл,Технічний догляд +процедури,500 ml,Germany,2445,4891,4401,no,PRICE_GLYNT_CLEAN,28
+GLY-0028,Glynt,GLYNT TRIJUVEN Step 1- 7 мл + Step 2- 15 мл,Технічний догляд +процедури,7 ml,Germany,220,440,396,no,PRICE_GLYNT_CLEAN,29
+GLY-0029,Glynt,GLYNT TRIJUVEN Step 2 - 1000 мл,Технічний догляд +процедури,1000 ml,Germany,4240,8480,7632,no,PRICE_GLYNT_CLEAN,30
+GLY-0030,Glynt,GLYNT TRIJUVEN Step 3 - 200 мл,Технічний догляд +процедури,200 ml,Germany,656,1312,1181,no,PRICE_GLYNT_CLEAN,31
+GLY-0031,Glynt,GLYNT Загущувач для фарби / пудри Thickener Additive 100 мл,Технічний догляд +процедури,100 ml,Germany,435,870,783,no,PRICE_GLYNT_CLEAN,32
+GLY-0032,Glynt,GLYNT Засіб для зняття фарби з шкіри Colour EX 200 мл,Технічний догляд +процедури,200 ml,Germany,435,870,783,no,PRICE_GLYNT_CLEAN,33
+GLY-0033,Glynt,GLYNT Шампунь LAQUEX Cleansing Shampoo 1000 мл,Технічний догляд +процедури,1000 ml,Germany,1550,3100,2790,no,PRICE_GLYNT_CLEAN,34
+GLY-0034,Glynt,GLYNT Кондиціонер зволожуючий HYDRO Conditioner 1000 мл,HYDRO Догляд для волосся зволоження волосся,1000 ml,Germany,1650,3300,2970,yes,PRICE_GLYNT_CLEAN,35
+GLY-0035,Glynt,GLYNT Кондиціонер зволожуючий HYDRO Conditioner 200 мл,HYDRO Догляд для волосся зволоження волосся,200 ml,Germany,470,940,846,yes,PRICE_GLYNT_CLEAN,36
+GLY-0036,Glynt,GLYNT Мусс зволожуючий HYDRO Shot 50 мл,HYDRO Догляд для волосся зволоження волосся,50 ml,Germany,215,430,387,no,PRICE_GLYNT_CLEAN,37
+GLY-0037,Glynt,GLYNT Спрей зволожуючий HYDRO Care Spray 150 мл,HYDRO Догляд для волосся зволоження волосся,150 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,38
+GLY-0038,Glynt,GLYNT Шампунь зволожуючий HYDRO Shampoo 1000 мл,HYDRO Догляд для волосся зволоження волосся,1000 ml,Germany,1140,2280,2052,yes,PRICE_GLYNT_CLEAN,39
+GLY-0039,Glynt,GLYNT Шампунь зволожуючий HYDRO Shampoo 250 мл,HYDRO Догляд для волосся зволоження волосся,250 ml,Germany,470,940,846,yes,PRICE_GLYNT_CLEAN,40
+GLY-0040,Glynt,GLYNT Шампунь зволожуючий HYDRO Shampoo 3000 мл,HYDRO Догляд для волосся зволоження волосся,3000 ml,Germany,2900,5800,5220,no,PRICE_GLYNT_CLEAN,41
+GLY-0041,Glynt,GLYNT Кондиціонер для об'єму VOLUME Conditioner 200 мл,VOLUME для об'єму,200 ml,Germany,470,940,846,yes,PRICE_GLYNT_CLEAN,42
+GLY-0042,Glynt,GLYNT Кондиціонер для об'єму VOLUME Conditioner 1000 мл,VOLUME для об'єму,1000 ml,Germany,1890,3781,3402,yes,PRICE_GLYNT_CLEAN,43
+GLY-0043,Glynt,GLYNT Мус для об'єму VOLUME Shot 50 мл,VOLUME для об'єму,50 ml,Germany,215,430,387,no,PRICE_GLYNT_CLEAN,44
+GLY-0044,Glynt,GLYNT Спрей для об'єму VOLUME Energy Spray 100 мл,VOLUME для об'єму,100 ml,Germany,620,1241,1116,no,PRICE_GLYNT_CLEAN,45
+GLY-0045,Glynt,GLYNT Спрей для об'єму VOLUME Energy Spray 30 мл,VOLUME для об'єму,30 ml,Germany,270,540,486,no,PRICE_GLYNT_CLEAN,46
+GLY-0046,Glynt,GLYNT Шампунь для об'єму VOLUME Shampoo 1000 мл,VOLUME для об'єму,1000 ml,Germany,1140,2280,2052,yes,PRICE_GLYNT_CLEAN,47
+GLY-0047,Glynt,GLYNT Шампунь для об'єму VOLUME ENERGY Shampoo 250 мл,VOLUME для об'єму,250 ml,Germany,470,940,846,yes,PRICE_GLYNT_CLEAN,48
+GLY-0048,Glynt,GLYNT Маска віднов. REVITAL MASK 1000 мл,REVITAL віднов. волосся,1000 ml,Germany,1890,3781,3402,yes,PRICE_GLYNT_CLEAN,49
+GLY-0049,Glynt,GLYNT Маска віднов REVITAL REGAIN MASK 200 мл,REVITAL віднов. волосся,200 ml,Germany,470,940,846,yes,PRICE_GLYNT_CLEAN,50
+GLY-0050,Glynt,GLYNT Мус віднов. REVITAL Shot 50 мл,REVITAL віднов. волосся,50 ml,Germany,215,430,387,no,PRICE_GLYNT_CLEAN,51
+GLY-0051,Glynt,GLYNT Спрей віднов. REVITAL Care Spray 150 мл,REVITAL віднов. волосся,150 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,52
+GLY-0052,Glynt,GLYNT Шампунь віднов. REVITAL REGAIN SHAMPOO 1000 мл,REVITAL віднов. волосся,1000 ml,Germany,1140,2280,2052,yes,PRICE_GLYNT_CLEAN,53
+GLY-0053,Glynt,GLYNT Шампунь віднов. REVITAL REGAIN SHAMPOO 250 мл,REVITAL віднов. волосся,250 ml,Germany,470,940,846,yes,PRICE_GLYNT_CLEAN,54
+GLY-0054,Glynt,GLYNT Шампунь восст. REVITAL Shampoo 3000 мл,REVITAL віднов. волосся,3000 ml,Germany,2900,5800,5220,no,PRICE_GLYNT_CLEAN,55
+GLY-0055,Glynt,GLYNT Маска живильна NUTRI OIL Mask 1000 мл,NUTRI живлення волосся,1000 ml,Germany,1890,3780,3402,yes,PRICE_GLYNT_CLEAN,56
+GLY-0056,Glynt,GLYNT Маска живильна NUTRI OIL Mask 200 мл,NUTRI живлення волосся,200 ml,Germany,470,940,846,yes,PRICE_GLYNT_CLEAN,57
+GLY-0057,Glynt,GLYNT Спрей для блиску NUTRI Shine Spray 100 мл,NUTRI живлення волосся,100 ml,Germany,520,1040,936,yes,PRICE_GLYNT_CLEAN,58
+GLY-0058,Glynt,GLYNT Спрей для блиску NUTRI Shine Spray 30 мл,NUTRI живлення волосся,30 ml,Germany,235,470,423,no,PRICE_GLYNT_CLEAN,59
+GLY-0059,Glynt,GLYNT Шампунь живильний NUTRI OIL Shampoo 1000 мл,NUTRI живлення волосся,1000 ml,Germany,1540,3080,2772,yes,PRICE_GLYNT_CLEAN,60
+GLY-0060,Glynt,GLYNT Шампунь живильний NUTRI OIL Shampoo 250 мл,NUTRI живлення волосся,250 ml,Germany,470,940,846,yes,PRICE_GLYNT_CLEAN,61
+GLY-0061,Glynt,GLYNT Еліксир живільний NUTRI Elixir 30 мл,NUTRI живлення волосся,30 ml,Germany,365,730,657,no,PRICE_GLYNT_CLEAN,62
+GLY-0062,Glynt,GLYNT Еликсир живильний NUTRI Elixir 100 мл,NUTRI живлення волосся,100 ml,Germany,850,1700,1530,no,PRICE_GLYNT_CLEAN,63
+GLY-0063,Glynt,GLYNT Крем DERMA E.F.A. STIMULANT 50 мл,"DERMA випадіння,лупа, жирне волосся",50 ml,Germany,410,820,738,no,PRICE_GLYNT_CLEAN,64
+GLY-0064,Glynt,GLYNT Тонік проти випадіння DERMA Ginkgo Energeticum 100 мл,"DERMA випадіння,лупа, жирне волосся",100 ml,Germany,610,1220,1098,no,PRICE_GLYNT_CLEAN,65
+GLY-0065,Glynt,GLYNT Тонік п/випадіння DERMA Ginkgo Energeticum 30 мл,"DERMA випадіння,лупа, жирне волосся",30 ml,Germany,280,560,504,no,PRICE_GLYNT_CLEAN,66
+GLY-0066,Glynt,GLYNT Тонік п/лупи DERMA Tonic 100 мл,"DERMA випадіння,лупа, жирне волосся",100 ml,Germany,520,1040,936,no,PRICE_GLYNT_CLEAN,67
+GLY-0067,Glynt,GLYNT Тоник DERMA Tonic 30 мл,"DERMA випадіння,лупа, жирне волосся",30 ml,Germany,280,560,504,no,PRICE_GLYNT_CLEAN,68
+GLY-0068,Glynt,GLYNT Шампунь регулятор DERMA Shampoo 1000 мл,"DERMA випадіння,лупа, жирне волосся",1000 ml,Germany,1550,3100,2790,yes,PRICE_GLYNT_CLEAN,69
+GLY-0069,Glynt,GLYNT Шампунь регулятор DERMA REGULATE Shampoo 250 мл,"DERMA випадіння,лупа, жирне волосся",250 ml,Germany,470,940,846,yes,PRICE_GLYNT_CLEAN,70
+GLY-0070,Glynt,GLYNT Шампунь п/випадіння REFRESH Shampoo 1000 мл,"REFRESH Проти випадіння, рост волосся",1000 ml,Germany,1550,3100,2790,yes,PRICE_GLYNT_CLEAN,71
+GLY-0071,Glynt,GLYNT Шампунь п/випадіння REFRESH Shampoo 250 мл,"REFRESH Проти випадіння, рост волосся",250 ml,Germany,470,940,846,yes,PRICE_GLYNT_CLEAN,72
+GLY-0072,Glynt,GLYNT Маска ICE BLOND 1000 мл,ICE BLOND для блондинок,1000 ml,Germany,2020,4040,3636,no,PRICE_GLYNT_CLEAN,73
+GLY-0073,Glynt,GLYNT Маска ICE BLOND 200 мл,ICE BLOND для блондинок,200 ml,Germany,520,1040,936,no,PRICE_GLYNT_CLEAN,74
+GLY-0074,Glynt,GLYNT Шампунь ICE BLOND 1000 мл,ICE BLOND для блондинок,1000 ml,Germany,1150,2300,2070,no,PRICE_GLYNT_CLEAN,75
+GLY-0075,Glynt,GLYNT Шампунь ICE BLOND 250 мл,ICE BLOND для блондинок,250 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,76
+GLY-0076,Glynt,GLYNT Smoothing Water Відновлення волосся 200 мл,ICE BLOND для блондинок,200 ml,Germany,550,1100,990,no,PRICE_GLYNT_CLEAN,77
+GLY-0077,Glynt,GLYNT Smoothing Water Відновлення волосся 500 мл,ICE BLOND для блондинок,500 ml,Germany,985,1970,1773,no,PRICE_GLYNT_CLEAN,78
+GLY-0078,Glynt,GLYNT Smoothing Water Відновлення волосся 75 мл NEW!!,ICE BLOND для блондинок,75 ml,Germany,295,590,531,no,PRICE_GLYNT_CLEAN,79
+GLY-0079,Glynt,GLYNT Віск KONA Wax Stick 25 g,Укладка для волосся,25 g,Germany,405,810,729,no,PRICE_GLYNT_CLEAN,80
+GLY-0080,Glynt,GLYNT Віск матовий MAT Modeler 75 мл h4,Укладка для волосся,75 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,81
+GLY-0081,Glynt,GLYNT Гель з блиском PEARL Design Gloss 100 мл h4,Укладка для волосся,100 ml,Germany,390,780,702,no,PRICE_GLYNT_CLEAN,82
+GLY-0082,Glynt,GLYNT Гель екстрасильної. фіксації JELLY Extreme Styler 100 мл h5,Укладка для волосся,100 ml,Germany,390,780,702,no,PRICE_GLYNT_CLEAN,83
+GLY-0083,Glynt,GLYNT Жуйка KANGOO Shaper 75 мл h2,Укладка для волосся,75 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,84
+GLY-0084,Glynt,GLYNT Крем д/локонов DEFINE Curl Cream 125 мл,Укладка для волосся,125 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,85
+GLY-0085,Glynt,GLYNT Крем VITA Blowdry Cream 125 мл,Укладка для волосся,125 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,86
+GLY-0086,Glynt,GLYNT Крем моделюючий SPIDER Cream 100 мл h2,Укладка для волосся,100 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,87
+GLY-0087,Glynt,GLYNT Крем разглаживающий MALIBU Smoothing Cream 125 мл,Укладка для волосся,125 ml,Germany,495,990,891,no,PRICE_GLYNT_CLEAN,88
+GLY-0088,Glynt,GLYNT Лак нормальної фіксації MERAK Blowing Spray 500 мл h4,Укладка для волосся,500 ml,Germany,640,1280,1152,no,PRICE_GLYNT_CLEAN,89
+GLY-0089,Glynt,GLYNT Лак нормальної фіксації MERAK Dynamic Spray 300 мл h3,Укладка для волосся,300 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,90
+GLY-0090,Glynt,GLYNT Лак д/волосся сил.фікс. VENTO Texture Spray 300 мл h5,Укладка для волосся,300 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,91
+GLY-0091,Glynt,GLYNT Лак д / волосся сил.фікс. VENTO Texture Spray 500 мл h4,Укладка для волосся,500 ml,Germany,640,1280,1152,no,PRICE_GLYNT_CLEAN,92
+GLY-0092,Glynt,GLYNT Лак екстра-сильної фіксації MISTRAL Build up Spray 300 мл h5,Укладка для волосся,300 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,93
+GLY-0093,Glynt,GLYNT Лак екстра-сильної фіксації MISTRAL Build up Spray 500 мл h6,Укладка для волосся,500 ml,Germany,640,1280,1152,no,PRICE_GLYNT_CLEAN,94
+GLY-0094,Glynt,GLYNT Лак рідкий SCIROCCO Lac Spray 150 мл,Укладка для волосся,150 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,95
+GLY-0095,Glynt,GLYNT Лосьйон для укладання ALPHA Setting Lotion 150мл h4,Укладка для волосся,150 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,96
+GLY-0096,Glynt,GLYNT Мус сильної фіксації VELVET Mousse Strong 200 мл h4,Укладка для волосся,200 ml,Germany,530,1060,954,no,PRICE_GLYNT_CLEAN,97
+GLY-0097,Glynt,GLYNT Мус сильної фіксації VELVET Mousse Strong 500 мл h5,Укладка для волосся,500 ml,Germany,825,1650,1485,no,PRICE_GLYNT_CLEAN,98
+GLY-0098,Glynt,GLYNT Паста текстурна пудровая BORA Paste 75 мл h3,Укладка для волосся,75 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,99
+GLY-0099,Glynt,GLYNT Помада STEELER 75 мл,Укладка для волосся,75 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,100
+GLY-0100,Glynt,GLYNT Пудра YUMA Volume Powder 6 g,Укладка для волосся,6 g,Germany,415,830,747,no,PRICE_GLYNT_CLEAN,101
+GLY-0101,Glynt,GLYNT Спрей для полегш. Розчіс. BREEZE Smoothing Spray 200 мл h0,Укладка для волосся,200 ml,Germany,530,1060,954,no,PRICE_GLYNT_CLEAN,102
+GLY-0102,Glynt,GLYNT Спрей KHAMSIN Invisible Spray 300 мл,Укладка для волосся,300 ml,Germany,530,1060,954,no,PRICE_GLYNT_CLEAN,103
+GLY-0103,Glynt,GLYNT Спрей для кучерів ELASTIC Curl Spray 150 мл h3,Укладка для волосся,150 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,104
+GLY-0104,Glynt,GLYNT Спрей сольовий VENICE Sea Salt Spray 150 мл h1,Укладка для волосся,150 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,105
+GLY-0105,Glynt,GLYNT Спрей-віск CARIBBEAN Spray Wax 150 мл h3,Укладка для волосся,150 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,106
+GLY-0106,Glynt,GLYNT Спрей-піна для обсягу ROK Root Lifting Foam 200 мл h3,Укладка для волосся,200 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,107
+GLY-0107,Glynt,GLYNT Сухий шампунь-пінка NEVIS 200 мл,Укладка для волосся,200 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,108
+GLY-0108,Glynt,GLYNT Шампунь сухої BLIZZARD Ice Spray 200 мл h1,Укладка для волосся,200 ml,Germany,470,940,846,no,PRICE_GLYNT_CLEAN,109
+GLY-0109,Glynt,GLYNT МИНІ-ПРОДУКТ Віск матовый MAT Modeler 20 мл h5,"Міні-продукти від 5 шт, можна різних",20 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,110
+GLY-0110,Glynt,GLYNT МИНІ-ПРОДУКТ Гель/ душа REFRESH 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,111
+GLY-0111,Glynt,GLYNT МИНІ-ПРОДУКТ Гель д/душа SENSITIVE 50 мл NEW!!,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,112
+GLY-0112,Glynt,GLYNT МИНІ-ПРОДУКТ Жуйка KANGOO Shaper 20 мл h3,"Міні-продукти від 5 шт, можна різних",20 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,113
+GLY-0113,Glynt,GLYNT МИНІ-ПРОДУКТ Рідкий лак SCIROCCO Lac Spray 50 мл h5,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,114
+GLY-0114,Glynt,GLYNT МИНІ-ПРОДУКТ Крем MALIBU Smoothing Cream 30 мл h1,"Міні-продукти від 5 шт, можна різних",30 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,115
+GLY-0115,Glynt,GLYNT МИНІ-ПРОДУКТ Крем VITA Blow Dry Cream 30 мл NEW!!,"Міні-продукти від 5 шт, можна різних",30 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,116
+GLY-0116,Glynt,GLYNT МИНИ-ПРОДУКТ Крем для рук SENSITIVE 30 мл,"Міні-продукти від 5 шт, можна різних",30 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,117
+GLY-0117,Glynt,GLYNT МИНІ-ПРОДУКТ Лак норм. Фікс. MERAK Blowing Spray 50 мл h4,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,118
+GLY-0118,Glynt,GLYNT МИНІ-ПРОДУКТ Лак екстра-сильной фікс MISTRAL Build up Spray 50 мл h6,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,119
+GLY-0119,Glynt,GLYNT МИНИ-ПРОДУКТ Маска ICE BLOND 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,120
+GLY-0120,Glynt,GLYNT МИНІ-ПРОДУКТ Маска NUTRI 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,121
+GLY-0121,Glynt,GLYNT МИНІ-ПРОДУКТ Маска REVITAL 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,122
+GLY-0122,Glynt,GLYNT МИНІ-ПРОДУКТ Моделюючий крем SPIDER Cream 20 мл h3,"Міні-продукти від 5 шт, можна різних",20 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,123
+GLY-0123,Glynt,GLYNT МИНІ-ПРОДУКТ Мус сильн фікс VELVET Mousse Strong 50 мл h5,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,124
+GLY-0124,Glynt,GLYNT МІНІ-ПРОДУКТ Паста текстурна GRACE Texture Paste 20 мл,"Міні-продукти від 5 шт, можна різних",20 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,125
+GLY-0125,Glynt,GLYNT МИНІ-ПРОДУКТ Помада STEELER 20 мл NEW!,"Міні-продукти від 5 шт, можна різних",20 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,126
+GLY-0126,Glynt,GLYNT МИНІ-ПРОДУКТ Спрей REVITAL 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,127
+GLY-0127,Glynt,GLYNT МИНІ-ПРОДУКТ Спрей KHAMSIN Invisible Spray 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,128
+GLY-0128,Glynt,GLYNT МИНІ-ПРОДУКТ Спрей текстурний VENTO Texture Spray 50 мл h5,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,129
+GLY-0129,Glynt,GLYNT МИНІ-ПРОДУКТ Спрей-віск CARIBBEAN Spray Wax 50 мл h4,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,130
+GLY-0130,Glynt,GLYNT МИНІ-ПРОДУКТ Сухий шампунь BLIZZARD 50 мл h2,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,131
+GLY-0131,Glynt,GLYNT МИНІ-ПРОДУКТ Текстурная паста BORA Paste 20 мл h4,"Міні-продукти від 5 шт, можна різних",20 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,132
+GLY-0132,Glynt,GLYNT МИНІ-ПРОДУКТ Шампунь DERMA 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,133
+GLY-0133,Glynt,GLYNT МИНІ-ПРОДУКТ Шампунь HYDRO 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,134
+GLY-0134,Glynt,GLYNT МИНИ-ПРОДУКТ Шампунь ICE BLOND 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,135
+GLY-0135,Glynt,GLYNT МИНІ-ПРОДУКТ Шампунь NUTRI 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,136
+GLY-0136,Glynt,GLYNT МИНІ-ПРОДУКТ Шампунь REFRESH 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,137
+GLY-0137,Glynt,GLYNT МИНІ-ПРОДУКТ Шампунь REVITAL 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,138
+GLY-0138,Glynt,GLYNT МИНІ-ПРОДУКТ Шампунь VOLUME 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,139
+GLY-0139,Glynt,GLYNT МИНІ-ПРОДУКТ Сухий шампунь-пінка NEVIS 50 мл,"Міні-продукти від 5 шт, можна різних",50 ml,Germany,175,350,315,no,PRICE_GLYNT_CLEAN,140
+GRA-0001,Graham Hill,GRAHAM HILL Гель для душу ABBEY 100 мл,Очищення та догляд,100 ml,Germany,285,399,399,no,PRICE_GRAHAM_HILL_CLEAN,2
+GRA-0002,Graham Hill,GRAHAM HILL Гель для душу ABBEY 1000 мл,Очищення та догляд,1000 ml,Germany,1520,2128,2128,no,PRICE_GRAHAM_HILL_CLEAN,3
+GRA-0003,Graham Hill,GRAHAM HILL Гель для душу ABBEY 250 мл,Очищення та догляд,250 ml,Germany,530,742,742,no,PRICE_GRAHAM_HILL_CLEAN,4
+GRA-0004,Graham Hill,GRAHAM HILL Тонік для шкіри голови FARM 100 мл,Очищення та догляд,100 ml,Germany,530,742,742,no,PRICE_GRAHAM_HILL_CLEAN,5
+GRA-0005,Graham Hill,GRAHAM HILL Шампунь BRICKYARD 100 мл,Очищення та догляд,100 ml,Germany,285,399,399,no,PRICE_GRAHAM_HILL_CLEAN,6
+GRA-0006,Graham Hill,GRAHAM HILL Шампунь BRICKYARD 1000 мл,Очищення та догляд,1000 ml,Germany,1520,2128,2128,no,PRICE_GRAHAM_HILL_CLEAN,7
+GRA-0007,Graham Hill,GRAHAM HILL Шампунь BRICKYARD 250 мл,Очищення та догляд,250 ml,Germany,530,742,742,no,PRICE_GRAHAM_HILL_CLEAN,8
+GRA-0008,Graham Hill,GRAHAM HILL Шампунь з активованим вугіллям STOWE 100 мл,Очищення та догляд,100 ml,Germany,285,399,399,no,PRICE_GRAHAM_HILL_CLEAN,9
+GRA-0009,Graham Hill,GRAHAM HILL Шампунь з активованим вугіллям STOWE 1000 мл,Очищення та догляд,1000 ml,Germany,1520,2128,2128,no,PRICE_GRAHAM_HILL_CLEAN,10
+GRA-0010,Graham Hill,GRAHAM HILL Шампунь з активованим вугіллям STOWE 250 мл,Очищення та догляд,250 ml,Germany,530,742,742,no,PRICE_GRAHAM_HILL_CLEAN,11
+GRA-0011,Graham Hill,GRAHAM HILL Бальзам після гоління ARNAGE 100 мл,Догляд за бородою,100 ml,Germany,390,545,545,no,PRICE_GRAHAM_HILL_CLEAN,12
+GRA-0012,Graham Hill,GRAHAM HILL Бальзам після гоління ARNAGE 200 мл,Догляд за бородою,200 ml,Germany,600,840,840,no,PRICE_GRAHAM_HILL_CLEAN,13
+GRA-0013,Graham Hill,GRAHAM HILL Гель для гоління MALMEDY 150 мл,Догляд за бородою,150 ml,Germany,530,742,742,no,PRICE_GRAHAM_HILL_CLEAN,14
+GRA-0014,Graham Hill,GRAHAM HILL Масло живильне для бороди MULSANNE 30 мл,Догляд за бородою,30 ml,Germany,675,945,945,no,PRICE_GRAHAM_HILL_CLEAN,15
+GRA-0015,Graham Hill,GRAHAM HILL Мило для гоління CASINO 85 г,Догляд за бородою,85 g,Germany,530,742,742,no,PRICE_GRAHAM_HILL_CLEAN,16
+GRA-0016,Graham Hill,GRAHAM HILL Порошок для очищення бороди RASCASSE 40 г,Догляд за бородою,40 g,Germany,600,840,840,no,PRICE_GRAHAM_HILL_CLEAN,17
+GRA-0017,Graham Hill,GRAHAM HILL Тонік після гоління MIRABEAU 100 мл,Догляд за бородою,100 ml,Germany,600,840,840,no,PRICE_GRAHAM_HILL_CLEAN,18
+GRA-0018,Graham Hill,GRAHAM HILL Туалетна вода BEAU RIVAGE 100 мл,Догляд за бородою,100 ml,Germany,1980,2772,2772,no,PRICE_GRAHAM_HILL_CLEAN,19
+GRA-0019,Graham Hill,GRAHAM HILL Гель сильної фіксації BECKETTS 100 мл,Стайлинг,100 ml,Germany,530,742,742,no,PRICE_GRAHAM_HILL_CLEAN,20
+GRA-0020,Graham Hill,GRAHAM HILL Крем текстурний CLUB 75 мл,Стайлинг,75 ml,Germany,530,742,742,no,PRICE_GRAHAM_HILL_CLEAN,21
+GRA-0021,Graham Hill,GRAHAM HILL Крем звол. для стайлінгу BROOKLANDS 150 мл,Стайлинг,150 ml,Germany,530,742,742,no,PRICE_GRAHAM_HILL_CLEAN,22
+GRA-0022,Graham Hill,GRAHAM HILL Паста c натур. матовим ефектом HANGAR 100 мл,Стайлинг,100 ml,Germany,530,742,742,no,PRICE_GRAHAM_HILL_CLEAN,23
+GRA-0023,Graham Hill,GRAHAM HILL Паста матова сил.фіксація LESMO 75 мл,Стайлинг,75 ml,Germany,530,742,742,no,PRICE_GRAHAM_HILL_CLEAN,24
+GRA-0024,Graham Hill,GRAHAM HILL Помада для додання об`єму CHAPEL 75 мл,Стайлинг,75 ml,Germany,530,742,742,no,PRICE_GRAHAM_HILL_CLEAN,25
+GRA-0025,Graham Hill,GRAHAM HILL Спрей для волосся LUFFIELD 200 мл,Стайлинг,200 ml,Germany,530,742,742,no,PRICE_GRAHAM_HILL_CLEAN,26
+LOT-0001,Lothmann,LOTHMANN Крем-фарба 100 мл UNITED COLOR INTENSE,Крем-фаоба б/амміаку,100 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,2
+LOT-0002,Lothmann,LOTHMANN Крем-фарба б/амміаку 100 мл UNITED COLOR ESSENTIAL,Крем-фаоба б/амміаку,100 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,3
+LOT-0003,Lothmann,LOTHMANN Крем-фаоба б/амміаку 100 мл UNITED COLOR SHINE,Крем-фаоба б/амміаку,100 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,4
+LOT-0004,Lothmann,LOTHMANN Тонери BLONDES SHADES,Тонери,,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,5
+LOT-0005,Lothmann,LOTHMANN Blondes Shades Blond Блонд 60 мл,Тонери,60 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,6
+LOT-0006,Lothmann,LOTHMANN Blondes Shades Pearl Перлинний 60 мл,Тонери,60 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,7
+LOT-0007,Lothmann,LOTHMANN Blondes Shades Caramel Карамель 60 мл,Тонери,60 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,8
+LOT-0008,Lothmann,LOTHMANN Blondes Shades Chestnut Каштан 60 мл,Тонери,60 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,9
+LOT-0009,Lothmann,LOTHMANN Blondes Shades Noisette Лісовий горіх 60 мл,Тонери,60 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,10
+LOT-0010,Lothmann,LOTHMANN Blondes Shades Cuivre Мідний 60 мл,Тонери,60 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,11
+LOT-0011,Lothmann,LOTHMANN Blondes Shades Moka Мокко 60 мл,Тонери,60 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,12
+LOT-0012,Lothmann,LOTHMANN Blondes Shades Clear Прозорий 250 мл,Тонери,250 ml,Germany,1130,2260,2034,no,PRICE_LOTHMANN_CLEAN,13
+LOT-0013,Lothmann,LOTHMANN Blondes Shades Pink Рожевий 60 мл,Тонери,60 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,14
+LOT-0014,Lothmann,LOTHMANN Blondes Shades Silver Срібло 60 мл,Тонери,60 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,15
+LOT-0015,Lothmann,LOTHMANN Blondes Shades Champagne Шампань 60 мл,Тонери,60 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,16
+LOT-0016,Lothmann,LOTHMANN Blondes Shades Chocolat Шоколад 60 мл,Тонери,60 ml,Germany,340,680,612,no,PRICE_LOTHMANN_CLEAN,17
+LOT-0017,Lothmann,LOTHMANN Окисник 10 VOL UNITED COLOR 1000 мл,Окисники,1000 ml,Germany,370,740,666,no,PRICE_LOTHMANN_CLEAN,18
+LOT-0018,Lothmann,LOTHMANN Окисник 20 VOL UNITED COLOR 1000 мл,Окисники,1000 ml,Germany,370,740,666,no,PRICE_LOTHMANN_CLEAN,19
+LOT-0019,Lothmann,LOTHMANN Окисник 30 VOL UNITED COLOR 1000 мл,Окисники,1000 ml,Germany,370,740,666,no,PRICE_LOTHMANN_CLEAN,20
+LOT-0020,Lothmann,LOTHMANN Окисник 40 VOL UNITED COLOR 1000 мл,Окисники,1000 ml,Germany,370,740,666,no,PRICE_LOTHMANN_CLEAN,21
+LOT-0021,Lothmann,LOTHMANN Окисник 5 VOL BLONDES&SHADES 1000 мл,Окисники,1000 ml,Germany,370,740,666,no,PRICE_LOTHMANN_CLEAN,22
+LOT-0022,Lothmann,LOTHMANN Пудра б/ амміака POUDRE DECOLARANTE 500 г,Пудри,500 g,Germany,940,1880,1692,no,PRICE_LOTHMANN_CLEAN,23
+LOT-0023,Lothmann,LOTHMANN Пудра 10 р. BLACK POWER 500 г,Пудри,500 g,Germany,940,1880,1692,no,PRICE_LOTHMANN_CLEAN,24
+LOT-0024,Lothmann,LOTHMANN Пудра BLANCHE 9 рів. БІЛА 500 г,Пудри,500 g,Germany,940,1880,1692,no,PRICE_LOTHMANN_CLEAN,25
+LOT-0025,Lothmann,LOTHMANN Пудра VIOLETTE 500 г,Пудри,500 g,Germany,940,1880,1692,no,PRICE_LOTHMANN_CLEAN,26
+LOT-0026,Lothmann,LOTHMANN Засіб для видалення пігменту ABC D-Pigment,TECHNICAL Технична серія,,Germany,1350,2700,2430,no,PRICE_LOTHMANN_CLEAN,27
+LOT-0027,Lothmann,LOTHMANN Захист волосся SOIN RECOVERY NUTRI PROTECT 250 мл,TECHNICAL Технична серія,250 ml,Germany,1200,2400,2160,no,PRICE_LOTHMANN_CLEAN,28
+LOT-0028,Lothmann,LOTHMANN Лосьйон для видалення фарбника 1000 мл,TECHNICAL Технична серія,1000 ml,Germany,780,1560,1404,no,PRICE_LOTHMANN_CLEAN,29
+LOT-0029,Lothmann,LOTHMANN Шампунь NEUTRALISANT 1000 мл,TECHNICAL Технична серія,1000 ml,Germany,2860,5720,5148,no,PRICE_LOTHMANN_CLEAN,30
+LOT-0030,Lothmann,"LOTHMANN Шампунь глибокого очищення ph 8,5 ALCALIN 1000 мл",TECHNICAL Технична серія,1000 ml,Germany,1085,2170,1953,no,PRICE_LOTHMANN_CLEAN,31
+LOT-0031,Lothmann,LOTHMANN Шампунь для всех типов волос ALMOND 5000 мл,TECHNICAL Технична серія,5000 ml,Germany,1620,3240,2916,no,PRICE_LOTHMANN_CLEAN,32
+LOT-0032,Lothmann,LOTHMANN Шампунь-нейтралізатор POST COLOR ph 4.5 1000 мл,TECHNICAL Технична серія,1000 ml,Germany,1020,2040,1836,no,PRICE_LOTHMANN_CLEAN,33
+LOT-0033,Lothmann,LOTHMANN Мус NUTRI-SWEET 200 мл,VOLUME Для тонкого волосся,200 ml,Germany,960,1919,1728,no,PRICE_LOTHMANN_CLEAN,34
+LOT-0034,Lothmann,LOTHMANN Спрей DENSIFYING SPRAY 250 мл,VOLUME Для тонкого волосся,250 ml,Germany,825,1650,1485,no,PRICE_LOTHMANN_CLEAN,35
+LOT-0035,Lothmann,LOTHMANN Шампунь VOLUME 1000 мл,VOLUME Для тонкого волосся,1000 ml,Germany,1350,2700,2430,no,PRICE_LOTHMANN_CLEAN,36
+LOT-0036,Lothmann,LOTHMANN Шампунь VOLUME 250 мл,VOLUME Для тонкого волосся,250 ml,Germany,505,1010,909,no,PRICE_LOTHMANN_CLEAN,37
+LOT-0037,Lothmann,LOTHMANN Кондиціонер OLEO VITAL 500 мл,OLEO VITAL Для курчавого волосся,500 ml,Germany,1270,2540,2286,no,PRICE_LOTHMANN_CLEAN,38
+LOT-0038,Lothmann,LOTHMANN Сировотка SERUM OLEO VITAL 100 мл,OLEO VITAL Для курчавого волосся,100 ml,Germany,840,1680,1512,no,PRICE_LOTHMANN_CLEAN,39
+LOT-0039,Lothmann,LOTHMANN Спрей SPRAY WAVY OLEO VITAL 150 мл,OLEO VITAL Для курчавого волосся,150 ml,Germany,735,1470,1323,no,PRICE_LOTHMANN_CLEAN,40
+LOT-0040,Lothmann,LOTHMANN Флюїд CURL ENHANCER OLEO VITAL 100 мл,OLEO VITAL Для курчавого волосся,100 ml,Germany,975,1950,1755,no,PRICE_LOTHMANN_CLEAN,41
+LOT-0041,Lothmann,LOTHMANN Шампунь OLEO VITAL 1000 мл,OLEO VITAL Для курчавого волосся,1000 ml,Germany,1675,3350,3015,no,PRICE_LOTHMANN_CLEAN,42
+LOT-0042,Lothmann,LOTHMANN Шампунь OLEO VITAL 250 мл,OLEO VITAL Для курчавого волосся,250 ml,Germany,785,1570,1413,no,PRICE_LOTHMANN_CLEAN,43
+LOT-0043,Lothmann,LOTHMANN Кондиціонер COLOR TREATMENT UNITED COLOR 1000 мл,COLOR Для фарбованного волосся,1000 ml,Germany,1860,3720,3348,no,PRICE_LOTHMANN_CLEAN,44
+LOT-0044,Lothmann,LOTHMANN Кондиціонер COLOR TREATMENT UNITED COLOR 250 мл,COLOR Для фарбованного волосся,250 ml,Germany,780,1560,1404,no,PRICE_LOTHMANN_CLEAN,45
+LOT-0045,Lothmann,LOTHMANN Маска HYDRATANT MASK UNITED COLOR 500 мл,COLOR Для фарбованного волосся,500 ml,Germany,1190,2379,2142,no,PRICE_LOTHMANN_CLEAN,46
+LOT-0046,Lothmann,LOTHMANN Шампунь COLOR UNITED COLOR 1000 мл,COLOR Для фарбованного волосся,1000 ml,Germany,1770,3540,3186,no,PRICE_LOTHMANN_CLEAN,47
+LOT-0047,Lothmann,LOTHMANN Шампунь COLOR UNITED COLOR 250 мл,COLOR Для фарбованного волосся,250 ml,Germany,640,1280,1152,no,PRICE_LOTHMANN_CLEAN,48
+LOT-0048,Lothmann,LOTHMANN Еліксир COLOR ELIXIR UNITED COLOR 150 мл,COLOR Для фарбованного волосся,150 ml,Germany,890,1780,1602,no,PRICE_LOTHMANN_CLEAN,49
+LOT-0049,Lothmann,LOTHMANN Процедура-догляд SEALER NUTRI PROTECT 1000 мл,NUTRI Для пошкодженого волосся,1000 ml,Germany,1680,3360,3024,no,PRICE_LOTHMANN_CLEAN,50
+LOT-0050,Lothmann,LOTHMANN Процедура-догляд SEALER NUTRI PROTECT 250 мл,NUTRI Для пошкодженого волосся,250 ml,Germany,790,1580,1422,no,PRICE_LOTHMANN_CLEAN,51
+LOT-0051,Lothmann,LOTHMANN Шампунь NUTRI PROTECT PLEX 1000 мл,NUTRI Для пошкодженого волосся,1000 ml,Germany,1600,3200,2880,no,PRICE_LOTHMANN_CLEAN,52
+LOT-0052,Lothmann,LOTHMANN Шампунь NUTRI PROTECT PLEX 250 мл,NUTRI Для пошкодженого волосся,250 ml,Germany,665,1329,1197,no,PRICE_LOTHMANN_CLEAN,53
+LOT-0053,Lothmann,LOTHMANN Еліксир BEAUTY ELIXIR LAMELLAR WATER 250 мл,NUTRI Для пошкодженого волосся,250 ml,Germany,855,1710,1539,no,PRICE_LOTHMANN_CLEAN,54
+LOT-0054,Lothmann,LOTHMANN Маска CHARBON DETOX 500 мл NEW!!!,CHARBON DETOX,500 ml,Germany,1470,2940,2646,no,PRICE_LOTHMANN_CLEAN,55
+LOT-0055,Lothmann,LOTHMANN Шампунь CHARBON DETOX 250 мл NEW!!!,CHARBON DETOX,250 ml,Germany,895,1790,1611,no,PRICE_LOTHMANN_CLEAN,56
+LOT-0056,Lothmann,LOTHMANN Двофазовий спрей BI-PHASE COLOR BLOND 250 мл,BLOND Догляд для блондинок,250 ml,Germany,980,1960,1764,no,PRICE_LOTHMANN_CLEAN,57
+LOT-0057,Lothmann,LOTHMANN Догляд COLOR BLOND CARE 250 мл,BLOND Догляд для блондинок,250 ml,Germany,850,1700,1530,no,PRICE_LOTHMANN_CLEAN,58
+LOT-0058,Lothmann,LOTHMANN Шампунь COLOR BLOND 250 мл,BLOND Догляд для блондинок,250 ml,Germany,685,1370,1233,no,PRICE_LOTHMANN_CLEAN,59
+LOT-0059,Lothmann,LOTHMANN Двофазовий спрей BI-PHASE HYDRATANT 250 мл,LEAVE IN Незмивний догляд,250 ml,Germany,870,1740,1566,no,PRICE_LOTHMANN_CLEAN,60
+LOT-0060,Lothmann,LOTHMANN Крем DAY CREAM NUTRI - FLUIDE 150 мл,LEAVE IN Незмивний догляд,150 ml,Germany,865,1730,1557,no,PRICE_LOTHMANN_CLEAN,61
+LOT-0061,Lothmann,LOTHMANN Олія ABSOLUT OIL 150 мл,LEAVE IN Незмивний догляд,150 ml,Germany,1005,2010,1809,no,PRICE_LOTHMANN_CLEAN,62
+LOT-0062,Lothmann,LOTHMANN Сироватка SUBLIMATEUR SERUM 50 мл,LEAVE IN Незмивний догляд,50 ml,Germany,1015,2030,1827,no,PRICE_LOTHMANN_CLEAN,63
+LOT-0063,Lothmann,LOTHMANN Сухий шампунь GLAM REFRESH DRY 150 мл,LEAVE IN Незмивний догляд,150 ml,Germany,715,1430,1287,no,PRICE_LOTHMANN_CLEAN,64
+LOT-0064,Lothmann,LOTHMANN Віск блиск CIRE SHINE100 мл,SHOOTING Стайлінг,100 ml,Germany,450,900,810,no,PRICE_LOTHMANN_CLEAN,65
+LOT-0065,Lothmann,LOTHMANN Віск матовий CIRE MATIX 100 мл,SHOOTING Стайлінг,100 ml,Germany,520,1040,936,no,PRICE_LOTHMANN_CLEAN,66
+LOT-0066,Lothmann,LOTHMANN Гель GLAM FIBER 200 мл,SHOOTING Стайлінг,200 ml,Germany,755,1510,1359,no,PRICE_LOTHMANN_CLEAN,67
+LOT-0067,Lothmann,LOTHMANN Гумка CIRE GUM 100 мл,SHOOTING Стайлінг,100 ml,Germany,640,1280,1152,no,PRICE_LOTHMANN_CLEAN,68
+LOT-0068,Lothmann,LOTHMANN Крем CIRE CREAM PUFF 100 мл,SHOOTING Стайлінг,100 ml,Germany,640,1280,1152,no,PRICE_LOTHMANN_CLEAN,69
+LOT-0069,Lothmann,LOTHMANN Лак LAQUE AERO FIX 300 мл,SHOOTING Стайлінг,300 ml,Germany,455,910,819,no,PRICE_LOTHMANN_CLEAN,70
+LOT-0070,Lothmann,LOTHMANN Лак LAQUE AERO FIX STRONG 300 мл,SHOOTING Стайлінг,300 ml,Germany,640,1280,1152,no,PRICE_LOTHMANN_CLEAN,71
+LOT-0071,Lothmann,LOTHMANN Мусс MOUSSE STYLING 400 мл,SHOOTING Стайлінг,400 ml,Germany,965,1930,1737,no,PRICE_LOTHMANN_CLEAN,72
+LOT-0072,Lothmann,LOTHMANN Спрей SPRAY TEXTUR 250 мл,SHOOTING Стайлінг,250 ml,Germany,685,1370,1233,no,PRICE_LOTHMANN_CLEAN,73
+LOT-0073,Lothmann,LOTHMANN Спрей AERO SPRAY COLOR LIGHT 250 мл,SHOOTING Стайлінг,250 ml,Germany,495,990,891,no,PRICE_LOTHMANN_CLEAN,74
+LOT-0074,Lothmann,LOTHMANN Спрей AERO SPRAY STRONG 250 мл,SHOOTING Стайлінг,250 ml,Germany,595,1190,1071,no,PRICE_LOTHMANN_CLEAN,75
+LOT-0075,Lothmann,LOTHMANN Спрей AERO SPRAY MEDIUM 250 мл,SHOOTING Стайлінг,250 ml,Germany,535,1070,963,no,PRICE_LOTHMANN_CLEAN,76
+LOT-0076,Lothmann,LOTHMANN Спрей-блиск SPRAY GLOSS 150 мл,SHOOTING Стайлінг,150 ml,Germany,715,1430,1287,no,PRICE_LOTHMANN_CLEAN,77
+LOT-0077,Lothmann,LOTHMANN Спрей-термозахист WONDER PROTECT 200 мл NEW!!!,SHOOTING Стайлінг,200 ml,Germany,1055,2110,1899,no,PRICE_LOTHMANN_CLEAN,78
+LOT-0078,Lothmann,LOTHMANN Гель мужской GEL STRONG SHOOTINH EGO 200 мл,EGO Чоловіча серія,200 ml,Germany,755,1510,1359,no,PRICE_LOTHMANN_CLEAN,79
+LOT-0079,Lothmann,LOTHMANN Шампунь COOL SHAMPOO EGO 250 мл,EGO Чоловіча серія,250 ml,Germany,515,1030,927,no,PRICE_LOTHMANN_CLEAN,80
+LOT-0080,Lothmann,LOTHMANN Кондиціонер SUNVIBES 250 мл,SUN VIBES Захист від сонця,250 ml,Germany,663,862,862,no,PRICE_LOTHMANN_CLEAN,81
+LOT-0081,Lothmann,LOTHMANN Спрей захисний PROTECTIVE OIL SUNVIBES 150 мл,SUN VIBES Захист від сонця,150 ml,Germany,785,1021,1021,no,PRICE_LOTHMANN_CLEAN,82
+LOT-0082,Lothmann,LOTHMANN Спрей освітлюючий SUNVIBES 100 мл,SUN VIBES Захист від сонця,100 ml,Germany,680,884,884,no,PRICE_LOTHMANN_CLEAN,83
+LOT-0083,Lothmann,LOTHMANN Спрей парфумований SUNVIBES 250мл,SUN VIBES Захист від сонця,250 ml,Germany,1135,1476,1476,no,PRICE_LOTHMANN_CLEAN,84
+LOT-0084,Lothmann,LOTHMANN Спрей сольовий SUNVIBES 150 мл,SUN VIBES Захист від сонця,150 ml,Germany,545,709,709,no,PRICE_LOTHMANN_CLEAN,85
+LOT-0085,Lothmann,LOTHMANN Шампунь 2IN1 SUNVIBES 250 мл,SUN VIBES Захист від сонця,250 ml,Germany,540,702,702,no,PRICE_LOTHMANN_CLEAN,86
+LOV-0001,Lovien Essential,LOVIEN Стійка крем-фарба LOVIN COLOR 100 мл,,100 ml,Italy,180,306,306,no,PRICE_LOVIEN_CLEAN,2
+LOV-0002,Lovien Essential,Lovien Окисник 10 Vol 3% 1000 мл,Окислювачі 1000мл,1000 ml,Italy,215,366,366,no,PRICE_LOVIEN_CLEAN,3
+LOV-0003,Lovien Essential,Lovien Окисник 20 Vol 6% 1000 мл,Окислювачі 1000мл,1000 ml,Italy,215,366,366,no,PRICE_LOVIEN_CLEAN,4
+LOV-0004,Lovien Essential,Lovien Окисник 30 Vol 9% 1000 мл,Окислювачі 1000мл,1000 ml,Italy,215,366,366,no,PRICE_LOVIEN_CLEAN,5
+LOV-0005,Lovien Essential,Lovien Окисник 40 Vol 12% 1000 мл,Окислювачі 1000мл,1000 ml,Italy,215,366,366,no,PRICE_LOVIEN_CLEAN,6
+LOV-0006,Lovien Essential,Lovien Окисник 10 Vol 3% 150 мл,Окислювачі 150мл,150 ml,Italy,110,187,187,no,PRICE_LOVIEN_CLEAN,7
+LOV-0007,Lovien Essential,Lovien Окисник 20 Vol 6 % 150 мл,Окислювачі 150мл,150 ml,Italy,110,187,187,no,PRICE_LOVIEN_CLEAN,8
+LOV-0008,Lovien Essential,Lovien Окисник 30 Vol 9 % 150 мл,Окислювачі 150мл,150 ml,Italy,110,187,187,no,PRICE_LOVIEN_CLEAN,9
+LOV-0009,Lovien Essential,Lovien Окисник 40 Vol 12% 150 мл,Окислювачі 150мл,150 ml,Italy,110,187,187,no,PRICE_LOVIEN_CLEAN,10
+LOV-0010,Lovien Essential,Lovien Пудра знебарвлююча 50 гр,Засоби для знебарвлення,50 g,Italy,120,204,204,no,PRICE_LOVIEN_CLEAN,11
+LOV-0011,Lovien Essential,Lovien Пудра знебарвлююча 400 гр,Засоби для знебарвлення,400 g,Italy,420,714,714,no,PRICE_LOVIEN_CLEAN,12
+LOV-0012,Lovien Essential,Lovien Масло універсальне Multi Use Professional Oil 250 мл,Спеціальні засоби,250 ml,Italy,811,1379,1379,no,PRICE_LOVIEN_CLEAN,13
+LOV-0013,Lovien Essential,Lovien Ампули для пошкодженного волосся MINERAL OIL сonditioner 10*10 мл,"Шампуні, кондиціонери, лікування волосся",10 ml,Italy,710,1207,1207,no,PRICE_LOVIEN_CLEAN,14
+LOV-0014,Lovien Essential,Lovien Ампули проти випадіння VITADEXIL 7*8 мл,"Шампуні, кондиціонери, лікування волосся",8 ml,Italy,770,1309,1309,no,PRICE_LOVIEN_CLEAN,15
+LOV-0015,Lovien Essential,Lovien Ампула ШТУКА !!! MINERAL OIL сonditioner 10*10 мл,"Шампуні, кондиціонери, лікування волосся",10 ml,Italy,85,145,145,no,PRICE_LOVIEN_CLEAN,16
+LOV-0016,Lovien Essential,Lovien Двофазний кондиціонер Conditioner BI-PHASIC 250 мл,"Шампуні, кондиціонери, лікування волосся",250 ml,Italy,405,689,689,no,PRICE_LOVIEN_CLEAN,17
+LOV-0017,Lovien Essential,Lovien Кондиціонер BAMBOO 150 мл,"Шампуні, кондиціонери, лікування волосся",150 ml,Italy,180,300,300,no,PRICE_LOVIEN_CLEAN,18
+LOV-0018,Lovien Essential,Lovien Маска Repair therapy mask 1000 мл,"Шампуні, кондиціонери, лікування волосся",1000 ml,Italy,600,1020,1020,yes,PRICE_LOVIEN_CLEAN,19
+LOV-0019,Lovien Essential,Lovien Маска Repair therapy mask 150 мл,"Шампуні, кондиціонери, лікування волосся",150 ml,Italy,180,300,300,no,PRICE_LOVIEN_CLEAN,20
+LOV-0020,Lovien Essential,Lovien Маска Repair therapy mask 250 мл,"Шампуні, кондиціонери, лікування волосся",250 ml,Italy,295,501,501,yes,PRICE_LOVIEN_CLEAN,21
+LOV-0021,Lovien Essential,Lovien Маска Repair therapy mask 500 мл,"Шампуні, кондиціонери, лікування волосся",500 ml,Italy,350,595,595,yes,PRICE_LOVIEN_CLEAN,22
+LOV-0022,Lovien Essential,Lovien Сироватка для волосся SERUM THERAPY 100 мл,"Шампуні, кондиціонери, лікування волосся",100 ml,Italy,590,1003,1003,yes,PRICE_LOVIEN_CLEAN,23
+LOV-0023,Lovien Essential,Lovien Флюїд SILK CREAM 120 мл,"Шампуні, кондиціонери, лікування волосся",120 ml,Italy,590,1003,1003,yes,PRICE_LOVIEN_CLEAN,24
+LOV-0024,Lovien Essential,Lovien Шампунь сріблястий ANTI-YELLOW 250 мл,"Шампуні, кондиціонери, лікування волосся",250 ml,Italy,260,442,442,no,PRICE_LOVIEN_CLEAN,25
+LOV-0025,Lovien Essential,Lovien Шампунь проти випадіння VITADEXIL 1000 мл,"Шампуні, кондиціонери, лікування волосся",1000 ml,Italy,605,1029,1029,no,PRICE_LOVIEN_CLEAN,26
+LOV-0026,Lovien Essential,Lovien Шампунь проти випадіння VITADEXIL 150 мл,"Шампуні, кондиціонери, лікування волосся",150 ml,Italy,180,300,300,no,PRICE_LOVIEN_CLEAN,27
+LOV-0027,Lovien Essential,Lovien Шампунь проти випадіння VITADEXIL 300 мл,"Шампуні, кондиціонери, лікування волосся",300 ml,Italy,345,587,587,no,PRICE_LOVIEN_CLEAN,28
+LOV-0028,Lovien Essential,Lovien Шампунь проти лупи ANTIDANDRUFF 150 мл,"Шампуні, кондиціонери, лікування волосся",150 ml,Italy,180,300,300,no,PRICE_LOVIEN_CLEAN,29
+LOV-0029,Lovien Essential,Lovien Шампунь проти лупи ANTIDANDRUFF 300 мл,"Шампуні, кондиціонери, лікування волосся",300 ml,Italy,350,595,595,no,PRICE_LOVIEN_CLEAN,30
+LOV-0030,Lovien Essential,Lovien Шампунь MINERAL OIL 1000 мл,"Шампуні, кондиціонери, лікування волосся",1000 ml,Italy,600,1020,1020,yes,PRICE_LOVIEN_CLEAN,31
+LOV-0031,Lovien Essential,Lovien Шампунь MINERAL OIL 150 мл,"Шампуні, кондиціонери, лікування волосся",150 ml,Italy,180,300,300,no,PRICE_LOVIEN_CLEAN,32
+LOV-0032,Lovien Essential,Lovien Шампунь MINERAL OIL 300 мл,"Шампуні, кондиціонери, лікування волосся",300 ml,Italy,345,587,587,yes,PRICE_LOVIEN_CLEAN,33
+LOV-0033,Lovien Essential,Lovien Perfect Filler Ботокс для волосся 10 мл (12 шт/уп.),Серія Botox Filler,10 ml,Italy,105,179,179,no,PRICE_LOVIEN_CLEAN,34
+LOV-0034,Lovien Essential,Lovien Спрей Botox Filler Спрей з ботоксом 150 мл,Серія Botox Filler,150 ml,Italy,515,875,875,no,PRICE_LOVIEN_CLEAN,35
+LOV-0035,Lovien Essential,Lovien Маска Botox Filler Маска з ботоксом 500 мл,Серія Botox Filler,500 ml,Italy,900,1530,1530,yes,PRICE_LOVIEN_CLEAN,36
+LOV-0036,Lovien Essential,Lovien Шампунь Botox Filler Шампунь з ботоксом 250 мл,Серія Botox Filler,250 ml,Italy,535,910,910,no,PRICE_LOVIEN_CLEAN,37
+ENV-0001,Envie,"Рідина для видалення фарби VIACOLOR SMACCHIATORE, EN396",,250 ml,Italy,426.4,852.8,,no,ENVIE_CLEAN,2
+ENV-0002,Envie,"Освітляюча олія, EN341",Hair Oil,500 ml,Italy,941.2,1882.4,,no,ENVIE_CLEAN,3
+ENV-0003,Envie,"Кольорові маски NEW, EN721 EN722 EN723 EN724 EN725 EN726",Кольорові маски,"6х150мл, вартість вказана за одну маску",Italy,561.6,1123.2,,no,ENVIE_CLEAN,4
+ENV-0004,Envie,"Шампунь Energizing GROW NEW, EN514",Чоловіча серія,250 ml,Italy,353.59999999999997,707.1999999999999,,no,ENVIE_CLEAN,5
+ENV-0005,Envie,"PRE-SHAMPOO Шампунь глибокої очистки , EN366",TANNINLISS,500 ml,Italy,639.0799999999999,1278.1599999999999,,no,ENVIE_CLEAN,6
+ENV-0006,Envie,"SMOOTHING CREAM Випрямляючий розчин , EN367",TANNINLISS,500 ml,Italy,1460.1599999999999,2920.3199999999997,,no,ENVIE_CLEAN,7
+ENV-0007,Envie,"FIXATIVE RE-BONDER Фікс відновлюючий розчин, EN368",TANNINLISS,500 ml,Italy,912.6,1825.2,,no,ENVIE_CLEAN,8
+ENV-0008,Envie,"Спрей морська вода NEW, EN717",STAYLING ДЛЯ ВОЛОССЯ,200 мл,Italy,442,884,,no,ENVIE_CLEAN,9
+ENV-0009,Envie,"Шампунь Molecular Bond Repair, EN480",NEW! Molecular Bond Repair,250 мл,Italy,419.64,839.28,,no,ENVIE_CLEAN,10
+ENV-0010,Envie,"Маска Molecular Bond Repair, EN481",NEW! Molecular Bond Repair,250 мл,Italy,620.36,1240.72,,no,ENVIE_CLEAN,11
+ENV-0011,Envie,"Молекулярний термозахисний спрей Molecular Bond Repair, EN482",NEW! Molecular Bond Repair,100 мл,Italy,511.16,1022.32,,no,ENVIE_CLEAN,12
+ENV-0012,Envie,"Додаток Nutra-Plex Molecular Bond Repair, EN483",NEW! Molecular Bond Repair,250 мл,Italy,456.55999999999995,913.1199999999999,,no,ENVIE_CLEAN,13
+ENV-0013,Envie,"Шампунь проти лупи, EN373",СЕРІЯ FLAKES CONTROL NEW,1000 ml,Italy,598,1196,,no,ENVIE_CLEAN,14
+ENV-0014,Envie,"Шампунь проти лупи, EN370",СЕРІЯ FLAKES CONTROL NEW,250 ml,Italy,312,624,,no,ENVIE_CLEAN,15
+ENV-0015,Envie,"Щоденний Шампунь DAILY SHINE, EN474",СЕРІЯ DAILY SHINE,1000 ml,Italy,598,1196,,no,ENVIE_CLEAN,16
+ENV-0016,Envie,"Щоденна Маска DAILY SHINE, EN477",СЕРІЯ DAILY SHINE,1000 ml,Italy,598,1196,,no,ENVIE_CLEAN,17
+ENV-0017,Envie,"Щоденний Кондиціонер DAILY SHINE, EN476",СЕРІЯ DAILY SHINE,500 ml,Italy,468,936,,no,ENVIE_CLEAN,18
+ENV-0018,Envie,"Щоденний Шампунь DAILY SHINE, EN475",СЕРІЯ DAILY SHINE,250 ml,Italy,312,624,,no,ENVIE_CLEAN,19
+ENV-0019,Envie,"Крем-філлер DAILY SHINE, EN478",СЕРІЯ DAILY SHINE,200 ml,Italy,431.6,863.2,,no,ENVIE_CLEAN,20
+ENV-0020,Envie,"Шампунь SOS EXPRESS з амінокислотами, EN461",СЕРІЯ SOS EXPRESS,1000 ml,Italy,806,1612,,no,ENVIE_CLEAN,21
+ENV-0021,Envie,"Шампунь SOS EXPRESS з амінокислотами, EN460",СЕРІЯ SOS EXPRESS,250 ml,Italy,348.40000000000003,696.8000000000001,,no,ENVIE_CLEAN,22
+ENV-0022,Envie,"Маска SOS EXPRESS з амінокислотами, EN463",СЕРІЯ SOS EXPRESS,1000 ml,Italy,873.6,1747.2,,yes,ENVIE_CLEAN,23
+ENV-0023,Envie,"Маска SOS EXPRESS з амінокислотами, EN462",СЕРІЯ SOS EXPRESS,250 ml,Italy,390,780,,yes,ENVIE_CLEAN,24
+ENV-0024,Envie,"Оксамитовий незмивний крем SOS EXPRESS, EN464",СЕРІЯ SOS EXPRESS,100 ml,Italy,338,676,,no,ENVIE_CLEAN,25
+ENV-0025,Envie,"Ламелярна вода для відновлення волосся SOS EXPRESS NEW, EN468",СЕРІЯ SOS EXPRESS,250 ml,Italy,525.1999999999999,1050.3999999999999,,no,ENVIE_CLEAN,26
+ENV-0026,Envie,"NO ORANGE Маска, EN471",СЕРІЯ NO ORANGE,1л,Italy,665.6,1331.2,,no,ENVIE_CLEAN,27
+ENV-0027,Envie,"NO ORANGE Маска, EN472",СЕРІЯ NO ORANGE,250 ml,Italy,301.59999999999997,603.1999999999999,,no,ENVIE_CLEAN,28
+ENV-0028,Envie,"ENVIE SUBLIME KERATIN Шампунь для пошкодженого волосся з кератином, EN451",СЕРІЯ ДЛЯ ПОШКОДЖЕНОГО ВОЛОССЯ,1000 ml,Italy,624,1248,,yes,ENVIE_CLEAN,29
+ENV-0029,Envie,"ENVIE SUBLIME KERATIN Шампунь для пошкодженого волосся з кератином, EN453",СЕРІЯ ДЛЯ ПОШКОДЖЕНОГО ВОЛОССЯ,250 ml,Italy,312,624,,yes,ENVIE_CLEAN,30
+ENV-0030,Envie,"ENVIE SUBLIME MASK KERATIN 1000 ML EN450 Капілярна маска для пошкодженого волосся, EN450",СЕРІЯ ДЛЯ ПОШКОДЖЕНОГО ВОЛОССЯ,1000 ml,Italy,624,1248,,yes,ENVIE_CLEAN,31
+ENV-0031,Envie,"ENVIE SUBLIME MASK KERATIN 250 ML EN452 Капілярна маска для пошкодженого волосся, EN452",СЕРІЯ ДЛЯ ПОШКОДЖЕНОГО ВОЛОССЯ,250 ml,Italy,312,624,,yes,ENVIE_CLEAN,32
+ENV-0032,Envie,"ENVIE SUBLIME Ампули реконструкції KERATIN, EN455",СЕРІЯ ДЛЯ ПОШКОДЖЕНОГО ВОЛОССЯ,10х10ml,Italy,858,1716,,yes,ENVIE_CLEAN,33
+ENV-0033,Envie,"ENVIE SUBLIME Термоактивний спрей , EN469",СЕРІЯ ДЛЯ ПОШКОДЖЕНОГО ВОЛОССЯ,200 ml,Italy,431.6,863.2,,yes,ENVIE_CLEAN,34
+ENV-0034,Envie,"ENVIE SUBLIME MILK Шампунь з молочними протеінами з кислим PH 1000ml EN426, EN426",СЕРІЯ ENVIE MILK LUXURY ДЛЯ ПОРИСТОГО ТА КУЧЕРЯВОГО ВОЛОССЯ,1000 ml,Italy,603.1999999999999,1206.3999999999999,,no,ENVIE_CLEAN,35
+ENV-0035,Envie,"ENVIE SUBLIME SHAMPOO MILK 250 ML EN425 Шампунь з молочними протеінами з кислим PH, EN425",СЕРІЯ ENVIE MILK LUXURY ДЛЯ ПОРИСТОГО ТА КУЧЕРЯВОГО ВОЛОССЯ,250 ml,Italy,312,624,,no,ENVIE_CLEAN,36
+ENV-0036,Envie,"ENVIE SUBLIME MILK Маска з молочними протеінами з кислим PH 1000ml EN428, EN428",СЕРІЯ ENVIE MILK LUXURY ДЛЯ ПОРИСТОГО ТА КУЧЕРЯВОГО ВОЛОССЯ,1000 ml,Italy,759.1999999999999,1518.3999999999999,,no,ENVIE_CLEAN,37
+ENV-0037,Envie,"ENVIE SUBLIME MILK MASK 250 ML EN427 Маска з молочними протеїнамиз кислим PH , EN427",СЕРІЯ ENVIE MILK LUXURY ДЛЯ ПОРИСТОГО ТА КУЧЕРЯВОГО ВОЛОССЯ,250 ml,Italy,312,624,,no,ENVIE_CLEAN,38
+ENV-0038,Envie,"ENVIE SUBLIME MILK ALL IN ONE 10 в 1 250 ML EN434 Крем термозахист 10 в 1, EN434",СЕРІЯ ENVIE MILK LUXURY ДЛЯ ПОРИСТОГО ТА КУЧЕРЯВОГО ВОЛОССЯ,250 ml,Italy,509.6,1019.2,,no,ENVIE_CLEAN,39
+ENV-0039,Envie,"ENVIE SUBLIME MILK Двохфазний спрей 250 ML , EN431",СЕРІЯ ENVIE MILK LUXURY ДЛЯ ПОРИСТОГО ТА КУЧЕРЯВОГО ВОЛОССЯ,250 ml,Italy,494,988,,yes,ENVIE_CLEAN,40
+ENV-0040,Envie,"ENVIE SUBLIME ANTI FRIZZ MILK 150 ML EN429 Флюїд з рогладжуючим ефектом з молочними протеїнами, EN429",СЕРІЯ ENVIE MILK LUXURY ДЛЯ ПОРИСТОГО ТА КУЧЕРЯВОГО ВОЛОССЯ,150 ml,Italy,468,936,,yes,ENVIE_CLEAN,41
+ENV-0041,Envie,"ENVIE SUBLIME MILK Система оліго-мінералізації , EN456",СЕРІЯ ENVIE MILK LUXURY ДЛЯ ПОРИСТОГО ТА КУЧЕРЯВОГО ВОЛОССЯ,10х10ml,Italy,858,1716,,no,ENVIE_CLEAN,42
+ENV-0042,Envie,"ENVIE SUBLIME MILK КристалиI ARGAN 100 ML EN433 Кристали з молочними протеїнами та аргановою олією, EN433",СЕРІЯ ENVIE MILK LUXURY ДЛЯ ПОРИСТОГО ТА КУЧЕРЯВОГО ВОЛОССЯ,100 ml,Italy,592.8000000000001,1185.6000000000001,,yes,ENVIE_CLEAN,43
+ENV-0043,Envie,"ENVIE MILK SUBLIME Молочний Мус-Крем EN430, EN430",СЕРІЯ ENVIE MILK LUXURY ДЛЯ ПОРИСТОГО ТА КУЧЕРЯВОГО ВОЛОССЯ,300 ml,Italy,520,1040,,no,ENVIE_CLEAN,44
+ENV-0044,Envie,"Шампунь для інтенсивного росту волосся, EN369",СЕРІЯ ДЛЯ ІНТЕНСИВНОГО РОСТУ ВОЛОССЯ,250 мл,Italy,353.59999999999997,707.1999999999999,,no,ENVIE_CLEAN,45
+ENV-0045,Envie,"Шампунь для росту волосся REVITALIZE, EN372",СЕРІЯ ДЛЯ ІНТЕНСИВНОГО РОСТУ ВОЛОССЯ,1000 мл,Italy,676,1352,,no,ENVIE_CLEAN,46
+ENV-0046,Envie,"Ампули для росту волосся REVITALIZE, EN376",СЕРІЯ ДЛЯ ІНТЕНСИВНОГО РОСТУ ВОЛОССЯ,10x10 мл,Italy,910,1820,,no,ENVIE_CLEAN,47
+ENV-0047,Envie,"Щоденний лосьйон REVITALIZE, EN376",СЕРІЯ ДЛЯ ІНТЕНСИВНОГО РОСТУ ВОЛОССЯ,100 ml,Italy,790.4,1580.8,,no,ENVIE_CLEAN,48
+ENV-0048,Envie,"ENVIE CROMACTIVE COLOR PROTECTOR 250 ML Шампунь для захисту кольору з кислим PH з екстр.граната, EN439",ЕN438,250 ml,Italy,312,624,,yes,ENVIE_CLEAN,49
+ENV-0049,Envie,"ENVIE CROMACTIVE MASK COLOR PROTECTOR 1000 ML EN436 Маска для захисту кольору з кислим PH, EN436",ЕN438,1000 ml,Italy,624,1248,,yes,ENVIE_CLEAN,50
+ENV-0050,Envie,"ENVIE CROMACTIVE MASK COLOR PROTECTOR 250 ML Маска для захисту кольору з кислим PH, EN437",ЕN438,250 ml,Italy,312,624,,yes,ENVIE_CLEAN,51
+ENV-0051,Envie,"ENVIE CROMACTIVE COLOR Fluid 250 ML EN440 Спрей з кислим PH з екстрактом граната, EN440",ЕN438,250 ml,Italy,338,676,,yes,ENVIE_CLEAN,52
+ENV-0052,Envie,"ENVIE CROMACTIVE Кристали для захисту кольору, EN457",ЕN438,100 ml,Italy,504.4,1008.8,,yes,ENVIE_CLEAN,53
+ENV-0053,Envie,"ENVIE Sebum Control Шампунь СЕБОРЕГУЛЮЮЧИЙ , EN371",Нормалізуюча серія,250 ml,Italy,312,624,,yes,ENVIE_CLEAN,54
+ENV-0054,Envie,"ENVIE Sebum Control Шампунь СЕБОРЕГУЛЮЮЧИЙ , EN374",Нормалізуюча серія,1000 ml,Italy,639.6,1279.2,,yes,ENVIE_CLEAN,55
+ENV-0055,Envie,"Шампунь для фарбованого волосся з олією муру муру , EN863",СЕРІЯ VEGAN,500 ml,Italy,499.2,998.4,,no,ENVIE_CLEAN,56
+ENV-0056,Envie,"Кондиціонер для фарбованого волосся з олією муру муру , EN864",СЕРІЯ VEGAN,500 ml,Italy,442,884,,no,ENVIE_CLEAN,57
+ENV-0057,Envie,"Маска для фарбованого волосся з вітаміном А, EN865",СЕРІЯ VEGAN,500 ml,Italy,494,988,,no,ENVIE_CLEAN,58
+ENV-0058,Envie,"Шампунь зволожуючий для сухого і кучерявого волосся, EN854",СЕРІЯ VEGAN,500 ml,Italy,499.2,998.4,,no,ENVIE_CLEAN,59
+ENV-0059,Envie,"Кондиціонер зволожуючий з екстрактом льону, EN860",СЕРІЯ VEGAN,500 ml,Italy,468,936,,no,ENVIE_CLEAN,60
+ENV-0060,Envie,"Маска зволожуюча для сухого і кучерявого волосся, EN861",СЕРІЯ VEGAN,500 ml,Italy,520,1040,,no,ENVIE_CLEAN,61
+ENV-0061,Envie,"Шампунь для об'єму тонкого і ламкого волосся, EN855",СЕРІЯ VEGAN,500 ml,Italy,499.2,998.4,,no,ENVIE_CLEAN,62
+ENV-0062,Envie,"Лосьйон-спрей для об'єму та реконструкції, EN857",СЕРІЯ VEGAN,200 ml,Italy,442,884,,no,ENVIE_CLEAN,63
+ENV-0063,Envie,"Шампунь розгладжуючий, EN856",СЕРІЯ VEGAN,500 ml,Italy,499.2,998.4,,no,ENVIE_CLEAN,64
+ENV-0064,Envie,"Кондиціонер розгладжуючий, EN862",СЕРІЯ VEGAN,500 ml,Italy,520,1040,,no,ENVIE_CLEAN,65
+ENV-0065,Envie,"Шампунь+гель 2в1 для щоденного використання, EN866",СЕРІЯ VEGAN,500 ml,Italy,468,936,,no,ENVIE_CLEAN,66
+ENV-0066,Envie,"Шампунь лікувальний проти лупи, EN852",СЕРІЯ VEGAN,500 ml,Italy,509.6,1019.2,,no,ENVIE_CLEAN,67
+ENV-0067,Envie,"Шампунь нормалізуючий для жирної шкіри, EN853",СЕРІЯ VEGAN,500 ml,Italy,499.2,998.4,,no,ENVIE_CLEAN,68
+ENV-0068,Envie,"Шампунь лікувальний проти випадіння волосся у жінок, EN850",СЕРІЯ VEGAN,500 ml,Italy,520,1040,,no,ENVIE_CLEAN,69
+ENV-0069,Envie,"Лосьйон активуючий для кореня волосся жіночий, EN858",СЕРІЯ VEGAN,8x10ml,Italy,754,1508,,no,ENVIE_CLEAN,70
+ENV-0070,Envie,"Шампунь лікувальний проти випадіння волосся у чоловіків, EN851",СЕРІЯ VEGAN,500 ml,Italy,520,1040,,no,ENVIE_CLEAN,71
+ENV-0071,Envie,"Лосьйон активуючий для кореня волосся чоловічий, EN859",СЕРІЯ VEGAN,8x10ml,Italy,780,1560,,no,ENVIE_CLEAN,72
+ENV-0072,Envie,"Спрей-термозахист Envie Vegan, EN870",СЕРІЯ VEGAN,200 ml,Italy,421.2,842.4,,no,ENVIE_CLEAN,73
+EXT-0001,Extremo,"Освітлююча пудра синя Extremo, EX113",Lightening Powder,500 g,Italy,1092,1747.1999999999998,,no,EXTREMO_CLEAN,2
+EXT-0002,Extremo,"Освітлююча пудра біла Extremo, EX114",Lightening Powder,500 g,Italy,832,1331.2,,no,EXTREMO_CLEAN,3
+EXT-0003,Extremo,"Освітлююча пудра фіолетова Extremo, EX115",Lightening Powder,500 g,Italy,1092,1747.1999999999998,,no,EXTREMO_CLEAN,4
+EXT-0004,Extremo,"Завивка 0-1-2, EX110 - EX111 - EX112",,500мл (ціна вказана за 1 шт),Italy,728,1164.8,,no,EXTREMO_CLEAN,5
+EXT-0005,Extremo,"Закріплювач для завивки, EX121",,500 ml,Italy,249.6,399.36,,no,EXTREMO_CLEAN,6
+EXT-0006,Extremo,"Технічний шампунь, EX233",Shampoo,10л,Italy,2860,4576,,no,EXTREMO_CLEAN,7
+EXT-0007,Extremo,"Технічний кондиціонер, EX232",Conditioner,5л,Italy,1820,2912,,no,EXTREMO_CLEAN,8
+EXT-0008,Extremo,"Шампунь Ботокс гіалуронова кислота арган, EX429",FILLER EFFECT,500 мл,Italy,416,665.6,,no,EXTREMO_CLEAN,9
+EXT-0009,Extremo,"Кондиціонер Ботокс гіалуронова кислота арган, ЕХ432",FILLER EFFECT,500 мл,Italy,416,665.6,,no,EXTREMO_CLEAN,10
+EXT-0010,Extremo,"Шампунь Ботокс гіалуронова кислота кератин, EX428",FILLER EFFECT,500 мл,Italy,416,665.6,,no,EXTREMO_CLEAN,11
+EXT-0011,Extremo,"Кондиціонер Ботокс гіалуронова кислота кератин, ЕХ431",FILLER EFFECT,500 мл,Italy,416,665.6,,no,EXTREMO_CLEAN,12
+EXT-0012,Extremo,"Шампунь Ботокс гіалуронова кислота каріте, EX427",FILLER EFFECT,500 мл,Italy,416,665.6,,no,EXTREMO_CLEAN,13
+EXT-0013,Extremo,"Кондиціонер Ботокс гіалуронова кислота каріте, ЕХ430",FILLER EFFECT,500 мл,Italy,416,665.6,,no,EXTREMO_CLEAN,14
+EXT-0014,Extremo,"Вакса сильної фіксації, EX309",STAYLING ДЛЯ ВОЛОССЯ,100 мл,Italy,364,582.4,,no,EXTREMO_CLEAN,15
+EXT-0015,Extremo,"Вакса з матовим ефектом, EX310",STAYLING ДЛЯ ВОЛОССЯ,100 мл,Italy,364,582.4,,no,EXTREMO_CLEAN,16
+EXT-0016,Extremo,"Пудра для об'єму, EX327",STAYLING ДЛЯ ВОЛОССЯ,20 гр,Italy,676,1081.6,,no,EXTREMO_CLEAN,17
+EXT-0017,Extremo,"Крем для кучерявого волосся NEW, EX324",STAYLING ДЛЯ ВОЛОССЯ,175 мл,Italy,364,582.4,,no,EXTREMO_CLEAN,18
+EXT-0018,Extremo,"Текстурний спрей для об'єму NEW, EX325",STAYLING ДЛЯ ВОЛОССЯ,150 мл,Italy,332.8,532.48,,no,EXTREMO_CLEAN,19
+EXT-0019,Extremo,"Фіксуючий гель-спрей сильної фіксації NEW, EX318",STAYLING ДЛЯ ВОЛОССЯ,150 мл,Italy,332.8,532.48,,no,EXTREMO_CLEAN,20
+EXT-0020,Extremo,"Гель сильної фіксації, EX317",STAYLING ДЛЯ ВОЛОССЯ,250 мл,Italy,280.8,449.28,,no,EXTREMO_CLEAN,21
+EXT-0021,Extremo,"TOTAL PROTECTOR Аміно-пептидний Шампунь, EX440",TOTAL PROTECTOR,500 мл,Italy,482.55999999999995,772.0959999999999,,no,EXTREMO_CLEAN,22
+EXT-0022,Extremo,"TOTAL PROTECTOR Аміно-пептидна Маска, EX441",TOTAL PROTECTOR,500 мл,Italy,858,1372.8,,no,EXTREMO_CLEAN,23
+EXT-0023,Extremo,"TOTAL PROTECTOR Аміно-пептидний Крем, EX442",TOTAL PROTECTOR,150 мл,Italy,482.55999999999995,772.0959999999999,,no,EXTREMO_CLEAN,24
+EXT-0024,Extremo,"TOTAL PROTECTOR Аміно-пептидний Спрей, EX443",TOTAL PROTECTOR,150 мл,Italy,492.96000000000004,788.7360000000001,,no,EXTREMO_CLEAN,25
+EXT-0025,Extremo,"TOTAL PROTECTOR Захисний крем для хімічних сумішей, EX 126",TOTAL PROTECTOR,200 мл,Italy,364,582.4,,no,EXTREMO_CLEAN,26
+EXT-0026,Extremo,"NUTRA SHINE Щоденний живильний шампунь, EX 240",TOTAL PROTECTOR,500 мл,Italy,473.2,757.1199999999999,,no,EXTREMO_CLEAN,27
+EXT-0027,Extremo,"NUTRA SHINE Ультраживильний кондиціонер, EX 241",TOTAL PROTECTOR,500 мл,Italy,494,790.4,,no,EXTREMO_CLEAN,28
+EXT-0028,Extremo,"NUTRA SHINE Ультраживильний крем з технологією Hydro-keratin repair, EX 242",TOTAL PROTECTOR,200 мл,Italy,364,582.4,,no,EXTREMO_CLEAN,29
+EXT-0029,Extremo,"PRE-PRO BIOTIC Тривалентний шампунь з пробіотиком, EX 226",TOTAL PROTECTOR,500 мл,Italy,400.40000000000003,640.6400000000001,,no,EXTREMO_CLEAN,30
+EXT-0030,Extremo,"PRE-PRO BIOTIC Кондиціонер з пробіотиком, EX 227",TOTAL PROTECTOR,500 мл,Italy,400.40000000000003,640.6400000000001,,no,EXTREMO_CLEAN,31
+EXT-0031,Extremo,"PRE-PRO BIOTIC Ампули інтенсив тривалент , EX 225",TOTAL PROTECTOR,,Italy,800.8000000000001,1281.2800000000002,,no,EXTREMO_CLEAN,32
+EXT-0032,Extremo,"PRE-PRO BIOTIC Детоксикуючий ексфоліант, EX 228",TOTAL PROTECTOR,200 мл,Italy,275.59999999999997,440.9599999999999,,no,EXTREMO_CLEAN,33
+EXT-0033,Extremo,"EXTREMO SILKY&SOFT Кристали з аргановою олією, EX307",TOTAL PROTECTOR,100 мл,Italy,561.6,898.56,,no,EXTREMO_CLEAN,34
+EXT-0034,Extremo,"EXTREMO SPLIT-ENDS Кристали інтенсив, EX306",TOTAL PROTECTOR,100 мл,Italy,561.6,898.56,,no,EXTREMO_CLEAN,35
+EXT-0035,Extremo,"EXTREMO Кристали Макадамія , EX315",TOTAL PROTECTOR,100 мл,Italy,608.4,973.4399999999999,,no,EXTREMO_CLEAN,36
+EXT-0036,Extremo,"Ампули After Color з муцином равлика, EX436",TOTAL PROTECTOR,10x10,Italy,800.8000000000001,1281.2800000000002,,no,EXTREMO_CLEAN,37
+EXT-0037,Extremo,"Шампунь After Color з муцином равлика, EX434",TOTAL PROTECTOR,500 мл,Italy,416,665.6,,no,EXTREMO_CLEAN,38
+EXT-0038,Extremo,"Маска After Color з муцином равлика, EX444",TOTAL PROTECTOR,500 мл,Italy,494,790.4,,no,EXTREMO_CLEAN,39
+EXT-0039,Extremo,"Маска After Color з муцином равлика, EX419",TOTAL PROTECTOR,250 мл,Italy,348.40000000000003,557.44,,no,EXTREMO_CLEAN,40
+EXT-0040,Extremo,"Флюд After Color з муцином равлика, EX416",TOTAL PROTECTOR,250 мл,Italy,520,832,,no,EXTREMO_CLEAN,41
+EXT-0041,Extremo,"Шампунь для кучерявого волосся та хімічної завивки з каріте, EX412",TOTAL PROTECTOR,250 мл,Italy,348.40000000000003,557.44,,no,EXTREMO_CLEAN,42
+EXT-0042,Extremo,"Маска для кучерявого волосся та хімічної завивки з каріте, EX409",TOTAL PROTECTOR,1000 мл,Italy,806,1289.6,,no,EXTREMO_CLEAN,43
+EXT-0043,Extremo,"Маска для кучерявого волосся та хімічної завивки з каріте, EX410",TOTAL PROTECTOR,250 мл,Italy,348.40000000000003,557.44,,no,EXTREMO_CLEAN,44
+EXT-0044,Extremo,"Шампунь з ефектом анти-жовтизни, EX433",TOTAL PROTECTOR,500 мл,Italy,416,665.6,,no,EXTREMO_CLEAN,45
+EXT-0045,Extremo,"Крем термозахист 10 в 1, EX322",TOTAL PROTECTOR,250 мл,Italy,468,748.8,,,EXTREMO_CLEAN,46
+EXT-0046,Extremo,"Двохфазний спрей реконструктор, EX323",TOTAL PROTECTOR,250 мл,Italy,520,832,,,EXTREMO_CLEAN,47
+RAY-0001,Raywell,"Краплі інтенсивного кольору, RV182",,35 мл,Italy,1040,2080,,no,RAYWELL_CLEAN,2
+RAY-0002,Raywell,"Освітлююча олія, RV185",Hair Oil,500 мл,Italy,941.2,1882.4,,no,RAYWELL_CLEAN,3
+RAY-0003,Raywell,"Висвітлююча пудра фіолетова Deko Violet, RV308",Lightening Powder,500 г,Italy,1092,2184,,no,RAYWELL_CLEAN,4
+RAY-0004,Raywell,"Висвітлююча пудра з аміаком, RV303",Lightening Powder,1 кг,Italy,1560,3120,,no,RAYWELL_CLEAN,5
+RAY-0005,Raywell,"Висвітлююча пудра без аміаку, RV301",Lightening Powder,1 кг,Italy,1664,3328,,no,RAYWELL_CLEAN,6
+RAY-0006,Raywell,"Висвітлююча пудра без аміаку, RV301",Lightening Powder,1 кг,Italy,,,,no,RAYWELL_CLEAN,7
+RAY-0007,Raywell,"Знебарвлюючий крем Bleach Plex, RV309",,500 мл,Italy,2080,4160,,no,RAYWELL_CLEAN,8
+RAY-0008,Raywell,"Кондиціонер/бальзам, RP298",Conditioner,5 л,Italy,1716,3432,,no,RAYWELL_CLEAN,9
+RAY-0009,Raywell,"CLOSE COLOR Шампунь, RR512",RAYWELL TOOLS,1000 ml,Italy,884,1768,,no,RAYWELL_CLEAN,10
+RAY-0010,Raywell,"CLOSE COLOR Кондиціонер, RR513",RAYWELL TOOLS,1000 ml,Italy,819,1638,,no,RAYWELL_CLEAN,11
+RAY-0011,Raywell,"Спрей-детокс від металів, RR514",RAYWELL TOOLS,200 ml,Italy,520,1040,,no,RAYWELL_CLEAN,12
+RAY-0012,Raywell,"Додаток DREAMPLEX, RR510",RAYWELL TOOLS,300 ml,Italy,416,832,,no,RAYWELL_CLEAN,13
+RAY-0013,Raywell,"Захист для шкіри голови, RR511",RAYWELL TOOLS,150 ml,Italy,416,832,,no,RAYWELL_CLEAN,14
+RAY-0014,Raywell,"Рідина для змиття фарби, RR515",RAYWELL TOOLS,200 ml,Italy,358.8,717.6,,no,RAYWELL_CLEAN,15
+RAY-0015,Raywell,"Висвітлююча пудра UP TO 9 TONES, RR530",RAYWELL TOOLS,500 g,Italy,1196,2392,,no,RAYWELL_CLEAN,16
+RAY-0016,Raywell,"Висвітлююча пудра UP TO 7 TONES, RR531",RAYWELL TOOLS,500 g,Italy,1144,2288,,no,RAYWELL_CLEAN,17
+RAY-0017,Raywell,"Шампунь глибокої очистки, RR527",RAYWELL TOOLS,1000 ml,Italy,988,1976,,no,RAYWELL_CLEAN,18
+RAY-0018,Raywell,"Лосьйон для завивки 1, RR540",TOOLS ЗАВИВКА,500 ml,Italy,1066,2132,,no,RAYWELL_CLEAN,19
+RAY-0019,Raywell,"Лосьйон для завивки 2, RR541",TOOLS ЗАВИВКА,500 ml,Italy,1066,2132,,no,RAYWELL_CLEAN,20
+RAY-0020,Raywell,"Лосьйон для завивки 3, RR542",TOOLS ЗАВИВКА,500 ml,Italy,1066,2132,,no,RAYWELL_CLEAN,21
+RAY-0021,Raywell,"Закріплювач для завивки, RR543",TOOLS ЗАВИВКА,1000 ml,Italy,624,1248,,no,RAYWELL_CLEAN,22
+RAY-0022,Raywell,"Відновлюючий шампунь, RR631",BIO REPAIR,1000 ml,Italy,988,1976,,no,RAYWELL_CLEAN,23
+RAY-0023,Raywell,"Відновлюючий шампунь, RR632",BIO REPAIR,275 ml,Italy,504.4,1008.8,,no,RAYWELL_CLEAN,24
+RAY-0024,Raywell,"Відновлююча маска, RR633",BIO REPAIR,500 ml,Italy,665.6,1331.2,,yes,RAYWELL_CLEAN,25
+RAY-0025,Raywell,"Відновлююча маска, RR634",BIO REPAIR,245 ml,Italy,468,936,,yes,RAYWELL_CLEAN,26
+RAY-0026,Raywell,"Відновлюючий крем, RR635",BIO REPAIR,200 ml,Italy,546,1092,,no,RAYWELL_CLEAN,27
+RAY-0027,Raywell,"Засіб для миттєвого відновлення , RR636",BIO REPAIR,200 ml,Italy,561.6,1123.2,,no,RAYWELL_CLEAN,28
+RAY-0028,Raywell,"Засіб для інтенсивного відновлення , RR637",BIO REPAIR,100 ml,Italy,447.2,894.4,,no,RAYWELL_CLEAN,29
+RAY-0029,Raywell,"Ламелярний шампунь, RR600",BIO LAMELLAR,1000 ml,Italy,1092,2184,,no,RAYWELL_CLEAN,30
+RAY-0030,Raywell,"Ламелярний шампунь, RR601",BIO LAMELLAR,275 ml,Italy,374.40000000000003,748.8000000000001,,no,RAYWELL_CLEAN,31
+RAY-0031,Raywell,"Ламелярна вода, RR602",BIO LAMELLAR,500 ml,Italy,780,1560,,no,RAYWELL_CLEAN,32
+RAY-0032,Raywell,"Ламелярний вода, RR603",BIO LAMELLAR,200 ml,Italy,520,1040,,no,RAYWELL_CLEAN,33
+RAY-0033,Raywell,"Термоактивний спрей, RR604",BIO LAMELLAR,200 ml,Italy,608.4,1216.8,,yes,RAYWELL_CLEAN,34
+RAY-0034,Raywell,"Шампунь для фарбованого волосся, RR605",BIO CROMA,1000 ml,Italy,894.4,1788.8,,yes,RAYWELL_CLEAN,35
+RAY-0035,Raywell,"Шампунь для фарбованого волосся, RR606",BIO CROMA,275 ml,Italy,452.4,904.8,,yes,RAYWELL_CLEAN,36
+RAY-0036,Raywell,"Маска для фарбованого волосся, RR607",BIO CROMA,500 ml,Italy,556.4,1112.8,,yes,RAYWELL_CLEAN,37
+RAY-0037,Raywell,"Маска для фарбованого волосся, RR608",BIO CROMA,245 ml,Italy,374.40000000000003,748.8000000000001,,yes,RAYWELL_CLEAN,38
+RAY-0038,Raywell,"Серум для фарбованого волосся, RR609",BIO CROMA,95 ml,Italy,806,1612,,no,RAYWELL_CLEAN,39
+RAY-0039,Raywell,"Мініатюра Шампунь для фарбованого волосся, RR615",BIO CROMA,20 ml,Italy,104,208,,no,RAYWELL_CLEAN,40
+RAY-0040,Raywell,"Мініатюра Маска для фарбованого волосся, RR616",BIO CROMA,20 ml,Italy,104,208,,no,RAYWELL_CLEAN,41
+RAY-0041,Raywell,"Шампунь антижовтизна, RR611",BIO BLOND,1000 ml,Italy,1092,2184,,no,RAYWELL_CLEAN,42
+RAY-0042,Raywell,"Шампунь антижовтизна, RR610",BIO BLOND,275 ml,Italy,525.1999999999999,1050.3999999999999,,no,RAYWELL_CLEAN,43
+RAY-0043,Raywell,"Кондиціонер антижовтизна , RR613",BIO BLOND,1000 ml,Italy,1144,2288,,no,RAYWELL_CLEAN,44
+RAY-0044,Raywell,"Кондиціонер антижовтизна , RR612",BIO BLOND,275 ml,Italy,572,1144,,no,RAYWELL_CLEAN,45
+RAY-0045,Raywell,"Спрей антижовтизна, RR614",BIO BLOND,200 ml,Italy,629.1999999999999,1258.3999999999999,,no,RAYWELL_CLEAN,46
+RAY-0046,Raywell,"Шампунь для кучерявого волосся, RR618",BIO CURLY,1000 ml,Italy,1159.6000000000001,2319.2000000000003,,no,RAYWELL_CLEAN,47
+RAY-0047,Raywell,"Шампунь для кучерявого волосся, RR619",BIO CURLY,275 ml,Italy,572,1144,,no,RAYWELL_CLEAN,48
+RAY-0048,Raywell,"Кондиціонер для кучерявого волосся, RR620",BIO CURLY,1000 ml,Italy,1159.6000000000001,2319.2000000000003,,no,RAYWELL_CLEAN,49
+RAY-0049,Raywell,"Кондиціонер для кучерявого волосся, RR621",BIO CURLY,275 ml,Italy,572,1144,,no,RAYWELL_CLEAN,50
+RAY-0050,Raywell,"Крем для кучерявого волосся, RR622",BIO CURLY,200 ml,Italy,665.6,1331.2,,no,RAYWELL_CLEAN,51
+RAY-0051,Raywell,"Шампунь для об'єму, RR626",BIO VOLUME,1000 ml,Italy,1159.6000000000001,2319.2000000000003,,yes,RAYWELL_CLEAN,52
+RAY-0052,Raywell,"Шампунь для об'єму, RR627",BIO VOLUME,275 ml,Italy,556.4,1112.8,,yes,RAYWELL_CLEAN,53
+RAY-0053,Raywell,"Кондиціонер для об'єму, RR628",BIO VOLUME,1000 ml,Italy,1159.6000000000001,2319.2000000000003,,yes,RAYWELL_CLEAN,54
+RAY-0054,Raywell,"Кондиціонер для об'єму, RR629",BIO VOLUME,275 ml,Italy,598,1196,,yes,RAYWELL_CLEAN,55
+RAY-0055,Raywell,"Спрей для об'єму, RR630",BIO VOLUME,200 ml,Italy,624,1248,,no,RAYWELL_CLEAN,56
+RAY-0056,Raywell,"Косметичка Raywell, SP001",Косметички,28x28,Italy,479,601,,no,RAYWELL_CLEAN,57
+RAY-0057,Raywell,"Perm 0, RD513",Біо завивка,250 мл,Italy,468,936,,no,RAYWELL_CLEAN,58
+RAY-0058,Raywell,"Perm 1, RD514",Біо завивка,250 мл,Italy,468,936,,no,RAYWELL_CLEAN,59
+RAY-0059,Raywell,"Perm 2, RD515",Біо завивка,250 мл,Italy,468,936,,no,RAYWELL_CLEAN,60
+RAY-0060,Raywell,"Закріплювач міні , RD516",Біо завивка,500 ml,Italy,260,520,,no,RAYWELL_CLEAN,61
+RAY-0061,Raywell,"X16 Незмивний молекулярний праймер, RR500",Biomimetic Reconstruction Technology,150 мл,Italy,456.55999999999995,913.1199999999999,,no,RAYWELL_CLEAN,62
+RAY-0062,Raywell,"X17 Молекулярна маска, RR501",Biomimetic Reconstruction Technology,150 мл,Italy,565.76,1131.52,,no,RAYWELL_CLEAN,63
+RAY-0063,Raywell,"X19 Спрей з полімерами, RR503",Biomimetic Reconstruction Technology,100 мл,Italy,474.76000000000005,949.5200000000001,,no,RAYWELL_CLEAN,64
+RAY-0064,Raywell,"Шампунь жіночий проти випадіння волосся, RR330",Натуральна серія ВІО,250 мл,Italy,374.40000000000003,748.8000000000001,,no,RAYWELL_CLEAN,65
+RAY-0065,Raywell,"Шампунь жіночий проти випадіння волосся, RR331",Натуральна серія ВІО,1 л,Italy,728,1456,,no,RAYWELL_CLEAN,66
+RAY-0066,Raywell,"Шампунь чоловічий проти випадіння волосся, RR332",Натуральна серія ВІО,250 мл,Italy,374.40000000000003,748.8000000000001,,no,RAYWELL_CLEAN,67
+RAY-0067,Raywell,"Шампунь чоловічий проти випадіння волосся, RR333",Натуральна серія ВІО,1 л,Italy,696.8000000000001,1393.6000000000001,,no,RAYWELL_CLEAN,68
+RAY-0068,Raywell,"Ампули проти випадіння волосся для жінок, RR334",Натуральна серія ВІО,10 штук,Italy,837.2,1674.4,,no,RAYWELL_CLEAN,69
+RAY-0069,Raywell,"Ампули проти випадіння волосся для чоловіків, RR335",Натуральна серія ВІО,10 штук,Italy,837.2,1674.4,,no,RAYWELL_CLEAN,70
+RAY-0070,Raywell,"Активуючий лосьйон проти випадіння волосся, RR336",Натуральна серія ВІО,100 мл,Italy,707.1999999999999,1414.3999999999999,,no,RAYWELL_CLEAN,71
+RAY-0071,Raywell,"Лосьйон проти лупи, RR337",Натуральна серія ВІО,100 мл,Italy,707.1999999999999,1414.3999999999999,,no,RAYWELL_CLEAN,72
+RAY-0072,Raywell,"Лосьйон нормалізуючий , RR338",Натуральна серія ВІО,100 мл,Italy,707.1999999999999,1414.3999999999999,,no,RAYWELL_CLEAN,73
+RAY-0073,Raywell,"Шампунь проти лупи, RR340",Натуральна серія ВІО,250 мл,Italy,395.2,790.4,,no,RAYWELL_CLEAN,74
+RAY-0074,Raywell,"Шампунь проти лупи, RR339",Натуральна серія ВІО,1 л,Italy,826.8000000000001,1653.6000000000001,,no,RAYWELL_CLEAN,75
+RAY-0075,Raywell,"Шампунь нормалізуючий , RR342",Натуральна серія ВІО,250 мл,Italy,374.40000000000003,748.8000000000001,,yes,RAYWELL_CLEAN,76
+RAY-0076,Raywell,"Шампунь нормалізуючий , RR341",Натуральна серія ВІО,1 л,Italy,733.1999999999999,1466.3999999999999,,yes,RAYWELL_CLEAN,77
+RAY-0077,Raywell,"Шампунь зволожуючий , RR344",Натуральна серія ВІО,250 мл,Italy,374.40000000000003,748.8000000000001,,yes,RAYWELL_CLEAN,78
+RAY-0078,Raywell,"Шампунь зволожуючий, RR343",Натуральна серія ВІО,1 л,Italy,759.1999999999999,1518.3999999999999,,yes,RAYWELL_CLEAN,79
+RAY-0079,Raywell,"Маска зволожуюча, RR346",Натуральна серія ВІО,250 мл,Italy,353.59999999999997,707.1999999999999,,yes,RAYWELL_CLEAN,80
+RAY-0080,Raywell,"Маска зволожуюча, RR345",Натуральна серія ВІО,1 л,Italy,764.4,1528.8,,yes,RAYWELL_CLEAN,81
+RAY-0081,Raywell,"Ампули РЕКОНСТРУКЦІЯ ВІО, RR353",Натуральна серія ВІО,10 штук,Italy,858,1716,,no,RAYWELL_CLEAN,82
+RAY-0082,Raywell,"Шампунь для щоденного користування, RR349",Натуральна серія ВІО,250 мл,Italy,374.40000000000003,748.8000000000001,,yes,RAYWELL_CLEAN,83
+RAY-0083,Raywell,"Шампунь для щоденного користування, RR348",Натуральна серія ВІО,1 л,Italy,702,1404,,yes,RAYWELL_CLEAN,84
+RAY-0084,Raywell,"Спрей 2-х фазний об’єм та реконструкція , RR355",Натуральна серія ВІО,250 мл,Italy,468,936,,yes,RAYWELL_CLEAN,85
+RAY-0085,Raywell,"Термоактивний молекулярний репараційний спрей , RV997",Натуральна серія ВІО,250 мл,Italy,474.76000000000005,949.5200000000001,,no,RAYWELL_CLEAN,86
+RAY-0086,Raywell,"Шампунь розгладжуючий, RR358",Натуральна серія ВІО,1 л,Italy,702,1404,,no,RAYWELL_CLEAN,87
+RAY-0087,Raywell,"Шампунь розгладжуючий, RR357",Натуральна серія ВІО,250 мл,Italy,353.59999999999997,707.1999999999999,,no,RAYWELL_CLEAN,88
+RAY-0088,Raywell,"Шампунь розгладжуючий, RR382",Натуральна серія ВІО,100 мл,Italy,286,572,,no,RAYWELL_CLEAN,89
+RAY-0089,Raywell,"Кондиціонер розгладжуючий, RR364",Натуральна серія ВІО,1 л,Italy,728,1456,,yes,RAYWELL_CLEAN,90
+RAY-0090,Raywell,"Кондиціонер розгладжуючий, RR359",Натуральна серія ВІО,250 мл,Italy,374.40000000000003,748.8000000000001,,yes,RAYWELL_CLEAN,91
+RAY-0091,Raywell,"Кондиціонер розгладжуючий, RR383",Натуральна серія ВІО,100 мл,Italy,286,572,,no,RAYWELL_CLEAN,92
+RAY-0092,Raywell,"Стайлер для розгладження волосся, RR386",Натуральна серія ВІО,200 ml,Italy,457.6,915.2,,no,RAYWELL_CLEAN,93
+RAY-0093,Raywell,"Стайлер для розгладження волосся, RR384",Натуральна серія ВІО,100 ml,Italy,286,572,,no,RAYWELL_CLEAN,94
+RAY-0094,Raywell,"Крем 10 в 1, RR367",Натуральна серія ВІО,200 мл,Italy,509.6,1019.2,,yes,RAYWELL_CLEAN,95
+RAY-0095,Raywell,"Реконструктор кактус, RR368",Натуральна серія ВІО,250 мл,Italy,624,1248,,yes,RAYWELL_CLEAN,96
+RAY-0096,Raywell,"Скраб для шкіри голови, RR365",Натуральна серія ВІО,250 мл,Italy,494,988,,no,RAYWELL_CLEAN,97
+RAY-0097,Raywell,"Крем потрійної дії, RR354",Натуральна серія ВІО,250 мл,Italy,561.6,1123.2,,no,RAYWELL_CLEAN,98
+RAY-0098,Raywell,"NO ORANGE Шампунь, RR487",Серія NO ORANGE,1л,Italy,691.6,1383.2,,no,RAYWELL_CLEAN,99
+RAY-0099,Raywell,"BOTO 24K набір міні D109(шампунь, філер, відновлюючий крем)., RR475",24 карати БОТОКС,3х150,Italy,1222,2444,,yes,RAYWELL_CLEAN,100
+RAY-0100,Raywell,"Флюїд для кучерявого волосся, RM117",Mode Styling,250 мл,Italy,390,780,,no,RAYWELL_CLEAN,101
+MAIS-0001,MAIS,Зволожуючий шампунь для волосся HYDRATION HAIR TREATMENT SHAMPOO,Shampoo,300 ml,Spain,790.0,1380.0,1380.0,yes,MAIS_CLEAN,2
+MAIS-0002,MAIS,Зволожуючий шампунь для волосся HYDRATION HAIR TREATMENT SHAMPOO,Shampoo,500 ml,Spain,990.0,1720.0,1720.0,yes,MAIS_CLEAN,3
+MAIS-0003,MAIS,Відновлюючий шампунь для волосся REVIVE HAIR TREATMENT SHAMPOO,Shampoo,300 ml,Spain,790.0,1380.0,1380.0,yes,MAIS_CLEAN,4
+MAIS-0004,MAIS,Відновлюючий шампунь для волосся REVIVE HAIR TREATMENT SHAMPOO,Shampoo,500 ml,Spain,990.0,1720.0,1720.0,yes,MAIS_CLEAN,5
+MAIS-0005,MAIS,Шампунь для об'єму волосся VOLUME UP HAIR TREATMENT SHAMPOO,Shampoo,300 ml,Spain,860.0,1500.0,1500.0,yes,MAIS_CLEAN,6
+MAIS-0006,MAIS,Шампунь для об'єму волосся VOLUME UP HAIR TREATMENT SHAMPOO,Shampoo,500 ml,Spain,1060.0,1840.0,1840.0,yes,MAIS_CLEAN,7
+MAIS-0007,MAIS,Відновлюючий кондиціонер для волосся REVIVE HAIR TREATMENT CONDITIONER,Conditioner,300 ml,Spain,790.0,1380.0,1380.0,yes,MAIS_CLEAN,8
+MAIS-0008,MAIS,Відновлюючий кондиціонер для волосся REVIVE HAIR TREATMENT CONDITIONER,Conditioner,500 ml,Spain,990.0,1720.0,1720.0,yes,MAIS_CLEAN,9
+MAIS-0009,MAIS,Маска для миттєвого відновлення волосся INSTANT HAIR RECOVER MASK,Mask,250 ml,Spain,900.0,1560.0,1560.0,yes,MAIS_CLEAN,10
+MAIS-0010,MAIS,Маска для миттєвого відновлення волосся INSTANT HAIR RECOVER MASK,Mask,500 ml,Spain,1060.0,1840.0,1840.0,yes,MAIS_CLEAN,11
+MAIS-0011,MAIS,Маска для надання об’єму волоссю VOLUME UP HAIR TREATMENT MASK,Mask,250 ml,Spain,750.0,1300.0,1300.0,yes,MAIS_CLEAN,12
+MAIS-0012,MAIS,Маска для надання об’єму волоссю VOLUME UP HAIR TREATMENT MASK,Mask,500 ml,Spain,1130.0,1960.0,1960.0,yes,MAIS_CLEAN,13
+MAIS-0013,MAIS,Інтенсивна відновлююча маска DEEP INTENSIVE RECONSTRUCTION MASK,Mask,250 ml,Spain,660.0,1150.0,1150.0,yes,MAIS_CLEAN,14
+MAIS-0014,MAIS,Інтенсивна відновлююча маска DEEP INTENSIVE RECONSTRUCTION MASK,Mask,500 ml,Spain,990.0,1720.0,1720.0,yes,MAIS_CLEAN,15
+MAIS-0015,MAIS,Відновлюючий еліксир для волосся REVIVE ELIXIR HAIR TREATMENT,Elixir,250 ml,Spain,630.0,1100.0,1100.0,yes,MAIS_CLEAN,16
+MAIS-0016,MAIS,Шовкова олія для волосся SILK OIL,Oil,50 ml,Spain,600.0,1040.0,1040.0,yes,MAIS_CLEAN,17
+DARE-0001,DARE,Амінокислотний крем-термозахист для волосся DARE Carbon,Thermoprotection,100 ml,Ukraine,343.0,490.0,490.0,yes,DARE_CLEAN,2
+DARE-0002,DARE,Амінокислотний крем-термозахист для волосся DARE Carbon,Thermoprotection,50 ml,Ukraine,245.0,350.0,350.0,yes,DARE_CLEAN,3
+DARE-0003,DARE,Зволожуючий бальзам для губ Dare,Lips,-,Ukraine,77.0,110.0,110.0,no,DARE_CLEAN,4
+DARE-0004,DARE,Кондиціонер для волосся DARE Nutrition Hydration Smoothing,Conditioner,250 ml,Ukraine,490.0,700.0,700.0,yes,DARE_CLEAN,5
+DARE-0005,DARE,Маска для волосся DARE Lithium,Mask,250 ml,Ukraine,595.0,850.0,850.0,yes,DARE_CLEAN,6
+DARE-0006,DARE,Парфумований спрей для волосся DARE,Spray,200 ml,Ukraine,525.0,750.0,750.0,no,DARE_CLEAN,7
+DARE-0007,DARE,Шампунь для волосся Dare Carbon — Shampoo for Sebum Balance,Shampoo,200 ml,Ukraine,343.0,490.0,490.0,yes,DARE_CLEAN,8
+DARE-0008,DARE,Шампунь для волосся Dare Carbon — Shampoo for Sebum Balance,Shampoo,400 ml,Ukraine,595.0,850.0,850.0,yes,DARE_CLEAN,9
+DARE-0009,DARE,Шампунь для волосся DARE Nutrition Hydration Smoothing,Shampoo,250 ml,Ukraine,490.0,700.0,700.0,yes,DARE_CLEAN,10
+OLOR-0001,Olorchee,Шампунь для живлення та зволоження волосся Nourshing Moisture Extra Moist,Shampoo,10 ml,Italy,15.0,30.0,30.0,no,OLORCHEE_CLEAN,2
+OLOR-0002,Olorchee,Шампунь для живлення та зволоження волосся Nourshing Moisture Extra Moist,Shampoo,80 ml,Italy,230.0,400.0,400.0,yes,OLORCHEE_CLEAN,3
+OLOR-0003,Olorchee,Шампунь для живлення та зволоження волосся Nourshing Moisture Extra Moist,Shampoo,300 ml,Italy,470.0,820.0,820.0,yes,OLORCHEE_CLEAN,4
+OLOR-0004,Olorchee,Шампунь для живлення та зволоження волосся Nourshing Moisture Extra Moist,Shampoo,800 ml,Italy,1070.0,1860.0,1860.0,yes,OLORCHEE_CLEAN,5
+OLOR-0005,Olorchee,Шампунь для живлення та зволоження волосся Nourshing Moisture Extra Moist,Shampoo,4000 ml,Italy,3335.0,5800.0,5800.0,no,OLORCHEE_CLEAN,6
+OLOR-0006,Olorchee,Шампунь проти лупи Anti Dandruff Shampoo,Shampoo,80 ml,Italy,160.0,280.0,280.0,no,OLORCHEE_CLEAN,7
+OLOR-0007,Olorchee,Шампунь проти лупи Anti Dandruff Shampoo,Shampoo,300 ml,Italy,470.0,820.0,820.0,yes,OLORCHEE_CLEAN,8
+OLOR-0008,Olorchee,Шампунь проти лупи Anti Dandruff Shampoo,Shampoo,800 ml,Italy,1070.0,1860.0,1860.0,yes,OLORCHEE_CLEAN,9
+OLOR-0009,Olorchee,Шампунь для жирного волосся Anti Grease Shampoo,Shampoo,10 ml,Italy,15.0,30.0,30.0,no,OLORCHEE_CLEAN,10
+OLOR-0010,Olorchee,Шампунь для жирного волосся Anti Grease Shampoo,Shampoo,80 ml,Italy,230.0,400.0,400.0,no,OLORCHEE_CLEAN,11
+OLOR-0011,Olorchee,Шампунь для жирного волосся Anti Grease Shampoo,Shampoo,300 ml,Italy,470.0,820.0,820.0,yes,OLORCHEE_CLEAN,12
+OLOR-0012,Olorchee,Шампунь для жирного волосся Anti Grease Shampoo,Shampoo,800 ml,Italy,1070.0,1860.0,1860.0,yes,OLORCHEE_CLEAN,13
+OLOR-0013,Olorchee,Освіжаючий шампунь Ice Cool Shampoo,Shampoo,10 ml,Italy,20.0,40.0,40.0,no,OLORCHEE_CLEAN,14
+OLOR-0014,Olorchee,Освіжаючий шампунь Ice Cool Shampoo,Shampoo,300 ml,Italy,600.0,1040.0,1040.0,yes,OLORCHEE_CLEAN,15
+OLOR-0015,Olorchee,Освіжаючий шампунь Ice Cool Shampoo,Shampoo,800 ml,Italy,1115.0,1940.0,1940.0,yes,OLORCHEE_CLEAN,16
+OLOR-0016,Olorchee,Кондиціонер для живлення волосся Nutrient Nourishing Conditioner,Conditioner,10 ml,Italy,15.0,30.0,30.0,no,OLORCHEE_CLEAN,17
+OLOR-0017,Olorchee,Кондиціонер для живлення волосся Nutrient Nourishing Conditioner,Conditioner,300 ml,Italy,575.0,1000.0,1000.0,yes,OLORCHEE_CLEAN,18
+OLOR-0018,Olorchee,Кондиціонер для живлення волосся Nutrient Nourishing Conditioner,Conditioner,800 ml,Italy,1060.0,1840.0,1840.0,yes,OLORCHEE_CLEAN,19
+OLOR-0019,Olorchee,Кондиціонер для живлення волосся Nutrient Nourishing Conditioner,Conditioner,4000 ml,Italy,3335.0,5800.0,5800.0,no,OLORCHEE_CLEAN,20
+OLOR-0020,Olorchee,Експрес-догляд для відновлення волосся Recovery Cream One Minute Repair,Treatment,50 ml,Italy,90.0,160.0,160.0,no,OLORCHEE_CLEAN,21
+OLOR-0021,Olorchee,Експрес-догляд для відновлення волосся Recovery Cream One Minute Repair,Treatment,80 ml,Italy,195.0,340.0,340.0,no,OLORCHEE_CLEAN,22
+OLOR-0022,Olorchee,Експрес-догляд для відновлення волосся Recovery Cream One Minute Repair,Treatment,300 ml,Italy,630.0,1100.0,1100.0,yes,OLORCHEE_CLEAN,23
+OLOR-0023,Olorchee,Експрес-догляд для відновлення волосся Recovery Cream One Minute Repair,Treatment,800 ml,Italy,1190.0,2070.0,2070.0,yes,OLORCHEE_CLEAN,24
+OLOR-0024,Olorchee,Незмивний крем для кучерявого волосся Miracle Wave Creme,Leave-In,280 ml,Italy,575.0,1000.0,1000.0,yes,OLORCHEE_CLEAN,25
+OLOR-0025,Olorchee,Спрей-сироватка з маслом аргани Miracle Hair Serum,Serum,220 ml,Italy,575.0,1000.0,1000.0,yes,OLORCHEE_CLEAN,26
+OLOR-0026,Olorchee,Олія макадамії Miracle Macadamia Oil,Oil,50 ml,Italy,575.0,1000.0,1000.0,yes,OLORCHEE_CLEAN,27
+OLOR-0027,Olorchee,Маска для глибокого відновлення волосся Hair Treatment Deep Repair,Mask,10 ml,Italy,15.0,30.0,30.0,no,OLORCHEE_CLEAN,28
+OLOR-0028,Olorchee,Маска для глибокого відновлення волосся Hair Treatment Deep Repair,Mask,50 ml,Italy,80.0,140.0,140.0,no,OLORCHEE_CLEAN,29
+OLOR-0029,Olorchee,Маска для глибокого відновлення волосся Hair Treatment Deep Repair,Mask,500 ml,Italy,790.0,1380.0,1380.0,yes,OLORCHEE_CLEAN,30
+OLOR-0030,Olorchee,Маска для глибокого відновлення волосся Hair Treatment Deep Repair,Mask,1000 ml,Italy,1430.0,2480.0,2480.0,yes,OLORCHEE_CLEAN,31
+OLOR-0031,Olorchee,Маска для інтенсивного зволоження волосся Hydro Spa,Mask,500 ml,Italy,950.0,1660.0,1660.0,yes,OLORCHEE_CLEAN,32
+OLOR-0032,Olorchee,Маска для інтенсивного зволоження волосся Hydro Spa,Mask,1000 ml,Italy,1590.0,2760.0,2760.0,yes,OLORCHEE_CLEAN,33
+OLOR-0033,Olorchee,Незмивна живильна маска Intensive Nourising Leave In,Leave-In,10 ml,Italy,15.0,30.0,30.0,no,OLORCHEE_CLEAN,34
+OLOR-0034,Olorchee,Незмивна живильна маска Intensive Nourising Leave In,Leave-In,250 ml,Italy,450.0,780.0,780.0,yes,OLORCHEE_CLEAN,35
+OLOR-0035,Olorchee,Лосьйон для пошкодженого волосся Hair Essence Lotion,Lotion,30 ml,Italy,85.0,150.0,150.0,yes,OLORCHEE_CLEAN,36
+OLOR-0036,Olorchee,Лосьйон для пошкодженого волосся Hair Essence Lotion,Lotion,30 ml * 24,Italy,2010.0,3500.0,3500.0,yes,OLORCHEE_CLEAN,37
+OLOR-0037,Olorchee,Захист шкіри голови Scalp Protector,Scalp Care,100 ml,Italy,410.0,720.0,720.0,yes,OLORCHEE_CLEAN,38
+OLOR-0038,Olorchee,Засіб для збереження кольору волосся Color Save Infusion,Color Care,10 ml * 10,Italy,1265.0,2200.0,2200.0,yes,OLORCHEE_CLEAN,39
+MS-0001,Milk Shake,МЕЙК МАЙ ДЕЙ Шампунь пом'якшуючий,Shampoo,1000 ml,Italy,1203.84,2046.53,2046.53,yes,MILK_SHAKE_CLEAN,2
+MS-0002,Milk Shake,МЕЙК МАЙ ДЕЙ Шампунь пом'якшуючий,Shampoo,300 ml,Italy,580.8,987.36,987.36,yes,MILK_SHAKE_CLEAN,3
+MS-0003,Milk Shake,МЕЙК МАЙ ДЕЙ Шампунь пом'якшуючий,Shampoo,50 ml,Italy,271.92,462.26,462.26,no,MILK_SHAKE_CLEAN,4
+MS-0004,Milk Shake,МЕЙК МАЙ ДЕЙ Кондиціонер пом'якшуючий,Conditioner,1000 ml,Italy,1543.86,2632.21,2632.21,yes,MILK_SHAKE_CLEAN,5
+MS-0005,Milk Shake,МЕЙК МАЙ ДЕЙ Кондиціонер пом'якшуючий,Conditioner,250 ml,Italy,613.8,1043.46,1043.46,yes,MILK_SHAKE_CLEAN,6
+MS-0006,Milk Shake,МЕЙК МАЙ ДЕЙ Кондиціонер пом'якшуючий,Conditioner,50 ml,Italy,249.48,424.12,424.12,no,MILK_SHAKE_CLEAN,7
+MS-0007,Milk Shake,МЕЙК МАЙ ДЕЙ ЛІВ-ІН Крем-пінка незмивна для зволоження волосся,Leave-In,200 ml,Italy,567.6,964.92,964.92,yes,MILK_SHAKE_CLEAN,8
+MS-0012,Milk Shake,МЕЙК МАЙ ДЕЙ Освіжувач повітря,Styling,100 ml,Italy,587.4,998.58,998.58,no,MILK_SHAKE_CLEAN,9
+MS-0013,Milk Shake,Мейк май дей ГОУ ПІНК Шампунь,Shampoo,300 ml,Italy,580.8,987.3,987.3,yes,MILK_SHAKE_CLEAN,10
+MS-0014,Milk Shake,Мейк май дей ГОУ ПІНК Кондиціонер,Conditioner,300 ml,Italy,613.8,1043.6,1043.6,yes,MILK_SHAKE_CLEAN,11
+MS-0015,Milk Shake,Мейк май дей ГОУ ПІНК Крем-пінка незмивна для зволоження волосся,Leave-In,200 ml,Italy,567.6,964.9,964.9,yes,MILK_SHAKE_CLEAN,12
+MS-0016,Milk Shake,ІНКРЕДІБЛ МІЛК Молочко 12 ефектів для всіх типів волосся,Leave-In,150 ml,Italy,611.1,1038.9,1038.9,yes,MILK_SHAKE_CLEAN,13
+MS-0017,Milk Shake,ІНКРЕДІБЛ МІЛК Молочко 12 ефектів для всіх типів волосся,Leave-In,50 ml,Italy,294.3,500.4,500.4,no,MILK_SHAKE_CLEAN,14
+MS-0018,Milk Shake,ЛІВ-ІН Кондиціонер Незмивний для зволоження волосся,Conditioner,350 ml,Italy,493.6,839.2,839.2,yes,MILK_SHAKE_CLEAN,15
+MS-0019,Milk Shake,ЛІВ-ІН Кондиціонер Незмивний для зволоження волосся (MINI),Conditioner,75 ml,Italy,204.6,347.8,347.8,no,MILK_SHAKE_CLEAN,16
+MS-0020,Milk Shake,ЛІВ-ІН Крем-пінка незмивна для зволоження волосся,Leave-In,50 ml,Italy,269.2,457.6,457.6,no,MILK_SHAKE_CLEAN,17
+MS-0021,Milk Shake,ІНКРЕДІБЛ ОЛ Олійка незмивна,Oil,50 ml,Italy,1003.2,1705.4,1705.4,yes,MILK_SHAKE_CLEAN,18
+MS-0022,Milk Shake,ІНКРЕДІБЛ Сироватка для зволоження для всіх типів волосся,Serum,50 ml,Italy,1024.2,1741.3,1741.3,yes,MILK_SHAKE_CLEAN,19
+MS-0024,Milk Shake,КОЛОР Шампунь для фарбованого волосся,Shampoo,1000 ml,Italy,893.6,1519.9,1519.9,yes,MILK_SHAKE_CLEAN,20
+MS-0025,Milk Shake,КОЛОР Шампунь для фарбованого волосся,Shampoo,300 ml,Italy,432.9,736.03,736.03,yes,MILK_SHAKE_CLEAN,21
+MS-0026,Milk Shake,КОЛОР Шампунь для фарбованого волосся,Shampoo,50 ml,Italy,201.9,343.3,343.3,no,MILK_SHAKE_CLEAN,22
+MS-0027,Milk Shake,КОЛОР Шампунь для фарбованого волосся безсульфатний,Shampoo,1000 ml,Italy,1265.8,2152.0,2152.0,yes,MILK_SHAKE_CLEAN,23
+MS-0028,Milk Shake,КОЛОР Шампунь для фарбованого волосся безсульфатний,Shampoo,300 ml,Italy,541.2,920.04,920.04,yes,MILK_SHAKE_CLEAN,24
+MS-0029,Milk Shake,КОЛОР Кондиціонер для фарбованого волосся,Conditioner,1000 ml,Italy,1025.6,1743.5,1743.5,yes,MILK_SHAKE_CLEAN,25
+MS-0030,Milk Shake,КОЛОР Кондиціонер для фарбованого волосся,Conditioner,300 ml,Italy,446.1,758.4,758.4,yes,MILK_SHAKE_CLEAN,26
+MS-0031,Milk Shake,КОЛОР Кондиціонер для фарбованого волосся,Conditioner,50 ml,Italy,248.1,421.8,421.8,no,MILK_SHAKE_CLEAN,27
+MS-0032,Milk Shake,КОЛОР Маска для фарбованого волосся,Mask,200 ml,Italy,595.3,1012.04,1012.04,yes,MILK_SHAKE_CLEAN,28
+MS-0033,Milk Shake,КОЛОР Маска для фарбованого волосся,Mask,500 ml,Italy,1364.8,2320.3,2320.3,yes,MILK_SHAKE_CLEAN,29
+OLI-0001,Oliere,Кондиціонер для реконструкції волосся Valour OLIE'RE PARIS,Conditioner,500 ml,France,1716.0,2860.0,2860.0,yes,OLIERE_CLEAN,2
+OLI-0002,Oliere,Крем зволожуючий для фарбованого волосся Color E'Clat OLIE'RE PARIS,Cream,500 ml,France,1554.0,2590.0,2590.0,yes,OLIERE_CLEAN,3
+OLI-0003,Oliere,Спрей-маска незмивна для нормального та сухого волосся Ordinaire OLIE'RE PARIS,Leave-In,300 ml,France,1590.0,2650.0,2650.0,yes,OLIERE_CLEAN,4
+OLI-0004,Oliere,Спрей-маска незмивна для реконструкції волосся Valour OLIE'RE PARIS,Leave-In,300 ml,France,1590.0,2650.0,2650.0,yes,OLIERE_CLEAN,5
+OLI-0005,Oliere,Спрей-маска незмивна для фарбованого волосся Color E'Clat OLIE'RE PARIS,Leave-In,300 ml,France,1590.0,2650.0,2650.0,yes,OLIERE_CLEAN,6
+OLI-0006,Oliere,Спрей-маска незмивна для хвилястого та кучерявого волосся Hydra Wave OLIE'RE PARIS,Leave-In,300 ml,France,1590.0,2650.0,2650.0,yes,OLIERE_CLEAN,7
+OLI-0007,Oliere,Маска для збереження кольору фарбованого волосся Color E'Clat OLIE'RE PARIS,Mask,500 ml,France,1770.0,2950.0,2950.0,yes,OLIERE_CLEAN,8
+OLI-0008,Oliere,Маска для нейтралізації жовтих та помаранчевих відтінків Color E'Clat Acai OLIE'RE PARIS,Mask,500 ml,France,1770.0,2950.0,2950.0,yes,OLIERE_CLEAN,9
+OLI-0009,Oliere,Маска для нормального та сухого волосся Ordinaire OLIE'RE PARIS,Mask,500 ml,France,1770.0,2950.0,2950.0,yes,OLIERE_CLEAN,10
+OLI-0010,Oliere,Маска для реконструкції волосся Valour OLIE'RE PARIS,Mask,500 ml,France,1770.0,2950.0,2950.0,yes,OLIERE_CLEAN,11
+OLI-0011,Oliere,Маска зволожуюча для кучерявого волосся Hydra Wave OLIE'RE PARIS,Mask,500 ml,France,1770.0,2950.0,2950.0,yes,OLIERE_CLEAN,12
+OLI-0012,Oliere,Сироватка для нормального та сухого волосся Ordinaire OLIE'RE PARIS,Serum,150 ml,France,1716.0,2860.0,2860.0,yes,OLIERE_CLEAN,13
+OLI-0013,Oliere,Сироватка для реконструкції волосся Valour OLIE'RE PARIS,Serum,150 ml,France,1716.0,2860.0,2860.0,yes,OLIERE_CLEAN,14
+OLI-0014,Oliere,Сироватка для фарбованого волосся Color E'Clat OLIE'RE PARIS,Serum,150 ml,France,1716.0,2860.0,2860.0,yes,OLIERE_CLEAN,15
+OLI-0015,Oliere,Сироватка для хвилястого та кучерявого волосся Hydra Wave OLIE'RE PARIS,Serum,150 ml,France,1716.0,2860.0,2860.0,yes,OLIERE_CLEAN,16
+OLI-0016,Oliere,Шампунь безсольовий для кучерявого волосся Hydra Wave OLIE'RE PARIS,Shampoo,500 ml,France,1482.0,2470.0,2470.0,yes,OLIERE_CLEAN,17
+OLI-0017,Oliere,Шампунь для збереження кольору фарбованого волосся Color E'Clat OLIE'RE PARIS,Shampoo,500 ml,France,1482.0,2470.0,2470.0,yes,OLIERE_CLEAN,18
+OLI-0018,Oliere,Шампунь для нейтралізації жовтих та помаранчевих відтінків Color E'Clat Acai OLIE'RE PARIS,Shampoo,500 ml,France,1482.0,2470.0,2470.0,yes,OLIERE_CLEAN,19
+OLI-0019,Oliere,Шампунь для реконструкції волосся Valour OLIE'RE PARIS,Shampoo,500 ml,France,1482.0,2470.0,2470.0,yes,OLIERE_CLEAN,20
+OLI-0020,Oliere,Шампунь проти лупи Color E'Clat OLIE'RE PARIS,Shampoo,500 ml,France,1482.0,2470.0,2470.0,yes,OLIERE_CLEAN,21
+OLI-0021,Oliere,Шампунь для нормального та сухого волосся Ordinaire OLIE'RE PARIS,Shampoo,500 ml,France,1482.0,2470.0,2470.0,yes,OLIERE_CLEAN,22
+DPL-0001,Deeply,Скраб-мікропілінг для шкіри голови,Scalp Scrub,300 ml,Ukraine,220.0,440.0,440.0,yes,DEEPLY_CLEAN,2
+DPL-0002,Deeply,Освіжаючий пілінг для шкіри голови,Scalp Peeling,200 ml,Ukraine,320.0,640.0,640.0,yes,DEEPLY_CLEAN,3
+DPL-0003,Deeply,Безсульфатний шампунь,Shampoo,1000 ml,Ukraine,600.0,1200.0,1200.0,yes,DEEPLY_CLEAN,4
+DPL-0004,Deeply,Безсульфатний шампунь,Shampoo,250 ml,Ukraine,180.0,360.0,360.0,yes,DEEPLY_CLEAN,5
+DPL-0005,Deeply,Зволожуючий шампунь,Shampoo,1000 ml,Ukraine,550.0,1100.0,1100.0,yes,DEEPLY_CLEAN,6
+DPL-0006,Deeply,Зволожуючий шампунь,Shampoo,250 ml,Ukraine,160.0,320.0,320.0,yes,DEEPLY_CLEAN,7
+DPL-0007,Deeply,Нормалізуючий шампунь,Shampoo,1000 ml,Ukraine,550.0,1100.0,1100.0,yes,DEEPLY_CLEAN,8
+DPL-0008,Deeply,Нормалізуючий шампунь,Shampoo,250 ml,Ukraine,160.0,320.0,320.0,yes,DEEPLY_CLEAN,9
+DPL-0009,Deeply,Зволожуючий кондиціонер,Conditioner,1000 ml,Ukraine,550.0,1100.0,1100.0,yes,DEEPLY_CLEAN,10
+DPL-0010,Deeply,Зволожуючий кондиціонер,Conditioner,250 ml,Ukraine,170.0,340.0,340.0,yes,DEEPLY_CLEAN,11
+DPL-0011,Deeply,Відновлюючий кондиціонер,Conditioner,1000 ml,Ukraine,550.0,1100.0,1100.0,yes,DEEPLY_CLEAN,12
+DPL-0012,Deeply,Відновлюючий кондиціонер,Conditioner,250 ml,Ukraine,170.0,340.0,340.0,yes,DEEPLY_CLEAN,13
+DPL-0013,Deeply,Спрей-термозахист 10 в 1,Leave-In,200 ml,Ukraine,270.0,540.0,540.0,yes,DEEPLY_CLEAN,14
+DPL-0014,Deeply,Сольовий спрей,Styling,200 ml,Ukraine,170.0,340.0,340.0,yes,DEEPLY_CLEAN,15
+DPL-0015,Deeply,Шовковий флюїд,Hair Oil,100 ml,Ukraine,270.0,540.0,540.0,yes,DEEPLY_CLEAN,16
+DPL-0016,Deeply,Зволожуюча маска,Mask,1000 ml,Ukraine,550.0,1100.0,1100.0,yes,DEEPLY_CLEAN,17
+DPL-0017,Deeply,Зволожуюча маска,Mask,300 ml,Ukraine,220.0,440.0,440.0,yes,DEEPLY_CLEAN,18
+DPL-0018,Deeply,Відновлююча маска,Mask,1000 ml,Ukraine,650.0,1300.0,1300.0,yes,DEEPLY_CLEAN,19
+DPL-0019,Deeply,Відновлююча маска,Mask,300 ml,Ukraine,250.0,500.0,500.0,yes,DEEPLY_CLEAN,20
+DPL-0020,Deeply,Глянцева маска,Mask,1000 ml,Ukraine,790.0,1580.0,1580.0,yes,DEEPLY_CLEAN,21
+DPL-0021,Deeply,Глянцева маска,Mask,300 ml,Ukraine,330.0,660.0,660.0,yes,DEEPLY_CLEAN,22
+DPL-0022,Deeply,Шампунь глибокого очищення pH 6.5,Deep Clean Shampoo,1000 ml,Ukraine,390.0,450.0,450.0,yes,DEEPLY_CLEAN,23
+DPL-0023,Deeply,Шампунь глибокого очищення pH 7.3,Deep Clean Shampoo,1000 ml,Ukraine,390.0,450.0,450.0,yes,DEEPLY_CLEAN,24
+DPL-0024,Deeply,Шампунь глибокого очищення pH 8.0,Deep Clean Shampoo,1000 ml,Ukraine,390.0,450.0,450.0,yes,DEEPLY_CLEAN,25
+DPL-0025,Deeply,Амінокислотний спрей-реконструктор,Reconstruction,200 ml,Ukraine,580.0,680.0,680.0,yes,DEEPLY_CLEAN,26
+DPL-0026,Deeply,Ліпідний бустер для реконструкції,Reconstruction,100 ml,Ukraine,400.0,550.0,550.0,yes,DEEPLY_CLEAN,27
+DPL-0027,Deeply,Протеїновий бустер для реконструкції,Reconstruction,100 ml,Ukraine,400.0,550.0,550.0,yes,DEEPLY_CLEAN,28
+DPL-0028,Deeply,Нано-розпилювач,Accessory,1 шт,Ukraine,650.0,950.0,950.0,yes,DEEPLY_CLEAN,29
+DPL-0029,Deeply,Амінокислотна маска-підкладка,Cold Recovery,300 ml,Ukraine,890.0,990.0,990.0,yes,DEEPLY_CLEAN,30
+DPL-0030,Deeply,Ліпідна маска-підкладка,Cold Recovery,300 ml,Ukraine,890.0,990.0,990.0,yes,DEEPLY_CLEAN,31
+DPL-0031,Deeply,Протеїнова маска-підкладка,Cold Recovery,300 ml,Ukraine,890.0,990.0,990.0,yes,DEEPLY_CLEAN,32
+DPL-0032,Deeply,Крок 1,Cold Recovery,250 ml,Ukraine,780.0,880.0,880.0,yes,DEEPLY_CLEAN,33
+DPL-0033,Deeply,Крок 2,Cold Recovery,250 ml,Ukraine,780.0,880.0,880.0,yes,DEEPLY_CLEAN,34
+DPL-0034,Deeply,Brilliant Finishing Cream,Hair Cream,200 ml,Ukraine,390.0,780.0,780.0,yes,DEEPLY_CLEAN,35
+DPL-0035,Deeply,Magnetic Chelating Shampoo,Chelating Shampoo,250 ml,Ukraine,240.0,360.0,360.0,yes,DEEPLY_CLEAN,36
+DPL-0036,Deeply,Бальзам для блонду,Blonde,250 ml,Ukraine,160.0,320.0,320.0,yes,DEEPLY_CLEAN,37
+DPL-0037,Deeply,Шампунь для блонду,Blonde,250 ml,Ukraine,160.0,320.0,320.0,yes,DEEPLY_CLEAN,38
+DPL-0038,Deeply,Стимулююча сироватка,Hair Growth,100 ml,Ukraine,340.0,680.0,680.0,yes,DEEPLY_CLEAN,39
+DPL-0039,Deeply,Шампунь для росту волосся,Hair Growth,250 ml,Ukraine,190.0,380.0,380.0,yes,DEEPLY_CLEAN,40
+DPL-0040,Deeply,Відновлюючий шампунь,Recovery,1000 ml,Ukraine,550.0,1100.0,1100.0,yes,DEEPLY_CLEAN,41
+DPL-0041,Deeply,Відновлюючий шампунь,Recovery,250 ml,Ukraine,160.0,320.0,320.0,yes,DEEPLY_CLEAN,42
+DPL-0042,Deeply,Глибокозволожуюча маска,Recovery Mask,1000 ml,Ukraine,1180.0,1480.0,1480.0,yes,DEEPLY_CLEAN,43
+DPL-0043,Deeply,Глибокозволожуюча маска,Recovery Mask,300 ml,Ukraine,400.0,600.0,600.0,yes,DEEPLY_CLEAN,44
+DPL-0044,Deeply,Розгладжуючий кондиціонер,Conditioner,250 ml,Ukraine,210.0,420.0,420.0,yes,DEEPLY_CLEAN,45

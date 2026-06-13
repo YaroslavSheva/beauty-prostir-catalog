@@ -1,0 +1,30 @@
+{
+  "products_total": 1009,
+  "selected_yes": 308,
+  "issues_total": 801,
+  "issues_by_type": {
+    "Extract volume from name": 620,
+    "Normalize product name": 104,
+    "Normalize category": 70,
+    "Missing or technical category": 7
+  },
+  "sheets": {
+    "PRICE_ABRIL_CLEAN": 77,
+    "PRICE_COIFFANCE_CLEAN": 37,
+    "PRICE_ELEA_CLEAN": 99,
+    "PRICE_ERAYBA_CLEAN": 137,
+    "PRICE_GLYNT_CLEAN": 139,
+    "PRICE_GRAHAM_HILL_CLEAN": 25,
+    "PRICE_LOTHMANN_CLEAN": 85,
+    "PRICE_LOVIEN_CLEAN": 36,
+    "ENVIE_CLEAN": 72,
+    "EXTREMO_CLEAN": 46,
+    "RAYWELL_CLEAN": 100,
+    "MAIS_CLEAN": 16,
+    "DARE_CLEAN": 9,
+    "OLORCHEE_CLEAN": 38,
+    "MILK_SHAKE_CLEAN": 28,
+    "OLIERE_CLEAN": 21,
+    "DEEPLY_CLEAN": 44
+  }
+}
