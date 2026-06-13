@@ -179,6 +179,20 @@ h1 {
   letter-spacing: 0;
 }
 
+.hero-title {
+  display: grid;
+  gap: 0.06em;
+}
+
+.hero-title-main {
+  font-size: 1em;
+}
+
+.hero-title-sub {
+  font-size: 0.58em;
+  line-height: 1.05;
+}
+
 h2 {
   margin: 0;
   font-size: clamp(28px, 3.2vw, 40px);
@@ -1382,6 +1396,10 @@ h3 {
 
   h1 {
     font-size: 40px;
+  }
+
+  .hero-title-sub {
+    font-size: 0.62em;
   }
 
   h2,
