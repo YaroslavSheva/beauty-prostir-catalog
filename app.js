@@ -113,25 +113,38 @@ function resolvePhotoUrlForSize(value, size = PRODUCT_CARD_THUMB_SIZE) {
   return raw;
 }
 
-function roundPriceToSeven(value) {
+function roundClientPrice(value) {
   const numeric = Math.round(Number(value) || 0);
   if (numeric <= 0) {
     return 0;
   }
 
-  const rounded = 7 + Math.round((numeric - 7) / 10) * 10;
-  return Math.max(7, rounded);
+  const tensDigit = Math.floor((numeric % 100) / 10);
+  if (tensDigit === 0) {
+    return Math.ceil(numeric / 10) * 10;
+  }
+
+  const rounded = Math.floor(numeric / 10) * 10 + 7;
+  return rounded > numeric ? Math.max(7, rounded - 10) : rounded;
 }
 
 function getClientPrice(product) {
   const purchasePrice = Number(product.purchase_price || product.purchasePrice || 0);
+  const sheetRetailPrice = Number(
+    product.my_retail || product.retail_price || product.retailPrice || 0,
+  );
+
   if (Number.isFinite(purchasePrice) && purchasePrice > 0) {
-    const basePrice = purchasePrice >= 500 ? purchasePrice * 1.5 : purchasePrice;
-    return roundPriceToSeven(basePrice);
+    const basePrice =
+      purchasePrice >= 500
+        ? purchasePrice * 1.5
+        : sheetRetailPrice > 0
+          ? sheetRetailPrice
+          : purchasePrice;
+    return roundClientPrice(basePrice);
   }
 
-  const fallbackPrice = Number(product.my_retail || product.retail_price || 0);
-  return roundPriceToSeven(fallbackPrice);
+  return roundClientPrice(sheetRetailPrice);
 }
 
 function openImageLightbox(src, alt) {
@@ -549,6 +562,7 @@ async function refreshCatalog({ initial = false, silent = true } = {}) {
         tone: "warning",
       });
     }
+    schedulePhotoSync();
   }
 }
 
@@ -1028,6 +1042,7 @@ function init() {
   preventGestureZoom();
 
   applyCatalog(FALLBACK_CATALOG_DATA);
+  refreshCatalog({ initial: true, silent: true }).catch(() => {});
 
   els.grid.addEventListener("click", (event) => {
     const brandButton = event.target.closest("[data-brand-filter]");

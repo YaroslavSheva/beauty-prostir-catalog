@@ -1,5 +1,5 @@
 {
-  "source": "beauty-prostir-latest.xlsx",
+  "source": "investuvannia.xlsx",
   "stats": [
     {
       "sheet": "PRICE_ABRIL_CLEAN",
@@ -429,8 +429,8 @@
           "category": "",
           "name": "Рідина для видалення фарби VIACOLOR SMACCHIATORE, EN396",
           "volume": "250 ml",
-          "purchase_price": 426.4,
-          "retail_price": 852.8,
+          "purchase_price": 434.59999999999997,
+          "retail_price": 869.1999999999999,
           "my_retail": "",
           "photo_url": "no",
           "supplier": "Envie",
@@ -444,8 +444,8 @@
           "category": "Hair Oil",
           "name": "Освітляюча олія, EN341",
           "volume": "500 ml",
-          "purchase_price": 941.2,
-          "retail_price": 1882.4,
+          "purchase_price": 959.3000000000001,
+          "retail_price": 1918.6000000000001,
           "my_retail": "",
           "photo_url": "no",
           "supplier": "Envie",
@@ -459,8 +459,8 @@
           "category": "Кольорові маски",
           "name": "Кольорові маски NEW, EN721 EN722 EN723 EN724 EN725 EN726",
           "volume": "6х150мл, вартість вказана за одну маску",
-          "purchase_price": 561.6,
-          "retail_price": 1123.2,
+          "purchase_price": 572.4000000000001,
+          "retail_price": 1144.8000000000002,
           "my_retail": "",
           "photo_url": "no",
           "supplier": "Envie",
@@ -471,7 +471,7 @@
     },
     {
       "sheet": "EXTREMO_CLEAN",
-      "products": 46,
+      "products": 45,
       "selected_yes": 0,
       "sample": [
         {
@@ -481,8 +481,8 @@
           "category": "Lightening Powder",
           "name": "Освітлююча пудра синя Extremo, EX113",
           "volume": "500 g",
-          "purchase_price": 1092,
-          "retail_price": 1747.1999999999998,
+          "purchase_price": 1113,
+          "retail_price": 1780.8,
           "my_retail": "",
           "photo_url": "no",
           "supplier": "Extremo",
@@ -496,8 +496,8 @@
           "category": "Lightening Powder",
           "name": "Освітлююча пудра біла Extremo, EX114",
           "volume": "500 g",
-          "purchase_price": 832,
-          "retail_price": 1331.2,
+          "purchase_price": 848,
+          "retail_price": 1356.8,
           "my_retail": "",
           "photo_url": "no",
           "supplier": "Extremo",
@@ -511,8 +511,8 @@
           "category": "Lightening Powder",
           "name": "Освітлююча пудра фіолетова Extremo, EX115",
           "volume": "500 g",
-          "purchase_price": 1092,
-          "retail_price": 1747.1999999999998,
+          "purchase_price": 1113,
+          "retail_price": 1780.8,
           "my_retail": "",
           "photo_url": "no",
           "supplier": "Extremo",
@@ -533,8 +533,8 @@
           "category": "",
           "name": "Краплі інтенсивного кольору, RV182",
           "volume": "35 мл",
-          "purchase_price": 1040,
-          "retail_price": 2080,
+          "purchase_price": 1060,
+          "retail_price": 2120,
           "my_retail": "",
           "photo_url": "no",
           "supplier": "Raywell",
@@ -548,8 +548,8 @@
           "category": "Hair Oil",
           "name": "Освітлююча олія, RV185",
           "volume": "500 мл",
-          "purchase_price": 941.2,
-          "retail_price": 1882.4,
+          "purchase_price": 959.3000000000001,
+          "retail_price": 1918.6000000000001,
           "my_retail": "",
           "photo_url": "no",
           "supplier": "Raywell",
@@ -563,8 +563,8 @@
           "category": "Lightening Powder",
           "name": "Висвітлююча пудра фіолетова Deko Violet, RV308",
           "volume": "500 г",
-          "purchase_price": 1092,
-          "retail_price": 2184,
+          "purchase_price": 1113,
+          "retail_price": 2226,
           "my_retail": "",
           "photo_url": "no",
           "supplier": "Raywell",
@@ -1716,7 +1716,7 @@
       "supplier": "Erayba",
       "volume": "200 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/1VPt6ZuRHfMtPFTXag6gipDkWz1mNzfne/view?usp=drive_link"
     },
     {
       "sku": "ERA-0035",
@@ -1731,7 +1731,7 @@
       "supplier": "Erayba",
       "volume": "1000 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/12kKyWN50BU-afJUflGz7OwNNz0XG0hwe/view?usp=drive_link"
     },
     {
       "sku": "ERA-0036",
@@ -1746,7 +1746,7 @@
       "supplier": "Erayba",
       "volume": "250 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/1j3REG0N36INR3uSAgJFd64fQkJ117r0V/view?usp=drive_link"
     },
     {
       "sku": "ERA-0037",
@@ -1761,7 +1761,7 @@
       "supplier": "Erayba",
       "volume": "1000 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/1uvEtVFj-CSGJfrfO-Ae0UtI2HBLs1BXk/view?usp=drive_link"
     },
     {
       "sku": "ERA-0038",
@@ -1776,7 +1776,7 @@
       "supplier": "Erayba",
       "volume": "250 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/1P68REUv-AGnLAqbg1WOykvHII4UbMbTs/view?usp=drive_link"
     },
     {
       "sku": "ERA-0039",
@@ -1791,7 +1791,7 @@
       "supplier": "Erayba",
       "volume": "150 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/1bCepJu3qV7_iGXdXwutGPAlQO9kM5zFL/view?usp=drive_link"
     },
     {
       "sku": "ERA-0040",
@@ -1806,7 +1806,7 @@
       "supplier": "Erayba",
       "volume": "1000 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/1uziqQ1Jia8UNxsBl2SoNj18qBRtGq4UR/view?usp=drive_link"
     },
     {
       "sku": "ERA-0041",
@@ -1821,7 +1821,7 @@
       "supplier": "Erayba",
       "volume": "250 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/134mQvQTDyDqGrLVbiF8xbcV1agmkfUZE/view?usp=drive_link"
     },
     {
       "sku": "ERA-0042",
@@ -1836,7 +1836,7 @@
       "supplier": "Erayba",
       "volume": "1000 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/1UMpY1cgsFUQrlRhWRZ3MvyslyjkyOpOM/view?usp=drive_link"
     },
     {
       "sku": "ERA-0043",
@@ -1851,7 +1851,7 @@
       "supplier": "Erayba",
       "volume": "250 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/1poFuJZxdc4YoRJOKFPLZsl1COYXoRVO6/view?usp=drive_link"
     },
     {
       "sku": "ERA-0044",
@@ -1866,7 +1866,7 @@
       "supplier": "Erayba",
       "volume": "200 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/1YisDCxyNSKRgk5frWcR6g5TI4pCEcVTy/view?usp=drive_link"
     },
     {
       "sku": "ERA-0045",
@@ -1881,7 +1881,7 @@
       "supplier": "Erayba",
       "volume": "1000 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/1xVWCmzM1Xl8ZelxBH6yGFT3mGEfeg4Ws/view?usp=drive_link"
     },
     {
       "sku": "ERA-0046",
@@ -1896,7 +1896,7 @@
       "supplier": "Erayba",
       "volume": "250 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/12TL4QeSeVcF9hho2gDeP69c9dnasiAw0/view?usp=drive_link"
     },
     {
       "sku": "ERA-0047",
@@ -1911,7 +1911,7 @@
       "supplier": "Erayba",
       "volume": "1000 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/1Fk5zBUsjhVaO_4J3PWJUwn-lG5R5kNZ9/view?usp=drive_link"
     },
     {
       "sku": "ERA-0048",
@@ -1926,7 +1926,7 @@
       "supplier": "Erayba",
       "volume": "250 ml",
       "supplier_sku": "",
-      "photo_url": ""
+      "photo_url": "https://drive.google.com/file/d/1C0VQMH0AkijpuhVuXRlXS2YcH2c6eizD/view?usp=drive_link"
     },
     {
       "sku": "ERA-0049",
